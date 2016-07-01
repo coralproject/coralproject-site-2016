@@ -1,6 +1,6 @@
 ---
 title: Journalists
 ---
-#Journalists
+# Journalists
 
 Journalist use case.
