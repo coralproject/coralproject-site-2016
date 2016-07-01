@@ -8,12 +8,12 @@ layout: default
 <h2>Products</h2>
 <ul>
     {% for product in site.products %}
-    <li>{{product.title}}</li>
+    <li><a href={{product.url}}>{{product.title}}</a></li>
     {% endfor %}
 </ul>
 <h2>Users</h2>
 <ul>
     {% for user in site.users  %}
-    <li>{{user.title}}</li>
+    <li><a href={{user.url}}>{{user.title}}</a></li>
     {% endfor %}
 </div>

@@ -1,5 +1,7 @@
 ---
 title: Journalists
+layout: default
+permalink: /users/journalists
 ---
 # Journalists
 

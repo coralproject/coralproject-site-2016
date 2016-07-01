@@ -1,5 +1,7 @@
 ---
 title: Ask
+layout: default
+permalink: /products/ask
 ---
 # Ask Product Page
 
