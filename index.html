@@ -2,23 +2,24 @@
 layout: default
 ---
 
-<div class="home">
-<h1>The Coral Project</h1>
-<p>Because journalism needs everyone</p>
+<div>
+    <h1>The Coral Project</h1>
+    <p>Because journalism needs everyone</p>
 </div>
 
 <div>
 </div>
+
 <p>Iterating through collections.</p>
 <h2>Products</h2>
 <ul>
     {% for product in site.products %}
-    <li><a href={{product.url}}>{{product.title}}</a></li>
+    <li><a href={{product.url | prepend: site.baseurl}}>{{product.title}}</a></li>
     {% endfor %}
 </ul>
 <h2>Users</h2>
 <ul>
     {% for user in site.users  %}
-    <li><a href={{user.url}}>{{user.title}}</a></li>
+    <li><a href={{user.url | prepend: site.baseurl}}>{{user.title}}</a></li>
     {% endfor %}
 </ul>
