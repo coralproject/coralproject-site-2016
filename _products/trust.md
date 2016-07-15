@@ -2,6 +2,8 @@
 title: Trust
 layout: default
 permalink: /products/trust
+imgurl: /images/trust.png
+function: "Find people you can trust"
 ---
 # Trust
 

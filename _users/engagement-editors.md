@@ -2,6 +2,10 @@
 title: Engagement Editors
 layout: default
 permalink: /users/engagement-editors
+features:
+    - text: "Customize your tools"
+    - text: "Scale your workload"
+    - text: "Find great contributions"
 ---
 # For Engagement Editors
 

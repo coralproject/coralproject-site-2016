@@ -2,6 +2,10 @@
 title: Publishers
 layout: default
 permalink: /users/publishers
+features:
+    - text: "Increase engagement"
+    - text: "Increase loyalty"
+    - text: "Improve content"
 ---
 # For Publishers
 

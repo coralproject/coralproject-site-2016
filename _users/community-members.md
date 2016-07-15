@@ -2,6 +2,10 @@
 title: Community Members
 layout: default
 permalink: /users/community-members
+features:
+    - text: "Control your experience"
+    - text: "Interact with the newsroom"
+    - text: "Avoid harassment"
 ---
 # For Community Members
 

@@ -2,6 +2,8 @@
 title: Ask
 layout: default
 permalink: /products/ask
+imgurl: /images/ask.png
+function: "Invite and display specific information"
 ---
 # Ask 
 

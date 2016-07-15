@@ -2,6 +2,8 @@
 title: Talk
 layout: default
 permalink: /products/talk
+imgurl: /images/talk.png
+function: "Discuss ideas on your terms"
 ---
 # Talk 
 

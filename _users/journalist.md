@@ -2,6 +2,10 @@
 title: Journalists
 layout: default
 permalink: /users/journalists
+features:
+    - text: "Have smarter interactions"
+    - text: "Find potential sources"
+    - text: "Create an audience"
 ---
 # For Journalists
 
