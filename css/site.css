@@ -46,6 +46,10 @@ html[dir='rtl'] #tabzilla {
     fill: grey;
 }
 
+.logo svg {
+    height: 1rem;
+}
+
 /* Tachyons flexbox via https://github.com/elussich/tachyons-flex 
  ## FLEX BOX LAYOUT
    Mix & match container-level flex properties with item-level ones to achieve
