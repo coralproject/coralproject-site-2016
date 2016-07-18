@@ -1,7 +1,8 @@
 ---
 title: Engagement Editors
-layout: default
+layout: page
 permalink: /users/engagement-editors
+imgurl: "/images/engagement-editors.svg"
 features:
     - text: "Customize your tools"
     - text: "Scale your workload"

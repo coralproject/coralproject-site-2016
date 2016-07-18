@@ -1,7 +1,8 @@
 ---
 title: Community Members
-layout: default
+layout: page
 permalink: /users/community-members
+imgurl: "/images/community.svg"
 features:
     - text: "Control your experience"
     - text: "Interact with the newsroom"

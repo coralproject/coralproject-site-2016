@@ -1,7 +1,8 @@
 ---
 title: Publishers
-layout: default
+layout: page
 permalink: /users/publishers
+imgurl: "/images/publishers.svg"
 features:
     - text: "Increase engagement"
     - text: "Increase loyalty"

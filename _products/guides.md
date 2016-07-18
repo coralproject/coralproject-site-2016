@@ -1,6 +1,6 @@
 ---
 title: Guides
-layout: default
+layout: page
 permalink: /products/guides
 imgurl: /images/guides.png
 function: "Learn about online communities"

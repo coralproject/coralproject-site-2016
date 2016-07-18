@@ -1,7 +1,8 @@
 ---
 title: Journalists
-layout: default
+layout: page
 permalink: /users/journalists
+imgurl: "/images/journalists.svg"
 features:
     - text: "Have smarter interactions"
     - text: "Find potential sources"

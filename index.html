@@ -2,50 +2,61 @@
 layout: default
 ---
 
-<div>
-    <h1>The Coral Project</h1>
-    <p>Because journalism needs everyone</p>
+<!-- <div id="tabzilla"><a href="https://www.mozilla.org/">Mozilla</a></div> -->
+
+<div class="relative flex content-center justify-center">
+    <div class="flex-auto white absolute center-margin">
+        <h1 class="tc">The Coral Project</h1>
+        <p class="tc ttu tracked">Because journalism needs everyone</p>
+    </div>
+    <img class="flex-auto w-100" src="/images/splashlg.jpg">
 </div>
 
-<div class="df flx-jcsb flx-ais">
-<div class="logo flx-i tc">{% include logo-mozilla.svg %}</div>
-<div class="logo flx-i tc">{% include logo-nyt.svg %}</div>
-<div class="logo flx-i tc">{% include logo-wapo.svg %}</div>
-<div class="logo flx-i tc">{% include logo-knifo.svg %}</div>
+<div class="content-width flex justify-around items-center">
+    <div class="logo flex-auto tc">{% include logo-mozilla.svg %}</div>
+    <div class="logo flex-auto tc">{% include logo-nyt.svg %}</div>
+    <div class="logo flex-auto tc">{% include logo-wapo.svg %}</div>
+    <div class="logo flex-auto tc">{% include logo-knifo.svg %}</div>
 </div>
 
-<div>
-    <p>Open-source tools and practices to help journalism and communities</p>
+<div class="flex items-center justify-center bg-black">
+    <p class="white ttu tracked">Open-source tools and practices to help journalism and communities</p>
 </div>
 
-<div>
-    <h2>Why use Coral?</h2>
-    <p>We’ve designed our products to meet essential needs of journalism through effective online communities.</p>
-    <p><a href={{"learn-more.html" | prepend: site.baseurl }}}>Learn more about The Coral Project</a></p>
+<div class="content-width flex flex-column items-center justify-center">
+    <h2 class="flex-auto flx-i f2 ttu tracked coral">Why use Coral?</h2>
+    <p class="flex-auto flx-i">We’ve designed our products to meet essential needs of journalism through effective online communities.</p>
+    <a class="flex-auto flx-i" href={{"learn-more.html" | prepend: site.baseurl }}}>Learn more about The Coral Project</a>
+</div>
+
+<div class="content-width flex">
     {% for user in site.users %}
-    <div>
-        <span>For</span>
+    <div class="flex-auto tc">
+        <img class="w3" src = {{ user.imgurl }}>
+        <div class="ttu tracked">For</div>
         <span>{{user.title}}</span>
         <ul>
             {% for feature in user.features %}
             <li>{{feature.text}}</li>
             {% endfor %}
         </ul>
-        <a href={{user.url | prepend: site.baseurl}}>Learn More</a>
+        <a href={{user.url | prepend: site.baseurl}}>Read more</a>
     </div>
     {% endfor %}
 </div>
 
-<div>
-    <h2>Products</h2>
-    {% for product in site.products %}
-    <div>
-        <a href={{product.url | prepend: site.baseurl}}><img src={{product.imgurl | prepend: site.baseurl}}></a>
-        <span>{{product.title}}</span>
-        <span>{{product.function}}</span>
-        <a href={{product.url | prepend: site.baseurl}}>Learn More</a>
+<div class="coral-bg bg-cn">
+    <h2 class="white tc ttu tracked">Products</h2>
+    <div class="content-width flex">
+        {% for product in site.products %}
+        <div class="flex-auto white tc">
+            <a href={{product.url | prepend: site.baseurl}}><img src={{product.imgurl | prepend: site.baseurl}}></a>
+            <div>{{product.title}}</div>
+            <div>{{product.function}}</div>
+            <button href={{product.url | prepend: site.baseurl}}>Learn More</button>
+        </div>
+        {% endfor %}
     </div>
-    {% endfor %}
 </div>
 
 <div>

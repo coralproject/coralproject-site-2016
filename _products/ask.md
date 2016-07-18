@@ -1,6 +1,6 @@
 ---
 title: Ask
-layout: default
+layout: page
 permalink: /products/ask
 imgurl: /images/ask.png
 function: "Invite and display specific information"
