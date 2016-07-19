@@ -81,3 +81,22 @@ body {
 .content-width {
     max-width: 80rem;
 }
+
+/*
+ Add required responsive flex grid classes 
+ 1. Fix for Chrome 44 bug. https://code.google.com/p/chromium/issues/detail?id=506893
+*/
+.flex-100 {
+    flex: 0 0 100%; min-width: 0; /* 1 */ min-height: 0; /* 1 */
+}
+
+@media screen and (min-width: 48em) and (max-width: 64em){
+    .flex-50-m {
+        flex: 0 0 50%; min-width: 0; /* 1 */ min-height: 0; /* 1 */
+    }
+}
+@media screen and (min-width: 64em) {
+    .flex-25-l {
+        flex: 0 0 25%; min-width: 0; /* 1 */ min-height: 0; /* 1 */
+    }
+}
