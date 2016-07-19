@@ -38,6 +38,10 @@ html[dir='rtl'] #tabzilla {
 }
 /* End Mozilla logo CSS */
 
+.tj {
+    text-align: justify;
+}
+
 body {
     font-family: 'Open Sans';
     font-style: normal;
@@ -62,12 +66,24 @@ body {
     color: #f67150;
 }
 
+.body-grey {
+    color: #4A4A4A;
+}
+
+.dark-bg {
+    background-color: #1E0038;
+}
+
 .coral-mark {
     width: 4rem;
 }
 
 .coral-bg {
     background-image: url('/images/coralbg.jpg');
+}
+
+.coral-link {
+    border-bottom: 2px dotted  #f67150;
 }
 
 /* used in combination with absolute positioned elements */
