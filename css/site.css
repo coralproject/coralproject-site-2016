@@ -81,15 +81,3 @@ body {
 .content-width {
     max-width: 80rem;
 }
-
-.cell {
-    @media screen and (min-width: 48em){
-        
-    }
-    @media screen and (min-width: 48em) and (max-width: 64em){
-        
-    }
-    @media screen and (min-width: 64em){
-        
-    }
-}
