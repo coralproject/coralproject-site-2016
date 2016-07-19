@@ -35,18 +35,18 @@ layout: default
         <img class="w3" src = {{ user.imgurl }}>
         <div class="ttu tracked f6 b mt4">For</div>
         <div class="fw1 f2 h3">{{user.title}}</div>
-        <ul class="f6 mt5">
+        <div class="f6 mt5 mb3">
             {% for feature in user.features %}
-            <li><i class="fa fa-check-circle" aria-hidden="true"></i>{{feature.text}}</li>
+            <div class="pb2"><i class="icon-ok-circled check-grey" aria-hidden="true"></i>{{feature.text}}</div>
             {% endfor %}
-        </ul>
-        <a class="f6 link coral-link coral b" href={{user.url | prepend: site.baseurl}}>Read more <i class="fa fa-caret-right" aria-hidden="true"></i></a>
+        </div>
+        <a class="f6 link coral-link coral b" href={{user.url | prepend: site.baseurl}}>Read more <i class="icon-right-dir body-grey pa0" aria-hidden="true"></i></a>
     </div>
     {% endfor %}
 </div>
 
 <div class="coral-bg bg-cn">
-    <h2 class="white tc ttu tracked">Products</h2>
+    <h2 class="f2 white tc ttu tracked pt5">Products</h2>
     <div class="content-width flex flex-wrap">
         {% for product in site.products %}
         <div class="flex-100 flex-50-m flex-25-l white tc">
