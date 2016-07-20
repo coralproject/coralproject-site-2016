@@ -1,3 +1,11 @@
+body {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    color: #4A4A4A;
+}
+
 .tj {
     text-align: justify;
 }
@@ -5,14 +13,6 @@
 .tz-border {
     border-top-width: 0.33rem;
     border-top-color: #1E0038;
-}
-
-body {
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    color: #4A4A4A;
 }
 
 .menu-icon svg, .icon svg {
@@ -66,30 +66,44 @@ body {
     transform: translate(-50%,-50%);
 }
 
-/* TODO: responsive */
-.content-width {
-    max-width: 80rem;
-}
-
 .ml-75 {
     margin-left: 75%;
 }
 
 /*
- Add required responsive flex grid classes 
+ Add required responsive flex grid, font-size and spacing classes 
  1. Fix for Chrome 44 bug. https://code.google.com/p/chromium/issues/detail?id=506893
 */
 .flex-100 {
     flex: 0 0 100%; min-width: 0; /* 1 */ min-height: 0; /* 1 */
+}
+.content-width {
+    max-width: 20rem;
+}
+
+.f7 {
+    font-size: 0.75rem;
 }
 
 @media screen and (min-width: 48em) and (max-width: 64em){
     .flex-50-m {
         flex: 0 0 50%; min-width: 0; /* 1 */ min-height: 0; /* 1 */
     }
+    .content-width {
+        width: 48rem;
+    }
+    .f2i-m {
+        font-size: 2.75rem; /* non-scale font size, sorry type-lovers */
+    }
+    .f7-m {
+        font-size: 0.75rem;
+    }
 }
 @media screen and (min-width: 64em) {
     .flex-25-l {
         flex: 0 0 25%; min-width: 0; /* 1 */ min-height: 0; /* 1 */
+    }
+    .content-width {
+        max-width: 80rem;
     }
 }
