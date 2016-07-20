@@ -10,11 +10,6 @@ body {
     text-align: justify;
 }
 
-.tz-border {
-    border-top-width: 0.33rem;
-    border-top-color: #1E0038;
-}
-
 .menu-icon svg, .icon svg {
     display: inline-block;
     width: 1rem;
@@ -86,7 +81,11 @@ body {
 }
 
 @media screen and (min-width: 48em) and (max-width: 64em){
-    .flex-50-m {
+    .tz-border-m {
+        border-top-width: 0.33rem;
+        border-top-color: #1E0038;
+    }
+   .flex-50-m {
         flex: 0 0 50%; min-width: 0; /* 1 */ min-height: 0; /* 1 */
     }
     .content-width {
@@ -100,7 +99,11 @@ body {
     }
 }
 @media screen and (min-width: 64em) {
-    .flex-25-l {
+    .tz-border-l {
+        border-top-width: 0.33rem;
+        border-top-color: #1E0038;
+    }
+   .flex-25-l {
         flex: 0 0 25%; min-width: 0; /* 1 */ min-height: 0; /* 1 */
     }
     .content-width {
