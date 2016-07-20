@@ -1,8 +1,8 @@
 /* Mozilla logo CSS */
-#tabzilla {
-  float: right;
-  position: relative;
-}
+/* #tabzilla { */
+/*   float: right; */
+/*   position: relative; */
+/* } */
 #tabzilla a {
   text-indent: 120%;
   white-space: nowrap;
@@ -104,6 +104,10 @@ body {
 /* TODO: responsive */
 .content-width {
     max-width: 80rem;
+}
+
+.ml-75 {
+    margin-left: 75%;
 }
 
 /*
