@@ -73,12 +73,16 @@ body {
 .logo svg {
     height: 0.7rem;
 }
-
 button {
     background: #F67150;
     border: 1px solid white;
     border-radius: 5px;
     color: white;
+}
+.contrib-bump::after {
+    content:"\a";
+    white-space: pre;
+    display:block;
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em){
@@ -104,6 +108,11 @@ button {
     .f7-m {
         font-size: 0.75rem;
     }
+    .contrib-bump::after {
+        content: "";
+        white-space: normal;
+        display: inline;
+    }
 }
 
 @media screen and (min-width: 60em) {
@@ -126,5 +135,9 @@ button {
     .logo svg {
         height: 2rem;
     }
-
+    .contrib-bump::after {
+        content: "";
+        white-space: normal;
+        display: inline;
+    }
 }
