@@ -2,6 +2,7 @@
 title: Community Members
 layout: page
 permalink: /users/community-members
+md: true
 imgurl: "/images/community.svg"
 features:
     - text: "Control your experience"

@@ -2,6 +2,7 @@
 title: Engagement Editors
 layout: page
 permalink: /users/engagement-editors
+md: true
 imgurl: "/images/engagement-editors.svg"
 features:
     - text: "Customize your tools"

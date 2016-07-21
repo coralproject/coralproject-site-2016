@@ -2,6 +2,7 @@
 title: Publishers
 layout: page
 permalink: /users/publishers
+md: true
 imgurl: "/images/publishers.svg"
 features:
     - text: "Increase engagement"

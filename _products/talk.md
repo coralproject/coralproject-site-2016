@@ -2,6 +2,7 @@
 title: Talk
 layout: page
 permalink: /products/talk
+md: true
 imgurl: /images/prod-talk.svg
 function: "Discuss ideas on your terms"
 ---

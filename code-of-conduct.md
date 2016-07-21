@@ -1,7 +1,8 @@
 ---
 title: Code of Conduct
-layout: default
+layout: page
 permalink: /code-of-conduct
+md: true
 ---
 # Code of Conduct
 

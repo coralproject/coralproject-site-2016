@@ -2,6 +2,7 @@
 title: Journalists
 layout: page
 permalink: /users/journalists
+md: true
 imgurl: "/images/journalists.svg"
 features:
     - text: "Have smarter interactions"

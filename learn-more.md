@@ -1,7 +1,8 @@
 ---
 title: Learn More
-layout: default
+layout: page
 permalink: /learn-more
+md: true
 ---
 # Learn More
 

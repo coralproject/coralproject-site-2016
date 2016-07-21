@@ -2,6 +2,7 @@
 title: Ask
 layout: page
 permalink: /products/ask
+md: true
 imgurl: /images/prod-ask.svg
 function: "Invite and display specific information"
 ---

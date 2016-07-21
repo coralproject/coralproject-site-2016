@@ -1,0 +1,59 @@
+body {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    color: #333;
+    font-size: 15px;
+    line-height: 23px;
+}
+
+article {
+    width: 84%;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 23px;
+    color: #1e0038;
+}
+
+h2 {
+    font-size: 19px;
+    line-height: 23px;
+    font-weight: 700;
+}
+
+p em:last-of-type {
+    font-size: 12px;
+    line-height: 19px;
+    font-style: italic;
+}
+
+@media screen and (min-width: 60em) {
+    body {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    article {
+        width: 66%;
+    }
+    
+    h1{
+        font-size: 28px;
+        line-height: 28px;
+    }
+    
+    h2{
+        font-size: 22px;
+        line-height: 28px;
+    }
+    
+    p em:last-of-type {
+        font-size: 14px;
+        line-height: 25px;
+    }
+}
+

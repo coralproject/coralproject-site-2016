@@ -1,6 +1,7 @@
 ---
 title: About the Team
-layout: default
+layout: page
+md: true
 permalink: /team
 members:
     - name: Andrew Losowsky

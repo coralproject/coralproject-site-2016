@@ -2,6 +2,7 @@
 title: Trust
 layout: page
 permalink: /products/trust
+md: true
 imgurl: /images/prod-trust.svg
 function: "Find people you can trust"
 ---

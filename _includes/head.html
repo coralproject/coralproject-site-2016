@@ -9,6 +9,10 @@
   <style type="text/css"> .f7{font-size: 0.75rem;} </style>
   <link rel="stylesheet" href="https://npmcdn.com/tachyons@4.0.4/css/tachyons.min.css">
   <link rel="stylesheet" href="{{ "/css/icons/fa-duo-icons-embedded.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/css/site.css" | prepend: site.baseurl }}">
+  {% if page.md %}
+    <link rel="stylesheet" href="{{ "/css/md.css" | prepend: site.baseurl }}">
+  {% else %}
+    <link rel="stylesheet" href="{{ "/css/index.css" | prepend: site.baseurl }}">
+  {% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 </head>
