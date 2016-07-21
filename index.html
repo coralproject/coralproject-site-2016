@@ -12,9 +12,12 @@ layout: default
     </div>
     <div class="flex-auto white absolute center-margin">
         <h1 class="f1-l f2i-m f2 tc">The Coral Project</h1>
-        <p class="f6 tc ttu tracked">Because journalism needs everyone</p>
+        <p class="f6-l f6-m f7 tc ttu tracked">Because journalism needs everyone</p>
     </div>
-    <img class="flex-auto w-100 bt-l tz-border-l bt-m tz-border-m bn" src="/images/splashlg.jpg">
+    <picture class="flex-auto w-100 bt-l tz-border-l bt-m tz-border-m bn">
+        <source srcset="/images/splashlg.jpg" media="(min-width: 30em)">
+        <img class="w-100" src="/images/splashsm.jpg">
+    </picture>
 </div>
 
 <div class="content-width flex justify-around items-center h3">

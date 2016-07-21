@@ -76,11 +76,12 @@ body {
     max-width: 20rem;
 }
 
-.f7 {
+.f7, f7-m, f7-l {
     font-size: 0.75rem;
 }
 
-@media screen and (min-width: 48em) and (max-width: 64em){
+
+@media screen and (min-width: 30em) and (max-width: 60em){
     .tz-border-m {
         border-top-width: 0.33rem;
         border-top-color: #1E0038;
@@ -89,7 +90,7 @@ body {
         flex: 0 0 50%; min-width: 0; /* 1 */ min-height: 0; /* 1 */
     }
     .content-width {
-        width: 48rem;
+        max-width: 48rem;
     }
     .f2i-m {
         font-size: 2.75rem; /* non-scale font size, sorry type-lovers */
@@ -98,7 +99,8 @@ body {
         font-size: 0.75rem;
     }
 }
-@media screen and (min-width: 64em) {
+
+@media screen and (min-width: 60em) {
     .tz-border-l {
         border-top-width: 0.33rem;
         border-top-color: #1E0038;
