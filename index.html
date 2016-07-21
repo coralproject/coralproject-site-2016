@@ -28,27 +28,27 @@ layout: default
 </div>
 
 <div class="flex items-center justify-center dark-bg h3">
-    <p class="f6-l f6-m f7 tc white ttu tracked">Open-source tools and practices to help journalism and communities</p>
+    <p class="f6-l f6-m f7 mh3 mh0-ns tc white ttu tracked">Open-source tools and practices to help journalism and communities</p>
 </div>
 
-<div class="content-width tc flex flex-column items-center justify-center mt3">
-    <h2 class="flex-auto f2 ttu tracked coral">Why use Coral?</h2>
-    <p class="flex-auto w-33 center f6 mb3">We’ve designed our products to meet essential needs of journalism through effective online communities.</p>
-    <a class="flex-auto f6 link coral-link b body-grey" href={{"learn-more.html" | prepend: site.baseurl }}}>Learn more about The Coral Project</a>
+<div class="content-width tc flex flex-column items-center justify-center mt5-ns mt3 mh2 mh0-ns">
+    <h2 class="flex-auto f3 f2-ns ttu tracked coral">Why use Coral?</h2>
+    <p class="flex-auto w-33-l w-50-m w-80 center f6-ns f7 mb3">We’ve designed our products to meet essential needs of journalism through effective online communities.</p>
+    <a class="flex-auto f6-ns f7 link coral-link b body-grey" href={{"learn-more.html" | prepend: site.baseurl }}}>Learn more about The Coral Project</a>
 </div>
 
-<div class="content-width flex flex-wrap f6">
+<div class="content-width flex flex-wrap f6-ns f7">
     {% for user in site.users %}
-    <div class="flex-100 flex-50-m flex-25-l tc mt5">
-        <img class="w3" src = {{ user.imgurl }}>
-        <div class="ttu tracked f6 b mt4">For</div>
-        <div class="fw1 f2 h3">{{user.title}}</div>
-        <div class="f6 mt5 mb3">
+    <div class="flex-100 flex-50-m flex-25-l tc mt5-ns mt4">
+        <img class="w3 mt4" src = {{ user.imgurl }}>
+        <div class="ttu tracked f6 b mt4-ns mt3">For</div>
+        <div class="fw1 f2 h3-ns ">{{user.title}}</div>
+        <div class="f6-ns f7 mt5-l mt3 mb3">
             {% for feature in user.features %}
-            <div class="pb2"><i class="icon-ok-circled check-grey" aria-hidden="true"></i>{{feature.text}}</div>
+            <div class="pb2-ns pb3"><i class="icon-ok-circled check-grey" aria-hidden="true"></i>{{feature.text}}</div>
             {% endfor %}
         </div>
-        <a class="f6 link coral-link coral b" href={{user.url | prepend: site.baseurl}}>Read more <i class="icon-right-dir body-grey pa0" aria-hidden="true"></i></a>
+        <a class="f6-ns f7 link coral-link coral b" href={{user.url | prepend: site.baseurl}}>Read more <i class="icon-right-dir body-grey pa0" aria-hidden="true"></i></a>
     </div>
     {% endfor %}
 </div>
