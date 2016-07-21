@@ -18,10 +18,6 @@ body {
     fill: grey;
 }
 
-.logo svg {
-    height: 2rem;
-}
-
 .coral {
     color: #f67150;
 }
@@ -36,10 +32,6 @@ body {
 
 .dark-bg {
     background-color: #1E0038;
-}
-
-.coral-mark {
-    width: 4rem;
 }
 
 .coral-bg {
@@ -75,11 +67,12 @@ body {
 .content-width {
     max-width: 20rem;
 }
-
-.f7, f7-m, f7-l {
-    font-size: 0.75rem;
+.coral-mark {
+    width: 2.66rem;
 }
-
+.logo svg {
+    height: 0.7rem;
+}
 
 @media screen and (min-width: 30em) and (max-width: 60em){
     .tz-border-m {
@@ -91,6 +84,12 @@ body {
     }
     .content-width {
         max-width: 48rem;
+    }
+    .coral-mark {
+        width: 3.3rem;
+    }
+    .logo svg {
+        height: 1.5rem;
     }
     .f2i-m {
         font-size: 2.75rem; /* non-scale font size, sorry type-lovers */
@@ -114,4 +113,11 @@ body {
     .content-width {
         max-width: 80rem;
     }
+    .coral-mark {
+        width: 4rem;
+    }
+    .logo svg {
+        height: 2rem;
+    }
+
 }
