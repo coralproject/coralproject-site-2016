@@ -74,6 +74,13 @@ body {
     height: 0.7rem;
 }
 
+button {
+    background: #F67150;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+}
+
 @media screen and (min-width: 30em) and (max-width: 60em){
     .tz-border-m {
         border-top-width: 0.33rem;
