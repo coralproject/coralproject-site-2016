@@ -2,7 +2,7 @@
 title: Guides
 layout: page
 permalink: /products/guides
-imgurl: /images/guides.png
+imgurl: /images/prod-guides.svg
 function: "Learn about online communities"
 ---
 # Guides

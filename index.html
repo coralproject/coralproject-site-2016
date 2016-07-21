@@ -54,8 +54,8 @@ layout: default
     <h2 class="f2 white tc ttu tracked pt5">Products</h2>
     <div class="content-width flex flex-wrap pt3 pb3">
         {% for product in site.products %}
-        <div class="flex-100 flex-50-m flex-25-l white tc h5">
-            <a href={{product.url | prepend: site.baseurl}}><img class="w3" src={{product.imgurl | prepend: site.baseurl}}></a>
+        <div class="flex-100 flex-50-m flex-25-l white tc h5 product-cell">
+            <a href={{product.url | prepend: site.baseurl}}><img class="h4" src={{product.imgurl | prepend: site.baseurl}}></a>
             <div class="b f3 pb2 pt2">{{product.title}}</div>
             <div class="b f6 pb4">{{product.function}}</div>
             <button class="" href={{product.url | prepend: site.baseurl}}>Learn More</button>

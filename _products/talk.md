@@ -2,7 +2,7 @@
 title: Talk
 layout: page
 permalink: /products/talk
-imgurl: /images/talk.png
+imgurl: /images/prod-talk.svg
 function: "Discuss ideas on your terms"
 ---
 # Talk 
