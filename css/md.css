@@ -10,6 +10,9 @@ body {
 
 article {
     width: 84%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
 }
 
 h1 {
@@ -31,6 +34,32 @@ p em:last-of-type {
     font-style: italic;
 }
 
+@media screen and (min-width: 30em) and (max-width: 60em){
+    body {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    article {
+        position: relative;
+        margin-top: -20rem;
+        padding-left: 9%;
+        padding-right: 9%;
+        padding-top: 3rem;
+    }
+    h1{
+        font-size: 28px;
+        line-height: 28px;
+    }
+    h2{
+        font-size: 22px;
+        line-height: 28px;
+    }
+    p em:last-of-type {
+        font-size: 14px;
+        line-height: 25px;
+    }
+}
+
 @media screen and (min-width: 60em) {
     body {
         font-size: 18px;
@@ -38,7 +67,12 @@ p em:last-of-type {
     }
 
     article {
+        position: relative;
+        margin-top: -33rem;
         width: 66%;
+        padding-left: 9%;
+        padding-right: 9%;
+        padding-top: 5rem;
     }
     
     h1{
@@ -57,3 +91,22 @@ p em:last-of-type {
     }
 }
 
+
+@media screen and (min-width: 30em) and (max-width: 60em){
+    .tz-border-m {
+        border-top-width: 0.33rem;
+        border-top-color: #1E0038;
+    }
+    .coral-mark {
+        width: 3.3rem;
+    }
+}
+@media screen and (min-width: 60em) {
+    .tz-border-l {
+        border-top-width: 0.33rem;
+        border-top-color: #1E0038;
+    }
+    .coral-mark {
+        width: 4rem;
+    }
+}
