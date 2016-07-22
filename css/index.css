@@ -53,6 +53,10 @@ form {
     border-bottom: 2px dotted  #f67150;
 }
 
+.coral-link:hover {
+    color: #f67150;
+}
+
 .subscribe-green {
     background: #aaf0db; 
 }
