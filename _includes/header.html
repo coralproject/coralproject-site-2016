@@ -1,13 +1,32 @@
-<header>
-    <nav class="absolute w-100 w-auto-ns dt pa4-l pa3-m">
-        <a class="dtc pr3-ns pl0-ns pl3 pt0-ns pt3 w-auto-ns w-25" href="{{ site.baseurl }}/"><img class="coral-mark" src="/images/coralmarkwhite.png"></a>
-        <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href="">About</a>
-        <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href="">Products</a>
-        <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href="">Install</a>
-        <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href="">Contribute</a>
-        <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href="">Contact</a>
-        <a class="dn-ns dtc w-75 v-mid tr pr3 pt3" href="">
-            {% include icon-menu.svg %}
-        </a>
-   </nav>
-</header>
+<div class="relative flex content-center justify-center">
+    <div class="flex-auto">
+        <header>
+            <nav class="absolute w-100 w-auto-ns dt pa4-l pa3-m">
+                <a class="dtc pr3-ns pl0-ns pl3 pt0-ns pt3 w-auto-ns w-25" href="{{ site.baseurl }}/"><img class="coral-mark" src="/images/coralmarkwhite.png"></a>
+                <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href="">About</a>
+                <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href="">Products</a>
+                <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href="">Install</a>
+                <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href="">Contribute</a>
+                <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href="">Contact</a>
+                <a class="dn-ns dtc w-75 v-mid tr pr3 pt3" href="">
+                    {% include icon-menu.svg %}
+                </a>
+            </nav>
+        </header>
+    </div>
+    {% include moztab.html %}
+    {% if page.md %}
+    {% else %}
+    <div class="flex-auto white absolute center-margin">
+        <h1 class="f1-l f2i-m f2 tc">The Coral Project</h1>
+        <p class="f6-l f6-m f7 tc ttu tracked">Because journalism needs everyone</p>
+    </div>
+    {% endif %}
+    <picture class="flex-auto w-100 bt-l tz-border-l bt-m tz-border-m bn">
+        <source
+            srcset= {% if page.md %} {{ page.bg-img-lg }} {% else %} "/images/splashlg.jpg" {% endif %}
+            media="(min-width: 30em)">
+        <img class="w-100"
+             src= {% if page.md %} {{ page.bg-img-sm }} {% else %} "/images/splashsm.jpg" {% endif %}>
+    </picture>
+</div>
