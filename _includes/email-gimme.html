@@ -1,7 +1,22 @@
 <div class="pa4 dark-bg">
     <div class="tc">
-        <h2 class="f2 ttu tracked white">Receive Our Newsletter</h2>
-        <form action="https://tinyletter.com/coralproject" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/coralproject', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input type="text" name="email" id="tlemail" placeholder="Your email address"/><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
-        <input type="checkbox"><span class="white">I'm okay with Mozilla handling my info as explained in this <a href="">Privacy Notice</a></span>
+        <h2 class="f2-l f2i-m f3 ttu tracked white">Receive Our Newsletter</h2>
+        <form class="ma0-ns"
+              action="https://tinyletter.com/coralproject"
+              method="post" target="popupwindow"
+              onsubmit="window.open('https://tinyletter.com/coralproject', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+            <input class="subscribe-border v-top h3-ns ba f6-ns f7 mb3
+                          ph4-l w-33-l blr2-l
+                          ph3-m w-33-m blr2-m
+                          ph2   w-100  br2    h2"
+                   type="text" name="email" id="tlemail" placeholder="Your email address"/>
+            <input type="hidden" value="1" name="embed"/>
+            <input class="ttu tracked subscribe-green subscribe-border v-top b ba f5-ns f6 h3-ns pv0-ns
+                          brr2-l ph4-l
+                          brr2-m ph3-m
+                          br2 pv2 ph4"
+                   type="submit" value="Subscribe" />
+        </form>
+        <!-- <input type="checkbox"><span class="white">I'm okay with Mozilla handling my info as explained in this <a href="">Privacy Notice</a></span> -->
     </div>
 </div>

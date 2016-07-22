@@ -6,6 +6,13 @@ body {
     color: #4A4A4A;
 }
 
+/* set space between form-elements to zero
+   (requires explicitly setting font sizes
+   on form's component elements!) */
+form {
+    font-size: 0;
+}
+
 .tj {
     text-align: justify;
 }
@@ -44,6 +51,14 @@ body {
 
 .coral-link {
     border-bottom: 2px dotted  #f67150;
+}
+
+.subscribe-green {
+    background: #aaf0db; 
+}
+
+.subscribe-border {
+    border-color: #D7D7D7;
 }
 
 /* used in combination with absolute positioned elements */
@@ -86,6 +101,18 @@ button {
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em){
+    .blr2-m {
+        border-top-left-radius: .25rem;
+        border-bottom-left-radius: .25rem;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+    .brr2-m {
+        border-top-right-radius: .25rem;
+        border-bottom-right-radius: .25rem;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+    }
     .tz-border-m {
         border-top-width: 0.33rem;
         border-top-color: #1E0038;
@@ -116,6 +143,18 @@ button {
 }
 
 @media screen and (min-width: 60em) {
+    .blr2-l {
+        border-top-left-radius: .25rem;
+        border-bottom-left-radius: .25rem;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+    .brr2-l {
+        border-top-right-radius: .25rem;
+        border-bottom-right-radius: .25rem;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+    }
     .tz-border-l {
         border-top-width: 0.33rem;
         border-top-color: #1E0038;
