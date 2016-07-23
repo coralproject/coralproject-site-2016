@@ -10,14 +10,6 @@ body {
     text-align: justify;
 }
 
-.menu-icon svg, .icon svg {
-    display: inline-block;
-    width: 1rem;
-    height: 1rem;
-    vertical-align: middle;
-    fill: grey;
-}
-
 .coral {
     color: #f67150;
 }
