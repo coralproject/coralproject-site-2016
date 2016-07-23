@@ -103,7 +103,12 @@ article p em:last-of-type {
     }
 }
 
+/* Duplicated from index.css for to work around specificity issues */
 
+.moz-footer-logo {
+    border-right: none;
+    border-bottom: solid white 1px;
+}
 @media screen and (min-width: 30em) and (max-width: 60em){
     .tz-border-m {
         border-top-width: 0.33rem;
@@ -124,6 +129,13 @@ article p em:last-of-type {
     .coral-mark {
         width: 3.3rem;
     }
+    .moz-footer-logo {
+        border-right: solid white 1px;
+        border-bottom: none;
+    }
+    .flex-row-ns {
+        flex-direction: row;
+    } 
 }
 @media screen and (min-width: 60em) {
     .tz-border-l {
@@ -145,4 +157,11 @@ article p em:last-of-type {
     .coral-mark {
         width: 4rem;
     }
+    .moz-footer-logo {
+        border-right: solid white 1px;
+        border-bottom: none;
+    }
+    .flex-row-ns {
+        flex-direction: row;
+    } 
 }

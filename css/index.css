@@ -115,6 +115,9 @@ body {
         border-right: solid white 1px;
         border-bottom: none;
     }
+    .flex-row-ns {
+        flex-direction: row;
+    } 
 }
 
 @media screen and (min-width: 60em) {
@@ -158,5 +161,8 @@ body {
         border-right: solid white 1px;
         border-bottom: none;
     }
+    .flex-row-ns {
+        flex-direction: row;
+    } 
 }
 
