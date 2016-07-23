@@ -6,13 +6,6 @@ body {
     color: #4A4A4A;
 }
 
-/* set space between form-elements to zero
-   (requires explicitly setting font sizes
-   on form's component elements!) */
-form {
-    font-size: 0;
-}
-
 .tj {
     text-align: justify;
 }
@@ -37,9 +30,6 @@ form {
     color: #9A9A9A;
 }
 
-.dark-bg {
-    background-color: #1E0038;
-}
 
 .coral-bg {
     background-image: url('/images/coralbg.jpg');
@@ -51,14 +41,6 @@ form {
 
 .coral-link:hover {
     color: #f67150;
-}
-
-.subscribe-green {
-    background: #aaf0db; 
-}
-
-.subscribe-border {
-    border-color: #D7D7D7;
 }
 
 /* used in combination with absolute positioned elements */

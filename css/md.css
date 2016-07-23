@@ -15,31 +15,31 @@ article {
     background-color: white;
 }
 
-a {
+article a {
     border-bottom: 2px dotted  #f67150;
     color: #333;
     text-decoration: none;
     font-weight: 700;
 }
 
-a:hover {
+article a:hover {
     color: #f67150;
 }
 
-h1 {
+article h1 {
     font-size: 24px;
     font-weight: 700;
     line-height: 23px;
     color: #1e0038;
 }
 
-h2 {
+article h2 {
     font-size: 19px;
     line-height: 23px;
     font-weight: 700;
 }
 
-p em:last-of-type {
+article p em:last-of-type {
     font-size: 12px;
     line-height: 19px;
     font-style: italic;
@@ -57,15 +57,15 @@ p em:last-of-type {
         padding-right: 9%;
         padding-top: 3rem;
     }
-    h1{
+    article h1{
         font-size: 28px;
         line-height: 28px;
     }
-    h2{
+    article h2{
         font-size: 22px;
         line-height: 28px;
     }
-    p em:last-of-type {
+    article p em:last-of-type {
         font-size: 14px;
         line-height: 25px;
     }
@@ -87,17 +87,17 @@ p em:last-of-type {
         padding-bottom: 10rem;
     }
     
-    h1{
+    article h1{
         font-size: 28px;
         line-height: 28px;
     }
     
-    h2{
+    article h2{
         font-size: 22px;
         line-height: 28px;
     }
     
-    p em:last-of-type {
+    article p em:last-of-type {
         font-size: 14px;
         line-height: 25px;
     }
@@ -109,6 +109,18 @@ p em:last-of-type {
         border-top-width: 0.33rem;
         border-top-color: #1E0038;
     }
+    .blr2-m {
+        border-top-left-radius: .25rem;
+        border-bottom-left-radius: .25rem;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+    .brr2-m {
+        border-top-right-radius: .25rem;
+        border-bottom-right-radius: .25rem;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+    }
     .coral-mark {
         width: 3.3rem;
     }
@@ -117,6 +129,18 @@ p em:last-of-type {
     .tz-border-l {
         border-top-width: 0.33rem;
         border-top-color: #1E0038;
+    }
+    .blr2-l {
+        border-top-left-radius: .25rem;
+        border-bottom-left-radius: .25rem;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+    .brr2-l {
+        border-top-right-radius: .25rem;
+        border-bottom-right-radius: .25rem;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
     }
     .coral-mark {
         width: 4rem;
