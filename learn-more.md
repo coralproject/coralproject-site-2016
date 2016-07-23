@@ -3,6 +3,8 @@ title: Learn More
 layout: page
 permalink: /learn-more
 md: true
+bg-img-lg: /images/learnmore-lg.jpg
+bg-img-sm: /images/learnmore-lg.jpg
 ---
 # Learn More
 
