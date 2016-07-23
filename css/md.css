@@ -15,6 +15,17 @@ article {
     background-color: white;
 }
 
+a {
+    border-bottom: 2px dotted  #f67150;
+    color: #333;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+a:hover {
+    color: #f67150;
+}
+
 h1 {
     font-size: 24px;
     font-weight: 700;
@@ -73,6 +84,7 @@ p em:last-of-type {
         padding-left: 9%;
         padding-right: 9%;
         padding-top: 5rem;
+        padding-bottom: 10rem;
     }
     
     h1{
