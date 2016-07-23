@@ -8,6 +8,8 @@ features:
     - text: "Control your experience"
     - text: "Interact with the newsroom"
     - text: "Avoid harassment"
+bg-img-lg: /images/user-lg.jpg
+bg-img-sm: /images/user-lg.jpg
 ---
 # For Community Members
 

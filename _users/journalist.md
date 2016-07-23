@@ -8,6 +8,8 @@ features:
     - text: "Have smarter interactions"
     - text: "Find potential sources"
     - text: "Create an audience"
+bg-img-lg: /images/user-lg.jpg
+bg-img-sm: /images/user-lg.jpg
 ---
 # For Journalists
 

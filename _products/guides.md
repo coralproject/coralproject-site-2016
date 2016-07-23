@@ -5,6 +5,8 @@ permalink: /products/guides
 md: true
 imgurl: /images/prod-guides.svg
 function: "Learn about online communities"
+bg-img-lg: /images/product-lg.jpg
+bg-img-sm: /images/product-lg.jpg
 ---
 # Guides
 

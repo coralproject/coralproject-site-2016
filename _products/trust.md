@@ -5,6 +5,8 @@ permalink: /products/trust
 md: true
 imgurl: /images/prod-trust.svg
 function: "Find people you can trust"
+bg-img-lg: /images/product-lg.jpg
+bg-img-sm: /images/product-lg.jpg
 ---
 # Trust
 

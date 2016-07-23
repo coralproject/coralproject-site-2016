@@ -1,7 +1,7 @@
 ---
-title: Learn More
+title: About the Coral Project
 layout: page
-permalink: /learn-more
+permalink: /about
 md: true
 bg-img-lg: /images/learnmore-lg.jpg
 bg-img-sm: /images/learnmore-lg.jpg

@@ -5,6 +5,8 @@ permalink: /products/ask
 md: true
 imgurl: /images/prod-ask.svg
 function: "Invite and display specific information"
+bg-img-lg: /images/product-lg.jpg
+bg-img-sm: /images/product-lg.jpg
 ---
 # Ask 
 

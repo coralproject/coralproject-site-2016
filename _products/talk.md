@@ -5,6 +5,8 @@ permalink: /products/talk
 md: true
 imgurl: /images/prod-talk.svg
 function: "Discuss ideas on your terms"
+bg-img-lg: /images/product-lg.jpg
+bg-img-sm: /images/product-lg.jpg
 ---
 # Talk 
 
