@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Coral Project Documentation
+title: The Coral Project 
 email: Greg.Barber@washpost.com
 description: > # this means to ignore newlines until "baseurl:"
   The Coral Project is an open source project to help publishers of all sizes build better communities around their journalism. We’re creating tools that allow everyone feel safe, respected, and heard.

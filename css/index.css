@@ -118,6 +118,10 @@ button {
     .logo svg {
         height: 1.5rem;
     }
+    .tz-border-m {
+        border-top-width: 0.33rem;
+        border-top-color: #1E0038;
+    }
     .f2i-m {
         font-size: 2.75rem; /* non-scale font size, sorry type-lovers */
     }
@@ -156,6 +160,10 @@ button {
     .coral-mark {
         width: 4rem;
     }
+    .tz-border-l {
+        border-top-width: 0.33rem;
+        border-top-color: #1E0038;
+    }
     .logo svg {
         height: 2rem;
     }
@@ -165,3 +173,4 @@ button {
         display: inline;
     }
 }
+
