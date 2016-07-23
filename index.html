@@ -16,7 +16,7 @@ layout: default
 <div class="content-width tc flex flex-column items-center justify-center mt5-ns mt3 mh2 mh0-ns">
     <h2 class="flex-auto f3 f2-ns ttu tracked coral">Why use Coral?</h2>
     <p class="flex-auto w-33-l w-50-m w-80 center f6-ns f7 mb3">We’ve designed our products to meet essential needs of journalism through effective online communities.</p>
-    <a class="flex-auto f6-ns f7 link coral-link b body-grey" href={{"learn-more.html" | prepend: site.baseurl }}}>Learn more about The Coral Project</a>
+    <a class="flex-auto f6-ns f7 link coral-link b body-grey" href={{"learn-more.html" | prepend: site.baseurl }}>Learn more about The Coral Project</a>
 </div>
 
 <div class="content-width flex flex-wrap f6-ns f7 mv5-l mv5-m mv4">
@@ -30,7 +30,7 @@ layout: default
             <div class="pb2-ns pb3"><i class="icon-ok-circled check-grey" aria-hidden="true"></i>{{feature.text}}</div>
             {% endfor %}
         </div>
-        <a class="f6-ns f7 link coral-link body-grey b" href={{user.url | prepend: site.baseurl}}>Read more <i class="icon-right-dir body-grey pa0" aria-hidden="true"></i></a>
+        <a class="f6-ns f7 link coral-link body-grey b" href={{user.url | prepend: site.baseurl}}.html>Read more <i class="icon-right-dir body-grey pa0" aria-hidden="true"></i></a>
     </div>
     {% endfor %}
 </div>
@@ -40,10 +40,12 @@ layout: default
     <div class="content-width flex flex-wrap pv3">
         {% for product in site.products %}
         <div class="flex-100 flex-50-m flex-25-l white tc h5 product-cell mb5-ns mb4">
-            <a href={{product.url | prepend: site.baseurl}}><img class="h4" src={{product.imgurl | prepend: site.baseurl}}></a>
+            <a href={{product.url | prepend: site.baseurl}}.html><img class="h4" src={{product.imgurl | prepend: site.baseurl}}></a>
             <div class="b f3 pv2-ns pv3">{{product.title}}</div>
             <div class="b f6-ns f7 pb4-ns pb3">{{product.function}}</div>
-            <button class="f6-ns f7 pa2 pa3-ns b" href={{product.url | prepend: site.baseurl}}>Learn More</button>
+            <div class="mt3-ns mt2">
+                <a class="link b f6-ns f7 pa2 pa3-ns button-link" href="{{product.url | prepend: site.baseurl}}.html">Learn More</a>
+            </div>
         </div>
         {% endfor %}
     </div>

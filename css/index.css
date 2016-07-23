@@ -63,7 +63,7 @@ body {
 .logo svg {
     height: 0.7rem;
 }
-button {
+.button-link {
     background: #F67150;
     border: 1px solid white;
     border-radius: 5px;
