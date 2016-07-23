@@ -3,7 +3,7 @@
     {% include email-gimme.html %}
 
     <div class="center tc pa4 white f6-ns f7">
-        <div class="flex items-center justify-between icons mb3">
+        <div class="flex flex-column flex-row-ns items-center justify-between mb3">
             <a class="flex-auto white link " target="_blank" href="https://twitter.com/{{ site.twitter_username }}"> <img class="w1 mr1"  src={{"images/icon-twitter.svg" | prepend:site.baseurl}} >Twitter</img></a>
             <a class="flex-auto white link " target="_blank" href=""> <img class="w1 mr1" src={{"images/icon-chat.svg" | prepend:site.baseurl}}>Chat</img></a>
             <a class="flex-auto white link " href="mailto:"><img class="w1 mr1"  src={{"images/icon-contact.svg" | prepend:site.baseurl}}>Email Us</img></a>
@@ -13,9 +13,13 @@
         </div>
         <div class="">
             <a class="dib-ns" href="https://mozilla.org" target="_blank">
-                <img class="br-ns bw1-ns b--white pr3-ns mr3-ns" height="30" width="105" src={{"images/mozilla-wordmark.svg" | prepend:site.baseurl}}/>
+                <img height="30" width="105"
+                     class="moz-footer-logo
+                            pr3-ns mr3-ns pb0-ns mb0-ns
+                            pb3 mb3 mr0 pr0"
+                     src={{"images/mozilla-wordmark.svg" | prepend:site.baseurl}}/>
             </a>
-            <p class="w-50-ns dib-ns tl-ns">Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a class="white link" href="//mozilla.org" target="_blank">mozilla.org</a></p>
+            <p class="w-50-ns dib-ns tl-ns">Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a class="b white link" href="//mozilla.org" target="_blank">mozilla.org</a></p>
         </div>
     </div>
 </footer>

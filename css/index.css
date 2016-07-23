@@ -66,6 +66,10 @@ body {
     white-space: pre;
     display:block;
 }
+.moz-footer-logo {
+    border-right: none;
+    border-bottom: solid white 1px;
+}
 
 @media screen and (min-width: 30em) and (max-width: 60em){
     .blr2-m {
@@ -107,6 +111,10 @@ body {
         white-space: normal;
         display: inline;
     }
+    .moz-footer-logo {
+        border-right: solid white 1px;
+        border-bottom: none;
+    }
 }
 
 @media screen and (min-width: 60em) {
@@ -145,6 +153,10 @@ body {
         content: "";
         white-space: normal;
         display: inline;
+    }
+    .moz-footer-logo {
+        border-right: solid white 1px;
+        border-bottom: none;
     }
 }
 
