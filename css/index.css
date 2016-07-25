@@ -63,7 +63,7 @@ body {
 }
 .moz-footer-logo {
     border-right: none;
-    border-bottom: solid white 1px;
+    border-bottom: solid #4A4A4A 1px;
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em){
@@ -107,7 +107,7 @@ body {
         display: inline;
     }
     .moz-footer-logo {
-        border-right: solid white 1px;
+        border-right: solid #4A4A4A 1px;
         border-bottom: none;
     }
     .flex-row-ns {
@@ -153,7 +153,7 @@ body {
         display: inline;
     }
     .moz-footer-logo {
-        border-right: solid white 1px;
+        border-right: solid #4A4A4A 1px;
         border-bottom: none;
     }
     .flex-row-ns {

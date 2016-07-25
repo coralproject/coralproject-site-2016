@@ -107,7 +107,7 @@ article p em:last-of-type {
 
 .moz-footer-logo {
     border-right: none;
-    border-bottom: solid white 1px;
+    border-bottom: solid #4A4A4A 1px;
 }
 @media screen and (min-width: 30em) and (max-width: 60em){
     .tz-border-m {
@@ -130,7 +130,7 @@ article p em:last-of-type {
         width: 3.3rem;
     }
     .moz-footer-logo {
-        border-right: solid white 1px;
+        border-right: solid #4A4A4A 1px;
         border-bottom: none;
     }
     .flex-row-ns {
@@ -158,7 +158,7 @@ article p em:last-of-type {
         width: 4rem;
     }
     .moz-footer-logo {
-        border-right: solid white 1px;
+        border-right: solid #4A4A4A 1px;
         border-bottom: none;
     }
     .flex-row-ns {
