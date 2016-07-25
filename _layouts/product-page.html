@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article>
+    <div id="preamble">
+        {% capture my-include %}
+        {% include products-about.md %}
+        {% endcapture %}
+        {{ my-include | markdownify }}
+    </div>
+
+    <div id="detail">
+    {{ content }}
+    </div>
+</article>

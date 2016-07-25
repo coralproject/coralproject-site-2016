@@ -45,6 +45,23 @@ article p em:last-of-type {
     font-style: italic;
 }
 
+div#preamble img {
+    margin-top: 2rem;
+    width: 4rem;
+}
+
+div#detail h1 {
+    text-align: center;
+}
+
+div#detail img {
+    width: 10rem;
+    margin-top: 4rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 @media screen and (min-width: 30em) and (max-width: 60em){
     body {
         font-size: 18px;

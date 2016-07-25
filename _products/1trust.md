@@ -1,6 +1,6 @@
 ---
 title: Trust
-layout: page
+layout: product-page
 permalink: /products/trust
 md: true
 imgurl: /images/prod-trust.svg
@@ -8,6 +8,9 @@ function: "Find people you can trust"
 bg-img-lg: /images/product-lg.jpg
 bg-img-sm: /images/product-lg.jpg
 ---
+
+![Trust]({{"/images/prod-trust.svg" | prepend:site.baseurl}})
+
 # Trust
 
 The biggest challenge with online communities is knowing who to trust in a particular situation.
