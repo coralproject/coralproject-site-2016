@@ -56,11 +56,6 @@ body {
     border-radius: 5px;
     color: white;
 }
-.contrib-bump::after {
-    content:"\a";
-    white-space: pre;
-    display:block;
-}
 .moz-footer-logo {
     border-right: none;
     border-bottom: solid #4A4A4A 1px;
@@ -100,11 +95,6 @@ body {
     }
     .f7-m {
         font-size: 0.75rem;
-    }
-    .contrib-bump::after {
-        content: "";
-        white-space: normal;
-        display: inline;
     }
     .moz-footer-logo {
         border-right: solid #4A4A4A 1px;
@@ -146,11 +136,6 @@ body {
     }
     .logo svg {
         height: 2rem;
-    }
-    .contrib-bump::after {
-        content: "";
-        white-space: normal;
-        display: inline;
     }
     .moz-footer-logo {
         border-right: solid #4A4A4A 1px;
