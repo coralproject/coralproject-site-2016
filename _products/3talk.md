@@ -1,6 +1,6 @@
 ---
 title: Talk
-layout: page
+layout: product-page
 permalink: /products/talk
 md: true
 imgurl: /images/prod-talk.svg
@@ -8,6 +8,9 @@ function: "Discuss ideas on your terms"
 bg-img-lg: /images/product-lg.jpg
 bg-img-sm: /images/product-lg.jpg
 ---
+
+![Talk]({{"/images/prod-talk.svg" | prepend:site.baseurl}})
+
 # Talk 
 
 Online comments are broken. Our Talk tool will reshape how moderation, comment display, and conversation function on your site, creating a safer, smarter discussion that’s open to all.

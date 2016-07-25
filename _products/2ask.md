@@ -1,6 +1,6 @@
 ---
 title: Ask
-layout: page
+layout: product-page
 permalink: /products/ask
 md: true
 imgurl: /images/prod-ask.svg
@@ -8,6 +8,9 @@ function: "Invite and display specific information"
 bg-img-lg: /images/product-lg.jpg
 bg-img-sm: /images/product-lg.jpg
 ---
+
+![Ask]({{"/images/prod-ask.svg" | prepend:site.baseurl}})
+
 # Ask 
 
 If you want to ask your audience a specific question to improve your reporting, you can give out your email, ask people to use social media or the comments box, or use a third-party form/survey tool.
