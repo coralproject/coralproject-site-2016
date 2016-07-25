@@ -11,6 +11,8 @@ features:
 bg-img-lg: /images/user-lg.jpg
 bg-img-sm: /images/user-lg.jpg
 ---
+![Community Members]({{"/images/community.svg" | prepend:site.baseurl}})
+
 # For Community Members
 
 ## Control your experience

@@ -11,6 +11,8 @@ features:
 bg-img-lg: /images/user-lg.jpg
 bg-img-sm: /images/user-lg.jpg
 ---
+![Engagement Editors]({{"/images/engagement-editors.svg" | prepend:site.baseurl}})
+
 # For Engagement Editors
 
 ## Customise your tools 

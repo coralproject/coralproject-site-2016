@@ -11,6 +11,8 @@ features:
 bg-img-lg: /images/user-lg.jpg
 bg-img-sm: /images/user-lg.jpg
 ---
+![Journalists]({{"/images/journalists.svg" | prepend:site.baseurl}})
+
 # For Journalists
 
 ## Have smarter interactions 

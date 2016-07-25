@@ -11,6 +11,8 @@ features:
 bg-img-lg: /images/user-lg.jpg
 bg-img-sm: /images/user-lg.jpg
 ---
+![Publishers]({{"/images/publishers.svg" | prepend:site.baseurl}})
+
 # For Publishers
 
 ## Increase engagement

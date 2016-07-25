@@ -45,7 +45,11 @@ article p em:last-of-type {
     font-style: italic;
 }
 
-div#preamble img {
+img {
+    width: 10rem;
+}
+
+#staff, div#preamble img {
     margin-top: 2rem;
     width: 4rem;
 }
