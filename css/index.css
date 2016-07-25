@@ -14,14 +14,9 @@ body {
     color: #f67150;
 }
 
-.body-grey {
-    color: #4A4A4A;
-}
-
 .check-grey {
     color: #9A9A9A;
 }
-
 
 .coral-bg {
     background-image: url('/images/coralbg.jpg');
