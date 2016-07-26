@@ -8,8 +8,8 @@ features:
     - text: "Control your experience"
     - text: "Interact with the newsroom"
     - text: "Avoid harassment"
-bg-img-lg: /images/user-lg.jpg
-bg-img-sm: /images/user-lg.jpg
+bg-img-lg: /images/users-community-lg.jpg
+bg-img-sm: /images/users-community-lg.jpg
 ---
 ![Community Members]({{"/images/community.svg" | prepend:site.baseurl}})
 

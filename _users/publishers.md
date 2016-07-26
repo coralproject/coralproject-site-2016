@@ -8,8 +8,8 @@ features:
     - text: "Increase engagement"
     - text: "Increase loyalty"
     - text: "Improve content"
-bg-img-lg: /images/user-lg.jpg
-bg-img-sm: /images/user-lg.jpg
+bg-img-lg: /images/users-publisher-lg.jpg
+bg-img-sm: /images/users-publisher-lg.jpg
 ---
 ![Publishers]({{"/images/publishers.svg" | prepend:site.baseurl}})
 

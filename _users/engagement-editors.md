@@ -8,8 +8,8 @@ features:
     - text: "Customize your tools"
     - text: "Scale your workload"
     - text: "Find great contributions"
-bg-img-lg: /images/user-lg.jpg
-bg-img-sm: /images/user-lg.jpg
+bg-img-lg: /images/users-engagement-lg.jpg
+bg-img-sm: /images/users-engagement-lg.jpg
 ---
 ![Engagement Editors]({{"/images/engagement-editors.svg" | prepend:site.baseurl}})
 
