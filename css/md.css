@@ -8,6 +8,9 @@ body {
     line-height: 23px;
 }
 
+ul {
+    list-style: square;
+}
 article {
     width: 84%;
     margin-left: auto;
@@ -93,6 +96,7 @@ div#detail img {
     
     div#preamble {
         max-width: 33rem;
+        margin-bottom: 5rem;
     }
 
     div#preamble img {
@@ -140,8 +144,8 @@ div#detail img {
     div#preamble {
         min-width: 33rem;
         max-width: 50rem;
+        margin-bottom: 8rem;
     }
-
     div#preamble img {
         display: inline;
         float: left;
