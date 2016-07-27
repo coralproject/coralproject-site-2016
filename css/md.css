@@ -90,6 +90,21 @@ div#detail img {
         font-size: 14px;
         line-height: 25px;
     }
+    
+    div#preamble {
+        max-width: 33rem;
+    }
+
+    div#preamble img {
+        display: inline;
+        float: left;
+        margin-top: 0;
+        margin-bottom: 20%;
+        margin-right: 2rem;
+    }
+    div#preamble h2 {
+        display: inline;
+    }
 }
 
 @media screen and (min-width: 60em) {
@@ -121,6 +136,31 @@ div#detail img {
     article p em:last-of-type {
         font-size: 14px;
         line-height: 25px;
+    }
+    div#preamble {
+        min-width: 33rem;
+        max-width: 50rem;
+    }
+
+    div#preamble img {
+        display: inline;
+        float: left;
+        margin-top: 0;
+        margin-bottom: 12%;
+        margin-right: 2rem;
+        width: 6rem;
+    }
+    div#preamble h1 {
+        margin-bottom: 3rem;
+    }
+    div#preamble h1 + p {
+        margin-bottom: 4rem;
+    }
+    div#preamble h2 {
+        display: inline;
+    }
+    div#preamble h2 + p {
+        margin-bottom: 4rem;
     }
 }
 
