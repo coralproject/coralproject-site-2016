@@ -23,3 +23,11 @@
         </div>
     </div>
 </footer>
+
+  <script type="text/javascript">
+   var toggles = document.getElementsByClassName("toggle");
+   var smNav = document.getElementById("sm-nav-container");
+   Array.prototype.forEach.call(toggles, function(toggle, index) {
+       toggle.addEventListener("click", function(){smNav.classList.toggle("onscreen")});
+   });
+  </script>

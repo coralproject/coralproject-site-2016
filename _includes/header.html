@@ -1,3 +1,15 @@
+<div id="sm-nav-container" class="absolute dn-ns w-100 h-100">
+    <nav id="sm-nav-bg" class="w-100 h-100">
+        <div class="toggle tr db"><img class="pa3 w1" src="/images/close.svg"></div>
+        <a class="tc db pa3" href="{{ site.baseurl }}/"><img class="w2" src="/images/icon-coral-white.svg"></a>
+        <a class="tc db pa3 link white ttu tracked f3 b" href={{"about.html" | prepend:site.baseurl }}>About</a>
+        <a class="tc db pa3 link white ttu tracked f3 b" href={{"/products/trust.html" | prepend:site.baseurl}}>Products</a>
+        <a class="tc db pa3 link white ttu tracked f3 b" href={{"/install.html" | prepend:site.baseurl }}>Install</a>
+        <a class="tc db pa3 link white ttu tracked f3 b" href="{{ "/index.html#contribute" | prepend:site.baseurl }}">Contribute</a>
+        <a class="tc db pa3 link white ttu tracked f3 b" href="">Contact</a>
+    </nav>
+</div>
+
 <div class="relative flex content-center justify-center">
     <div class="flex-auto">
         <header>
@@ -8,12 +20,13 @@
                 <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href={{"/install.html" | prepend:site.baseurl }}>Install</a>
                 <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href="{{ "/index.html#contribute" | prepend:site.baseurl }}">Contribute</a>
                 <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href="">Contact</a>
-                <a class="dn-ns dtc w-75 v-mid tr pr3 pt3" href="">
+                <div class="toggle dn-ns dtc w-75 v-mid tr pr3 pt3" >
                     {% include icon-menu.svg %}
-                </a>
+                </div>
             </nav>
         </header>
     </div>
+
     {% include moztab.html %}
     {% if page.md %}
     {% else %}
