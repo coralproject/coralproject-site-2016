@@ -6,7 +6,8 @@ md: true
 imgurl: /images/prod-guides.svg
 function: "Learn about online communities"
 bg-img-lg: /images/product-lg.jpg
-bg-img-sm: /images/product-lg.jpg
+bg-img-md: /images/product-md.jpg
+bg-img-sm: /images/product-sm.jpg
 ---
 
 ![Guides]({{"/images/prod-guides.svg" | prepend:site.baseurl}})

@@ -6,7 +6,8 @@ md: true
 imgurl: /images/prod-ask.svg
 function: "Invite and display specific information"
 bg-img-lg: /images/product-lg.jpg
-bg-img-sm: /images/product-lg.jpg
+bg-img-md: /images/product-md.jpg
+bg-img-sm: /images/product-sm.jpg
 ---
 
 ![Ask]({{"/images/prod-ask.svg" | prepend:site.baseurl}})

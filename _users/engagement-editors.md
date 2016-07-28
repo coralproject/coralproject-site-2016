@@ -9,7 +9,8 @@ features:
     - text: "Scale your workload"
     - text: "Find great contributions"
 bg-img-lg: /images/users-engagement-lg.jpg
-bg-img-sm: /images/users-engagement-lg.jpg
+bg-img-md: /images/users-engagement-md.jpg
+bg-img-sm: /images/users-engagement-sm.jpg
 ---
 ![Engagement Editors]({{"/images/engagement-editors.svg" | prepend:site.baseurl}})
 

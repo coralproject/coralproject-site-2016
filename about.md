@@ -4,7 +4,8 @@ layout: page
 permalink: /about
 md: true
 bg-img-lg: /images/learnmore-lg.jpg
-bg-img-sm: /images/learnmore-lg.jpg
+bg-img-md: /images/learnmore-md.jpg
+bg-img-sm: /images/learnmore-sm.jpg
 members:
     - name: Andrew Losowsky
       title: Project Lead

@@ -9,7 +9,8 @@ features:
     - text: "Interact with the newsroom"
     - text: "Avoid harassment"
 bg-img-lg: /images/users-community-lg.jpg
-bg-img-sm: /images/users-community-lg.jpg
+bg-img-md: /images/users-community-md.jpg
+bg-img-sm: /images/users-community-sm.jpg
 ---
 ![Community Members]({{"/images/community.svg" | prepend:site.baseurl}})
 

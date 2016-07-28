@@ -9,7 +9,8 @@ features:
     - text: "Find potential sources"
     - text: "Create an audience"
 bg-img-lg: /images/users-journalist-lg.jpg
-bg-img-sm: /images/users-journalist-lg.jpg
+bg-img-md: /images/users-journalist-md.jpg
+bg-img-sm: /images/users-journalist-sm.jpg
 ---
 ![Journalists]({{"/images/journalists.svg" | prepend:site.baseurl}})
 

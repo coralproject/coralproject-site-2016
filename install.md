@@ -4,7 +4,8 @@ layout: page
 permalink: /install
 md: true
 bg-img-lg: /images/install-lg.jpg
-bg-img-sm: /images/install-lg.jpg
+bg-img-md: /images/install-md.jpg
+bg-img-sm: /images/install-sm.jpg
 ---
 
 # How to Install

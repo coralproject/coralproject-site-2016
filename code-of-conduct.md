@@ -4,7 +4,8 @@ layout: page
 permalink: /code-of-conduct
 md: true
 bg-img-lg: /images/coc-lg.jpg
-bg-img-sm: /images/coc-lg.jpg
+bg-img-md: /images/coc-md.jpg
+bg-img-sm: /images/coc-sm.jpg
 ---
 # Code of Conduct
 

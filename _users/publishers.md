@@ -9,7 +9,8 @@ features:
     - text: "Increase loyalty"
     - text: "Improve content"
 bg-img-lg: /images/users-publisher-lg.jpg
-bg-img-sm: /images/users-publisher-lg.jpg
+bg-img-md: /images/users-publisher-md.jpg
+bg-img-sm: /images/users-publisher-sm.jpg
 ---
 ![Publishers]({{"/images/publishers.svg" | prepend:site.baseurl}})
 

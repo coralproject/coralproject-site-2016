@@ -6,7 +6,8 @@ md: true
 imgurl: /images/prod-trust.svg
 function: "Find people you can trust"
 bg-img-lg: /images/product-lg.jpg
-bg-img-sm: /images/product-lg.jpg
+bg-img-md: /images/product-md.jpg
+bg-img-sm: /images/product-sm.jpg
 ---
 
 ![Trust]({{"/images/prod-trust.svg" | prepend:site.baseurl}})
