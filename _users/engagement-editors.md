@@ -12,7 +12,8 @@ bg-img-lg: /images/users-engagement-lg.jpg
 bg-img-md: /images/users-engagement-md.jpg
 bg-img-sm: /images/users-engagement-sm.jpg
 ---
-![Engagement Editors]({{"/images/engagement-editors.svg" | prepend:site.baseurl}})
+
+<img alt="Engagement Editors" src="/images/engagement-editors.svg" class="w4">
 
 # For Engagement Editors
 

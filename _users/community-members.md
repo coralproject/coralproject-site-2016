@@ -12,7 +12,8 @@ bg-img-lg: /images/users-community-lg.jpg
 bg-img-md: /images/users-community-md.jpg
 bg-img-sm: /images/users-community-sm.jpg
 ---
-![Community Members]({{"/images/community.svg" | prepend:site.baseurl}})
+
+<img alt="Community Members" src="/images/community.svg" class="w4">
 
 # For Community Members
 

@@ -12,7 +12,7 @@ bg-img-lg: /images/users-publisher-lg.jpg
 bg-img-md: /images/users-publisher-md.jpg
 bg-img-sm: /images/users-publisher-sm.jpg
 ---
-![Publishers]({{"/images/publishers.svg" | prepend:site.baseurl}})
+<img alt="Publishers" src="/images/publishers.svg" class="w4">
 
 # For Publishers
 

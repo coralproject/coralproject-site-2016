@@ -12,7 +12,7 @@ bg-img-lg: /images/users-journalist-lg.jpg
 bg-img-md: /images/users-journalist-md.jpg
 bg-img-sm: /images/users-journalist-sm.jpg
 ---
-![Journalists]({{"/images/journalists.svg" | prepend:site.baseurl}})
+<img alt="Journalists" src="/images/journalists.svg" class="w4">
 
 # For Journalists
 
