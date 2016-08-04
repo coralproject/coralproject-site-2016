@@ -57,7 +57,7 @@ img {
     width: 10rem;
 }
 
-#staff, div#preamble img {
+div#preamble img {
     margin-top: 2rem;
     width: 4rem;
 }
@@ -146,19 +146,46 @@ div#detail img {
         font-size: 22px;
         line-height: 28px;
     }
+    
     article h3 {
         font-weight: 700;
         font-size: 18px;
         line-height: 28px;
     }
-    article p em:last-of-type {
+
+    article img[src *= "/team/"]{
+        float: left;
+        margin-right: 2rem;
+        margin-bottom: 8rem;
+    }
+
+    article > h2 ~ p {
+    }
+
+    article > h2 ~ p:nth-child(3n+1):after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    article > p ~ h3 {
+        margin-top: 0rem;
+    }
+    
+    article > p ~ h3 ~ p {
+        /* background-color: red; */
+        margin-top: 0rem;
+    }
+
+    article p em:last-of-type { /* attribution text on code-of-conduct page  */
         font-size: 14px;
         line-height: 25px;
     }
+
     div#preamble {
         min-width: 33rem;
         max-width: 50rem;
-        margin-bottom: 8rem;
+        margin-bottom: 6rem;
     }
     div#preamble img {
         display: inline;
