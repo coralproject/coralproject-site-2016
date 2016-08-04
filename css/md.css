@@ -17,6 +17,7 @@ article {
     margin-right: auto;
     margin-bottom: 2rem;
     background-color: white;
+    min-height: 40rem;
 }
 
 article h3 {
@@ -108,7 +109,7 @@ div#detail img {
     }
     article {
         position: relative;
-        margin-top: -20rem;
+        margin-top: -45%;
         padding-left: 9%;
         padding-right: 9%;
         padding-top: 3rem;
@@ -187,7 +188,7 @@ div#detail img {
 
     article {
         position: relative;
-        margin-top: -26rem;
+        margin-top: -45%;
         width: 66%;
         padding-left: 9%;
         padding-right: 9%;
