@@ -15,6 +15,7 @@ article {
     width: 84%;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 2rem;
     background-color: white;
 }
 
@@ -47,10 +48,36 @@ article h2 {
     font-weight: 700;
 }
 
-article p em:last-of-type {
-    font-size: 12px;
-    line-height: 19px;
-    font-style: italic;
+article > h2 + p > img[src *= "/team/"]{
+    margin-top: 1rem;
+}
+
+article img[src *= "/team/"]{
+    margin-top: 3rem;
+    margin-bottom: 0rem;
+}
+
+article > h2 ~ p {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+
+article > p ~ h3 {
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+}
+
+article > p ~ h3 ~ p {
+    /* background-color: red; */
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+
+article p em:last-of-type { /* attribution text on code-of-conduct page  */
+    font-size: 14px;
+    line-height: 25px;
 }
 
 img {
@@ -99,7 +126,33 @@ div#detail img {
         font-size: 18px;
         line-height: 28px;
     }
-    article p em:last-of-type {
+
+    article img[src *= "/team/"]{
+        float: left;
+        margin-right: 2rem;
+        margin-bottom: 14rem;
+    }
+
+    article > h2 ~ p {
+    }
+
+    article > h2 ~ p:nth-child(3n+1):after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    article > p ~ h3 {
+        margin-top: 0rem;
+        margin-bottom: 0rem;
+    }
+    
+    article > p ~ h3 ~ p {
+        /* background-color: red; */
+        margin-top: 0rem;
+    }
+
+    article p em:last-of-type { /* attribution text on code-of-conduct page  */
         font-size: 14px;
         line-height: 25px;
     }
