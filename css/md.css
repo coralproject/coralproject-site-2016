@@ -127,8 +127,13 @@ div#detail img {
         line-height: 28px;
     }
 
+    article > h2 + p > img[src *= "/team/"]{
+        margin-top: 0rem;
+    }
+
     article img[src *= "/team/"]{
         float: left;
+        margin-top: 0rem;
         margin-right: 2rem;
         margin-bottom: 14rem;
     }
@@ -206,9 +211,14 @@ div#detail img {
         line-height: 28px;
     }
 
+    article > h2 + p > img[src *= "/team/"]{
+        margin-top: 0rem;
+    }
+
     article img[src *= "/team/"]{
         float: left;
         margin-right: 2rem;
+        margin-top: 0rem;
         margin-bottom: 8rem;
     }
 
