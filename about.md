@@ -32,7 +32,7 @@ And the name? Coral’s intricate reef systems protect shorelines from natural d
 ### David Erwin, Lead Engineer
 *I’m an engineer with a penchant for product work. I was previously Lead Engineer at The New York Times, the CTO at Zap on Demand and a Project Leader at Telcordia. Currently: CTO of World Fit, a charity that seeks to end childhood obesity.*
 
-![Kim Gardner]({{"/images/team/Kim.jpg" | prepend: site.baseurl}}) 
+![Kimberly Gardner]({{"/images/team/Kim.jpg" | prepend: site.baseurl}}) 
 
 ### Kim Gardner, Project Manager
 *TKTKTKTKTK TKTKTKTKTKTK*
