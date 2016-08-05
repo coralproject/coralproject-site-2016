@@ -29,7 +29,7 @@ And the name? Coral’s intricate reef systems protect shorelines from natural d
 
 ![David Erwin]({{"images/team/David.jpg" | prepend: site.baseurl}}) 
 
-### David Erwin, Consultant Engineer
+### David Erwin, Lead Engineer
 *I’m an engineer with a penchant for product work. I was previously Lead Engineer at The New York Times, the CTO at Zap on Demand and a Project Leader at Telcordia. Currently: CTO of World Fit, a charity that seeks to end childhood obesity.*
 
 ![Kim Gardner]({{"/images/team/Kim.jpg" | prepend: site.baseurl}}) 
@@ -72,7 +72,7 @@ And the name? Coral’s intricate reef systems protect shorelines from natural d
 ### Riley Davis, Full-Stack Developer
 *I like building things. Formerly of Tumblr and the New York Times, creating data visualizations and general digital goods.*
 
-![Pablo Cuadrado ]({{"/images/team/Pablo.jpg" | prepend: site.baseurl}}) 
+![Pablo Cuadrado ]({{"/images/team/pablo.jpg" | prepend: site.baseurl}}) 
 
 *I'm a full-stack developer, working mostly on UX/UI and interaction design. I love crafting beautifully designed software, balancing capabilities, finding trade-offs and developing the underlying frontend architecture to support fluent interactions. Started working with journalists as co-founder of Hacks/Hackers Rosario and still excited about it.*
 
@@ -98,7 +98,7 @@ And the name? Coral’s intricate reef systems protect shorelines from natural d
 ### Martin Shelton, Project Advisor, Knight-Mozilla OpenNews Fellow
 *Through user research and data analytics, I study how to improve online privacy and security for at-risk groups. I previously worked at Google, the Pew Research Center, and Twitter as an intern. I earned my PhD in Information and Computer Science at UC Irvine.*
 
-![Dan Sinker ]({{"/images/team/Dan.jpg" | prepend: site.baseurl}}) 
+![Dan Sinker ]({{"/images/team/Dan Sinker.jpg" | prepend: site.baseurl}}) 
 
 ### Dan Sinker, Project Advisor, Knight-Mozilla OpenNews Fellow
 *I am the director of OpenNews as well as a journalist, entrepreneur and maker based out of Chicago. I taught digital journalism at Columbia College Chicago, was a Knight Fellow at Stanford University, and founded and ran the magazine Punk Planet.*
