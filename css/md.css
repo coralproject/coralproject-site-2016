@@ -77,7 +77,6 @@ article p em:last-of-type { /* attribution text on code-of-conduct page  */
     margin-bottom: 0rem;
 }
 
-
 #team > p ~ h3 {
     margin-top: 1rem;
     margin-bottom: 0rem;
@@ -101,6 +100,8 @@ article p em:last-of-type { /* attribution text on code-of-conduct page  */
 
 #user > p > img {
     margin-left: 0;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em){
@@ -233,6 +234,19 @@ article p em:last-of-type { /* attribution text on code-of-conduct page  */
         margin-left: -16%;
         margin-right: -16%;
         box-shadow: 0px 0px 12px #666;
+    }
+
+    #user > p > img {
+        margin-bottom: 0rem;
+    }
+    
+    #user > p:first-of-type  {
+        display: inline-block; 
+    }
+
+    #user > h1 {
+        display:inline-block;
+        vertical-align: top;
     }
 
     article p em:last-of-type { /* attribution text on code-of-conduct page  */
