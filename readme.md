@@ -8,7 +8,12 @@ Markdown is designed to let you create webpages as easily as you'd create a plai
 
 ### Headers
 
-This site's markdown pages use \# marks to show headers. \# is for the largest header, \#\# for the second-largest, and \#\#\# for the third-largest (only used in the About page - please read about that page before using it!). Be sure to include a blank line before and after each header for markdown to pick it up properly.j
+This site's markdown pages use \# marks to show headers. \# is for the largest header, \#\# for the second-largest, and \#\#\# for the third-largest (only used in the About page - please read about that page before using it!). Be sure to include a blank line before and after each header for markdown to pick it up properly. So, for a second level header, you write:
+```
+
+## Second level header (don't forget the blank lines above and below)
+
+```
 
 
 ### Images
