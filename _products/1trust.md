@@ -30,6 +30,6 @@ Trust is currently in a closed beta test.
 
 ## View our other products:
 
-[Ask](/products/ask)
-[Talk](/products/talk)
-[Guides](/products/guides)
+[Ask](/products/ask.html)
+[Talk](/products/talk.html)
+[Guides](/products/guides.html)
