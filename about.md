@@ -1,6 +1,6 @@
 ---
 title: About the Coral Project
-layout: page
+layout: about-page
 permalink: /about
 md: true
 bg-img-lg: /images/learnmore-lg.jpg
@@ -42,7 +42,7 @@ And the name? Coral’s intricate reef systems protect shorelines from natural d
 ### Greg Barber, Head of Strategy and Partnerships
 "I’ve made a career of startups within news organizations. When not working with The Coral Project, I’m focused on interactivity, personalization, and news games as Director of Digital News Projects at The Washington Post."
 
-![Emma Grdina]({{"/images/team/Emma.png" | prepend: site.baseurl}}) 
+![Emma Grdina]({{"/images/team/Emma.jpg" | prepend: site.baseurl}}) 
 
 ### Emma Grdina, Lead Designer
 "I’m interested in using design to create engaging online spaces that people look forward to visiting. Currently I work on the Digital Design team at The Washington Post."
@@ -62,7 +62,7 @@ And the name? Coral’s intricate reef systems protect shorelines from natural d
 ### Riley Davis, Full-Stack Developer
 "I like building things. Formerly of Tumblr and the New York Times, creating data visualizations and general digital goods."
 
-![Dan Zajdband ]({{"/images/team/Dan.png" | prepend: site.baseurl}}) 
+![Dan Zajdband ]({{"/images/team/Dan.jpg" | prepend: site.baseurl}}) 
 
 ### Dan Zajdband, Knight-Mozilla OpenNews Fellow
 "I’m a software developer passionate about real-time technologies, open source projects and Open Journalism. I create digital tools for people to express their ideas in different and creative ways. In my spare time, I do things I can’t do well, like playing soccer and the guitar."
