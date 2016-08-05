@@ -26,4 +26,4 @@ By combining it with our Ask and Talk tools, you can create automatic actions ba
 
 Trust is currently in a closed beta test.
 
-
+[![Trust screenshot]({{"/images/trust_screenshot.png" | prepend:site.baseurl}})](/images/trust_screenshot.png)

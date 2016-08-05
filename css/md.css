@@ -11,6 +11,7 @@ body {
 ul {
     list-style: square;
 }
+
 article {
     width: 84%;
     margin-left: auto;
@@ -18,6 +19,19 @@ article {
     margin-bottom: 2rem;
     background-color: white;
     min-height: 40rem;
+}
+
+article h1 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 23px;
+    color: #1e0038;
+}
+
+article h2 {
+    font-size: 19px;
+    line-height: 23px;
+    font-weight: 700;
 }
 
 article h3 {
@@ -36,70 +50,53 @@ article a:hover {
     color: #f67150;
 }
 
-article h1 {
-    font-size: 24px;
-    font-weight: 700;
-    line-height: 23px;
-    color: #1e0038;
+article p > img[src $= "svg"]{ /* SVG logos in markdown pages  */
+    width: 10rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-
-article h2 {
-    font-size: 19px;
-    line-height: 23px;
-    font-weight: 700;
-}
-
-article > h2 + p > img[src *= "/team/"]{
-    margin-top: 1rem;
-}
-
-article img[src *= "/team/"]{
-    margin-top: 3rem;
-    margin-bottom: 0rem;
-}
-
-article > h2 ~ p {
-    margin-top: 0rem;
-    margin-bottom: 0rem;
-}
-
-
-article > p ~ h3 {
-    margin-top: 1rem;
-    margin-bottom: 0rem;
-}
-
-article > p ~ h3 ~ p {
-    /* background-color: red; */
-    margin-top: 0rem;
-    margin-bottom: 0rem;
-}
-
 
 article p em:last-of-type { /* attribution text on code-of-conduct page  */
     font-size: 14px;
     line-height: 25px;
 }
 
-img {
+#team > h2 + p > img[src *= "/team/"]{
+    margin-top: 1rem;
+}
+
+#team img[src *= "/team/"]{
+    margin-top: 3rem;
+    margin-bottom: 0rem;
     width: 10rem;
 }
 
-div#preamble img {
+#team > h2 ~ p {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+
+#team > p ~ h3 {
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+}
+
+#team > p ~ h3 ~ p {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+#product p > a > img[src $= "png"]{
+    width: 100%;
     margin-top: 2rem;
-    width: 4rem;
+    box-shadow: 0px 0px 12px #666;
+    border-bottom: none;
 }
 
-div#detail h1 {
-    text-align: center;
-}
-
-div#detail img {
-    width: 10rem;
-    margin-top: 4rem;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+#product p > a {
+    border-bottom: none;
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em){
@@ -128,55 +125,44 @@ div#detail img {
         line-height: 28px;
     }
 
-    article > h2 + p > img[src *= "/team/"]{
+    #team > h2 + p > img[src *= "/team/"]{
         margin-top: 0rem;
     }
 
-    article img[src *= "/team/"]{
+    #team img[src *= "/team/"]{
         float: left;
         margin-top: 0rem;
         margin-right: 2rem;
         margin-bottom: 14rem;
     }
 
-    article > h2 ~ p {
-    }
-
-    article > h2 ~ p:nth-child(3n+1):after {
+    #team > h2 ~ p:nth-child(3n+1):after {
         content: "";
         display: table;
         clear: both;
     }
 
-    article > p ~ h3 {
+    #team > p ~ h3 {
         margin-top: 0rem;
         margin-bottom: 0rem;
     }
     
-    article > p ~ h3 ~ p {
+    #team > p ~ h3 ~ p {
         /* background-color: red; */
         margin-top: 0rem;
+    }
+
+    #product p > img[src $= "png"]{
+        width: 132%; 
+        margin-top: 2rem;
+        margin-left: -16%;
+        margin-right: -16%;
+        box-shadow: 0px 0px 12px #666;
     }
 
     article p em:last-of-type { /* attribution text on code-of-conduct page  */
         font-size: 14px;
         line-height: 25px;
-    }
-    
-    div#preamble {
-        max-width: 33rem;
-        margin-bottom: 5rem;
-    }
-
-    div#preamble img {
-        display: inline;
-        float: left;
-        margin-top: 0;
-        margin-bottom: 20%;
-        margin-right: 2rem;
-    }
-    div#preamble h2 {
-        display: inline;
     }
 }
 
@@ -212,64 +198,42 @@ div#detail img {
         line-height: 28px;
     }
 
-    article > h2 + p > img[src *= "/team/"]{
+    #team > h2 + p > img[src *= "/team/"]{
         margin-top: 0rem;
     }
 
-    article img[src *= "/team/"]{
+    #team img[src *= "/team/"]{
         float: left;
         margin-right: 2rem;
         margin-top: 0rem;
         margin-bottom: 8rem;
     }
 
-    article > h2 ~ p {
-    }
-
-    article > h2 ~ p:nth-child(3n+1):after {
+    #team > h2 ~ p:nth-child(3n+1):after {
         content: "";
         display: table;
         clear: both;
     }
 
-    article > p ~ h3 {
+    #team > p ~ h3 {
         margin-top: 0rem;
     }
     
-    article > p ~ h3 ~ p {
-        /* background-color: red; */
+    #team > p ~ h3 ~ p {
         margin-top: 0rem;
+    }
+
+    #product p > img[src $= "png"]{
+        width: 132%; 
+        margin-top: 2rem;
+        margin-left: -16%;
+        margin-right: -16%;
+        box-shadow: 0px 0px 12px #666;
     }
 
     article p em:last-of-type { /* attribution text on code-of-conduct page  */
         font-size: 14px;
         line-height: 25px;
-    }
-
-    div#preamble {
-        min-width: 33rem;
-        max-width: 50rem;
-        margin-bottom: 6rem;
-    }
-    div#preamble img {
-        display: inline;
-        float: left;
-        margin-top: 0;
-        margin-bottom: 12%;
-        margin-right: 2rem;
-        width: 6rem;
-    }
-    div#preamble h1 {
-        margin-bottom: 3rem;
-    }
-    div#preamble h1 + p {
-        margin-bottom: 4rem;
-    }
-    div#preamble h2 {
-        display: inline;
-    }
-    div#preamble h2 + p {
-        margin-bottom: 4rem;
     }
 }
 
