@@ -1,6 +1,6 @@
 ---
 title: Community Members
-layout: page
+layout: user-page
 permalink: /users/community-members
 md: true
 imgurl: "/images/community.svg"
@@ -13,7 +13,7 @@ bg-img-md: /images/users-community-md.jpg
 bg-img-sm: /images/users-community-sm.jpg
 ---
 
-<img alt="Community Members" src="/images/community.svg" class="w4">
+![Community Members](/images/community.svg)
 
 # For Community Members
 

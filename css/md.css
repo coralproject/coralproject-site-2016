@@ -99,6 +99,10 @@ article p em:last-of-type { /* attribution text on code-of-conduct page  */
     border-bottom: none;
 }
 
+#user > p > img {
+    margin-left: 0;
+}
+
 @media screen and (min-width: 30em) and (max-width: 60em){
     body {
         font-size: 18px;

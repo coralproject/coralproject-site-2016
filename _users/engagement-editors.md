@@ -1,6 +1,6 @@
 ---
 title: Engagement Editors
-layout: page
+layout: user-page
 permalink: /users/engagement-editors
 md: true
 imgurl: "/images/engagement-editors.svg"
@@ -13,7 +13,7 @@ bg-img-md: /images/users-engagement-md.jpg
 bg-img-sm: /images/users-engagement-sm.jpg
 ---
 
-<img alt="Engagement Editors" src="/images/engagement-editors.svg" class="w4">
+![Engagment Editors](/images/engagement-editors.svg)
 
 # For Engagement Editors
 

@@ -1,6 +1,6 @@
 ---
 title: Journalists
-layout: page
+layout: user-page
 permalink: /users/journalists
 md: true
 imgurl: "/images/journalists.svg"
@@ -12,7 +12,8 @@ bg-img-lg: /images/users-journalist-lg.jpg
 bg-img-md: /images/users-journalist-md.jpg
 bg-img-sm: /images/users-journalist-sm.jpg
 ---
-<img alt="Journalists" src="/images/journalists.svg" class="w4">
+
+![Journalists](/images/journalists.svg)
 
 # For Journalists
 

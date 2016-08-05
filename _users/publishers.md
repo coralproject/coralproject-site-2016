@@ -1,6 +1,6 @@
 ---
 title: Publishers
-layout: page
+layout: user-page
 permalink: /users/publishers
 md: true
 imgurl: "/images/publishers.svg"
@@ -12,7 +12,8 @@ bg-img-lg: /images/users-publisher-lg.jpg
 bg-img-md: /images/users-publisher-md.jpg
 bg-img-sm: /images/users-publisher-sm.jpg
 ---
-<img alt="Publishers" src="/images/publishers.svg" class="w4">
+
+![Publishers](/images/publishers.svg)
 
 # For Publishers
 
