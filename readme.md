@@ -1,6 +1,6 @@
 # About this project
 
-This is the current Coral Project website, giving an overview of the Coral Projects goals, target users and products. It's hosted on GitHub pages, via their Jekyll integration. Jekyll is a static site generator that understands Markdown as well as HTML, allowing anyone to create and edit webpages. You can read more about it [here](http://jekyllrb.com), but I'll explain anything that impacts direclty on the site in the text below.
+This is the current Coral Project website, giving an overview of the Coral Projects goals, target users and products. It's hosted on GitHub pages, via their Jekyll integration. Jekyll is a static site generator that understands Markdown as well as HTML, allowing anyone to create and edit webpages. You can read more about it [here](http://jekyllrb.com), but I'll explain anything that impacts directly on the site in the text below.
 
 ## About Markdown
 
@@ -14,7 +14,6 @@ This site's markdown pages use \# marks to show headers. \# is for the largest h
 ## Second level header (don't forget the blank lines above and below)
 
 ```
-
 
 ### Images
 
@@ -34,7 +33,11 @@ There are a couple of special cases for links it's good to be aware of.
   Internal links are links that connect to a specific part of a page. The url for them looks like http://sitename.com/page-name#fragment, where fragment is the specific part of the page you want. They're specified exactly like that in markdown urls (the part in the round brackets) too.
 - Relative links
   Relative links are links specified from the root of the current site. You can leave off the http://sitename.com part, leaving just /page-name, and the link will point at a location on the local site. That's why the screenshot link above, '/images/trust_screenshot.png', worked. You'll see this format in most of the markdown pages that include logos or images.
-  
+
+```
+[Internal link](http://sitename/pagename#internal-fragment)
+[Relative link](/starts-with/slash)
+```
   
 ## About Jekyll's use of YAML to control markdown generation
 
