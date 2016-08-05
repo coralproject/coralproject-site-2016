@@ -20,7 +20,7 @@ Strong community is about more than software. Our guides will help everyone in t
 
 The Coral Project’s complete guide to journalism and engagement will be released in Q1 2017.
 
-**View our other products:**
+## View our other products:
 
 [Trust](/products/trust)
 [Ask](/products/ask)
