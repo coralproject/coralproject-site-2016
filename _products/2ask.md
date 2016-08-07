@@ -44,7 +44,7 @@ Ways you can help:
 * See [our feature wishlist](https://trello.com/b/hAtt6ujX/ask) in the "Future Features" column on our Trello board
 * Suggest new features [on our community board](https://community.coralproject.net/c/the-coral-project/product-ask)
 * Email ideas to [Jeff Nelson](mailto: jeff@mozillafoundation.org)
-* Fill out the form below *(which is powered by Ask btw, nbd)*
+* Add your ideas in the form below *(which is powered by Ask btw, nbd)*
 
 <br />
 
@@ -59,17 +59,19 @@ Ways you can help:
 
 All of our software is created under an [Apache 2.0 open source license.](http://www.apache.org/licenses/LICENSE-2.0) We'll fully credit you for anything you make. 
 
-## Fix some bugs
+## Report/Fix some bugs
 
 Ways you can help:
 
 * Take a look at our [outstanding GitHub issues](https://github.com/coralproject/ask/issues)
 * Read [our guide to contributing to The Coral Project](http://coralprojectdocs.herokuapp.com/contribute/writing_code/)
 * [Submit a GitHub issue](http://coralprojectdocs.herokuapp.com/contribute/reporting_bugs/) if there isn't one already
-* Email our [Jeff Nelson](mailto: jeff@mozillafoundation.org) if you'd like any help/direction
+* Report your bugs in the form below
+* Email [Jeff Nelson](mailto: jeff@mozillafoundation.org) if you'd like any help/direction
 
 <br />
 
+**ASK FORM HERE**
 
 
 ## View our other products:
