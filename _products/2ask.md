@@ -30,7 +30,7 @@ By combining Ask with Trust and Talk, you can easily identify the best people to
 
 Ask is about to launch in an open beta. 
 
-[![Ask screenshot]({{"/images/ask_screenshot.png" | prepend:site.baseurl}})](/images/ask_screenshot.png)
+[![Ask screenshot]({{"/images/ask_screenshot.png" | prepend:site.baseurl}})](/images/ask_screenshot.png "[IMAGE] A screenshot of the form builder screen of our Ask tool")
 
 ## View our other products:
 * [Trust](/products/trust)
