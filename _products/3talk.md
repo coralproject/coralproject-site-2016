@@ -20,7 +20,7 @@ By combining Talk with Trust, you’ll have a flexible tool with a powerful, sca
 
 *Talk will enter its first beta phase in Q4 2016.*
 
-## Join our community and help build Talk
+## Join our community of Talk makers
 
 If you have ideas or suggestions, [you can add them to our community.](https://community.coralproject.net/c/the-coral-project/product-talk) 
 
