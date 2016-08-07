@@ -94,7 +94,7 @@ article p em:last-of-type { /* attribution text on code-of-conduct page  */
     border-bottom: none;
 }
 
-#product p > a {
+#product p > a[href *= "screenshot"]{
     border-bottom: none;
 }
 
