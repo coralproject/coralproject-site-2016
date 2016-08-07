@@ -22,9 +22,12 @@ By combining Talk with Trust, you’ll have a flexible tool with a powerful, sca
 
 ## Join our community of Talk makers
 
-If you have ideas or suggestions, [you can add them to our community.](https://community.coralproject.net/c/the-coral-project/product-talk) 
+Ways you can help:
 
-We'll be releasing more detailed product documentation and technical details soon. Sign up to our newsletter below to receive news.
+* Add your thoughts, experiences, feature requests [to our community](https://community.coralproject.net/c/the-coral-project/product-talk) 
+* [Sign up to our newsletter](http://tinyletter.com/coralproject) to receive news of more detailed product documentation and technical details
+* Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you'd like any help/direction
+* Watch this space
 
 
 ## View our other products:
