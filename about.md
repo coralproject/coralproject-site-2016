@@ -119,4 +119,4 @@ And the name? Coral’s intricate reef systems protect shorelines from natural d
  
  
   
-*Website designed by [Pilcrow](http://www.pilcrow.ie/), built by [GetBulb](http://www.getbulb.com/). Main homepage image from [wocintechchat.com](http://www.wocintechchat.com/), available via a CC-BY 2.0 license.*
+*Website designed by [Pilcrow](http://www.pilcrow.ie/), built by [GetBulb](http://www.getbulb.com/). Background images from [wocintechchat.com](http://www.wocintechchat.com/), available via a CC-BY 2.0 license.*
