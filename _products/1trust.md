@@ -26,7 +26,7 @@ Our Trust tool is a search engine to help you identify all of these user types a
 
 By combining it with our Ask and Talk tools, you can create automatic actions based on these formulas, making active curation and moderation quicker, easier, and more scalable.
 
-Trust is currently in a closed beta test.
+*Trust is currently in a closed beta test. It will be released in an open beta in Q3 2016.* 
 
 
 ## View our other products:
