@@ -36,7 +36,7 @@ Steps you can take:
 
 * [Read about Trust](https://www.washingtonpost.com/pr/wp/2016/03/14/trust-the-first-app-from-the-coral-project-launches/)
 * [See an early version of Trust in action](https://youtu.be/pP7Rr12j4QY?t=21m30s)
-* [Join our community to discuss Trust features](https://community.coralproject.net/c/the-coral-project/product-trust)
+* Suggest new features [on our community board](https://community.coralproject.net/c/the-coral-project/product-trust)
 * [Email Jeff Nelson with your ideas](mailto:jeff@mozillafoundation.org)
 * Add your ideas in the form below.
 
