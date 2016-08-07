@@ -32,7 +32,7 @@ By combining it with our Ask and Talk tools, you can create automatic actions ba
 
 ## Suggest a feature
 
-Steps you can take:
+Ways you can help:
 
 * [Read about Trust](https://www.washingtonpost.com/pr/wp/2016/03/14/trust-the-first-app-from-the-coral-project-launches/)
 * [See an early version of Trust in action](https://youtu.be/pP7Rr12j4QY?t=21m30s)
@@ -40,13 +40,17 @@ Steps you can take:
 * [Email Jeff Nelson with your ideas](mailto:jeff@mozillafoundation.org)
 * Add your ideas in the form below.
 
-## Install the beta version of Trust on your system
+## Test our installation on your system
+
+Ways you can help:
 
 * [Visit our docs for the install guide](http://coralprojectdocs.herokuapp.com/#trust)
 
 Caution: bugs. 
 
-## Help squish some bugs
+## Fix some bugs
+
+Ways you can help:
 
 * Take a look at our [open issues in our service layer servicing Trust](https://github.com/coralproject/pillar/issues)
 * Read [our contributions guide](http://coralprojectdocs.herokuapp.com/contribute/writing_code/)
