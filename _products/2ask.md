@@ -30,23 +30,28 @@ It allows you to:
 
 By combining Ask with Trust and Talk, you can easily identify the best people to respond, and send them your questions in just a few clicks.
 
-Ask will launch in an open beta at the end of August 2016. 
+*Ask will launch in an open beta at the end of August 2016.* 
+<br />
 
 
-## Join the community of Ask makers
+# Join the community of Ask makers
 
-### Suggest a feature
-You can [visit our community board](https://community.coralproject.net/c/the-coral-project/product-ask), email [Jeff Nelson](mailto: jeff@mozillafoundation.org), or fill out the form below to suggest new features. We'll add them to our Trello product board, and send you a link so you can participate in helping us make it happen. [You can see the additional features we have in mind in the "Future Features" column on our Trello board here.](https://trello.com/b/hAtt6ujX/ask) 
+## Suggest a feature
+You can [visit our community board](https://community.coralproject.net/c/the-coral-project/product-ask), email [Jeff Nelson](mailto: jeff@mozillafoundation.org), or fill out the form below to suggest new features. We'll add them to our [Trello product board](https://trello.com/b/hAtt6ujX/ask), and send you a link so you can participate in helping us make it happen. 
 
-### Build a feature
-We use Trello for tracking features on each of our products. [See the "Future Features" column on our Trello board here](https://trello.com/b/hAtt6ujX/ask) for features you might want to build. Email [Jeff Nelson](mailto: jeff@mozillafoundation.org) if you plan take any of these on. All of our software is created under an [Apache 2.0 open source license.](http://www.apache.org/licenses/LICENSE-2.0) We'll fully credit you for anything you make. 
+You can see the additional features we have in mind in the "Future Features" column [on our Trello board.](https://trello.com/b/hAtt6ujX/ask) You can also [read our product doc for Ask.](https://coralproject.net/product-ask/)
+<br />
 
-### Fix some bugs
+## Build a feature
+We use Trello for tracking features on each of our products. See the "Future Features" column [on our Trello board here](https://trello.com/b/hAtt6ujX/ask) for features you might want to build. Email [Jeff Nelson](mailto: jeff@mozillafoundation.org) if you'd like any guidance before you start work on any of these features.
+
+All of our software is created under an [Apache 2.0 open source license.](http://www.apache.org/licenses/LICENSE-2.0) We'll fully credit you for anything you make. 
+
+## Fix some bugs
 [See our outstanding GitHub issues here.](https://github.com/coralproject/ask/issues)
+<br />
 
-## Read the Ask Product doc
 
-[You can read our product doc for Ask here.](https://coralproject.net/product-ask/)
 
 ## View our other products:
 * [Trust](/products/trust)
