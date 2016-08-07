@@ -18,7 +18,19 @@ Online comments are broken. Our Talk tool will reshape how moderation, comment d
 
 By combining Talk with Trust, you’ll have a flexible tool with a powerful, scalable moderation system that will help you manage all levels of contributions to your site.
 
-Talk will enter its first beta phase in Q4 2016.
+*Talk will enter its first beta phase in Q4 2016.*
+
+## Join our community of Talk makers
+
+Ways you can help:
+
+* Add your thoughts, experiences, feature requests [to our community](https://community.coralproject.net/c/the-coral-project/product-talk) 
+* [Sign up to our newsletter](http://tinyletter.com/coralproject) to receive news of more detailed product documentation and technical details
+* Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you'd like any help/direction
+* Fill out the form below
+* Watch this space
+
+**INSERT ASK FORM HERE**
 
 ## View our other products:
 * [Trust](/products/trust.html)

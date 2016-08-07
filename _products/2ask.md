@@ -4,7 +4,7 @@ layout: product-page
 permalink: /products/ask
 md: true
 imgurl: /images/prod-ask.svg
-function: "Invite and display specific information"
+function: "Invite and display relevant content"
 bg-img-lg: /images/product-lg.jpg
 bg-img-md: /images/product-md.jpg
 bg-img-sm: /images/product-sm.jpg
@@ -37,20 +37,41 @@ By combining Ask with Trust and Talk, you can easily identify the best people to
 # Join the community of Ask makers
 
 ## Suggest a feature
-You can suggest new features by [visiting our community board](https://community.coralproject.net/c/the-coral-project/product-ask), emailing [Jeff Nelson](mailto: jeff@mozillafoundation.org), or filling out the form below. We'll add them to our [Trello product board](https://trello.com/b/hAtt6ujX/ask), and send you a link so you can participate in helping us make it happen. 
 
-You can see the additional features we have in mind in the "Future Features" column [on our Trello board.](https://trello.com/b/hAtt6ujX/ask) You can also [read our product doc for Ask.](https://coralproject.net/product-ask/)
+Ways you can help:
+
+* Read our [product doc for Ask](https://coralproject.net/product-ask/)
+* See [our feature wishlist](https://trello.com/b/hAtt6ujX/ask) in the "Future Features" column on our Trello board
+* Suggest new features [on our community board](https://community.coralproject.net/c/the-coral-project/product-ask)
+* Email ideas to [Jeff Nelson](mailto: jeff@mozillafoundation.org)
+* Add your ideas in the form below *(which is powered by Ask btw, nbd)*
+
 <br />
 
 ## Build a feature
-We use Trello for tracking feature design and development for each of our products. See the "Future Features" column [on our Trello board here](https://trello.com/b/hAtt6ujX/ask) for features you might want to build. Email [Jeff Nelson](mailto: jeff@mozillafoundation.org) if you'd like any guidance before you start work.
+
+Ways you can help:
+
+* Look at the "Future Features" column [on our Trello board](https://trello.com/b/hAtt6ujX/ask)
+* Read [our guide to contributing to The Coral Project](http://coralprojectdocs.herokuapp.com/contribute/writing_code/)
+* [Submit a relevant GitHub issue](http://coralprojectdocs.herokuapp.com/contribute/reporting_bugs/) if there isn't one already
+* Email [Jeff Nelson](mailto: jeff@mozillafoundation.org) if you'd like any help/direction
 
 All of our software is created under an [Apache 2.0 open source license.](http://www.apache.org/licenses/LICENSE-2.0) We'll fully credit you for anything you make. 
 
-## Fix some bugs
-[See our outstanding GitHub issues here.](https://github.com/coralproject/ask/issues)
+## Report/Fix some bugs
+
+Ways you can help:
+
+* Take a look at our [outstanding GitHub issues](https://github.com/coralproject/ask/issues)
+* Read [our guide to contributing to The Coral Project](http://coralprojectdocs.herokuapp.com/contribute/writing_code/)
+* [Submit a GitHub issue](http://coralprojectdocs.herokuapp.com/contribute/reporting_bugs/) if there isn't one already
+* Report your bugs in the form below
+* Email [Jeff Nelson](mailto: jeff@mozillafoundation.org) if you'd like any help/direction
+
 <br />
 
+**ASK FORM HERE**
 
 
 ## View our other products:
