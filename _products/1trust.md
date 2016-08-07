@@ -20,13 +20,14 @@ The biggest challenge with online communities is knowing who to trust in a parti
 * If you could spot a particular author’s trolls, you could make their comments on that author’s articles go straight to pre-moderation. 
 * If you knew whose flags were most reliable, or whose ‘likes’ most matched those of your journalists, then you could use these people’s behavior to more easily find good or bad contributions.
 
+[![Trust screenshot]({{"/images/trust_screenshot.png" | prepend:site.baseurl}})](/images/trust_screenshot.png "[IMAGE] A screenshot of our Trust product, showing a column of Filters and a list of users")
+
 Our Trust tool is a search engine to help you identify all of these user types and more. You can see how users are acting across your site, and then write simple formulas to find good and bad contributors across a range of different contexts. 
 
 By combining it with our Ask and Talk tools, you can create automatic actions based on these formulas, making active curation and moderation quicker, easier, and more scalable.
 
-Trust is currently in a closed beta test.
+*Trust is currently in a closed beta test. It will be released in an open beta in Q3 2016.* 
 
-[![Trust screenshot]({{"/images/trust_screenshot.png" | prepend:site.baseurl}})](/images/trust_screenshot.png)
 
 ## View our other products:
 * [Ask](/products/ask.html)
