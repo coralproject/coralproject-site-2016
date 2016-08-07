@@ -112,3 +112,5 @@ And the name? Coral’s intricate reef systems protect shorelines from natural d
 *I am the director of OpenNews as well as a journalist, entrepreneur and maker based out of Chicago. I taught digital journalism at Columbia College Chicago, was a Knight Fellow at Stanford University, and founded and ran the magazine Punk Planet.*
 
 
+
+*Website designed by [Pilcrow](http://www.pilcrow.ie/), built by [GetBulb](http://www.getbulb.com/). Main homepage image from [wocintechchat.com](http://www.wocintechchat.com/), available via a CC-BY 2.0 license.*
