@@ -13,13 +13,10 @@ The Coral Project improves the ways that journalists and communities engage on n
 
 We're currently building four products: 
 
-[Trust](/products/trust.html)
-
-[Ask](/products/ask.html)
-
-[Talk](/products/talk.html)
-
-[Guides](/products/guides.html)
+* [Trust](/products/trust.html)
+* [Ask](/products/ask.html)
+* [Talk](/products/talk.html)
+* [Guides](/products/guides.html)
 
 
 We want to talk to anyone who might be impacted by our work. We’ve been speaking with commenters, trolls, people who never comment, people who have been harassed out of online communities; we talk to community managers, journalists, developers, offline activists. So far, we’ve interviewed more than 300 people in 150 newsrooms in 30 countries. [We want to talk to you.](https://community.coralproject.net)
