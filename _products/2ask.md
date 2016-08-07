@@ -30,7 +30,7 @@ It allows you to:
 
 By combining Ask with Trust and Talk, you can easily identify the best people to respond, and send them your questions in just a few clicks.
 
-Ask is about to launch in an open beta. 
+Ask will launch in an open beta at the end of August 2016. 
 
 
 ## Join the community of Ask makers
@@ -44,6 +44,9 @@ We use Trello for tracking features on each of our products. [See the "Future Fe
 ### Fix some bugs
 [See our outstanding GitHub issues here.](https://github.com/coralproject/ask/issues)
 
+## Read the Ask Product doc
+
+[You can read our product doc for Ask here.](https://coralproject.net/product-ask/)
 
 ## View our other products:
 * [Trust](/products/trust)
