@@ -14,8 +14,11 @@ The Coral Project improves the ways that journalists and communities engage on n
 We're currently building four products: 
 
 [Trust](/products/trust.html)
+
 [Ask](/products/ask.html)
+
 [Talk](/products/talk.html)
+
 [Guides](/products/guides.html)
 
 
