@@ -48,7 +48,11 @@ Caution: bugs.
 
 ## Help squish some bugs
 
-* [Open issues in our service layer servicing Trust](https://github.com/coralproject/pillar/issues)
+* Take a look at our [open issues in our service layer servicing Trust](https://github.com/coralproject/pillar/issues)
+* Read [our contributions guide](http://coralprojectdocs.herokuapp.com/contribute/writing_code/)
+* [Submit a GitHub issue](http://coralprojectdocs.herokuapp.com/contribute/reporting_bugs/) if there isn't one already
+* Email our [Jeff Nelson](mailto: jeff@mozillafoundation.org) if you'd like any help/direction
+
 
 **ASK FORM HERE**
 
