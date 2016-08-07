@@ -28,6 +28,30 @@ By combining it with our Ask and Talk tools, you can create automatic actions ba
 
 *Trust is currently in a closed beta test. It will be released in an open beta in Q3 2016.* 
 
+# Join our community of Trust builders
+
+## Suggest a feature
+
+Steps you can take:
+
+* [Read about Trust](https://www.washingtonpost.com/pr/wp/2016/03/14/trust-the-first-app-from-the-coral-project-launches/)
+* [See an early version of Trust in action](https://youtu.be/pP7Rr12j4QY?t=21m30s)
+* [Join our community to discuss Trust features](https://community.coralproject.net/c/the-coral-project/product-trust)
+* [Email Jeff Nelson with your ideas](mailto:jeff@mozillafoundation.org)
+* Add your ideas in the form below.
+
+## Install the beta version of Trust on your system
+
+* [Visit our docs for the install guide](http://coralprojectdocs.herokuapp.com/#trust)
+
+Caution: bugs. 
+
+## Help squish some bugs
+
+* [Open issues in our service layer servicing Trust](https://github.com/coralproject/pillar/issues)
+
+**ASK FORM HERE**
+
 
 ## View our other products:
 * [Ask](/products/ask.html)
