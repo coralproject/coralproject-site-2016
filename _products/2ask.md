@@ -54,6 +54,6 @@ All of our software is created under an [Apache 2.0 open source license.](http:/
 
 
 ## View our other products:
-* [Trust](/products/trust)
-* [Talk](/products/talk)
-* [Guides](/products/guides)
+* [Trust](/products/trust.html)
+* [Talk](/products/talk.html)
+* [Guides](/products/guides.html)
