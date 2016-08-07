@@ -82,19 +82,24 @@ And the name? Coral’s intricate reef systems protect shorelines from natural d
 
 ![Pablo Cuadrado ]({{"/images/team/pablo.jpg" | prepend: site.baseurl}}) 
 
-*I'm a full-stack developer, working mostly on UX/UI and interaction design. I love crafting beautifully designed software, balancing capabilities, finding trade-offs and developing the underlying frontend architecture to support fluent interactions. Started working with journalists as co-founder of Hacks/Hackers Rosario and still excited about it.*
+### Pablo Cuadrado, UX Developer
+*I'm a full-stack developer, working mostly on UX/UI and interaction design. I love crafting beautifully designed software, balancing capabilities, finding trade-offs and developing the underlying frontend architecture to support fluent interactions. Started working with journalists as co-founder of Hacks/Hackers Rosario, still excited about it.*
 
 ![Eugene De Fikh ] ({{"/images/team/Eugene.jpg" | prepend: site.baseurl}}) 
 
+### Eugene De Fikh, DevOps
 *TKTKTKTKTKTKTKTKTK* 
 
 ![Ann Boyles ] ({{"/images/team/Ann.jpg" | prepend: site.baseurl}}) 
 
+### Ann Boyles, Tech Writer
 *TKTKTKTKTKTKTKTKTK* 
 
 ![Daniel Whitenack ] ({{"/images/team/Daniel.jpg" | prepend: site.baseurl}}) 
 
-*TKTKTKTKTKTKTKTKTK* 
+### Daniel Whitenack, Go Architect
+
+*I'm data scientist/engineer and Go developer with experience developing and deploying predictive models, optimization services, data pipelines, and more.I'm passionate about developing data-driven applications that transform raw, messy data into valuable insights.  In my spare time, I mentor students with Thinkful and I play the banjo.*
 
 ![Dan Zajdband ]({{"/images/team/Dan.jpg" | prepend: site.baseurl}}) 
 
@@ -103,14 +108,15 @@ And the name? Coral’s intricate reef systems protect shorelines from natural d
 
 ![Martin Shelton ]({{"/images/team/Martin.jpg" | prepend: site.baseurl}}) 
 
-### Martin Shelton, Project Advisor, Knight-Mozilla OpenNews Fellow
+### Martin Shelton, Knight-Mozilla OpenNews Fellow
 *Through user research and data analytics, I study how to improve online privacy and security for at-risk groups. I previously worked at Google, the Pew Research Center, and Twitter as an intern. I earned my PhD in Information and Computer Science at UC Irvine.*
 
 ![Dan Sinker ]({{"/images/team/Dan Sinker.jpg" | prepend: site.baseurl}}) 
 
-### Dan Sinker, Project Advisor, Knight-Mozilla OpenNews Fellow
+### Dan Sinker, Project Advisor, Head of Knight-Mozilla OpenNews 
 *I am the director of OpenNews as well as a journalist, entrepreneur and maker based out of Chicago. I taught digital journalism at Columbia College Chicago, was a Knight Fellow at Stanford University, and founded and ran the magazine Punk Planet.*
-
-
-
+ 
+ 
+ 
+  
 *Website designed by [Pilcrow](http://www.pilcrow.ie/), built by [GetBulb](http://www.getbulb.com/). Main homepage image from [wocintechchat.com](http://www.wocintechchat.com/), available via a CC-BY 2.0 license.*
