@@ -64,7 +64,7 @@ All of our software is created under an [Apache 2.0 open source license.](http:/
 Ways you can help:
 
 * Take a look at our [outstanding GitHub issues](https://github.com/coralproject/ask/issues)
-* Read [our contributions guide](http://coralprojectdocs.herokuapp.com/contribute/writing_code/)
+* Read [our guide to contributing to The Coral Project](http://coralprojectdocs.herokuapp.com/contribute/writing_code/)
 * [Submit a GitHub issue](http://coralprojectdocs.herokuapp.com/contribute/reporting_bugs/) if there isn't one already
 * Email our [Jeff Nelson](mailto: jeff@mozillafoundation.org) if you'd like any help/direction
 
