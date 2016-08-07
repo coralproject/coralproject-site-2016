@@ -26,7 +26,7 @@ Ways you can help:
 
 * Join the discussions on online community and engagement [in our community](https://community.coralproject.net)
 * [Read our blog](https://blog.coralproject.net) for the latest features and reflections on community building
-* Send ideas for what you want to read / write to [Sydette Harry](mailto:sydette@mozillafoundation.org)
+* Send ideas for what you want to read / write to [Sydette Harry](mailto:sydette@mozillafoundation.org) (and yes, we do pay for blogposts/contributions)
 * Fill out the form below
 
 **ASK FORM HERE**
