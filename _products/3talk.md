@@ -4,7 +4,7 @@ layout: product-page
 permalink: /products/talk
 md: true
 imgurl: /images/prod-talk.svg
-function: "Discuss ideas on your terms"
+function: "Share ideas on your terms"
 bg-img-lg: /images/product-lg.jpg
 bg-img-md: /images/product-md.jpg
 bg-img-sm: /images/product-sm.jpg
