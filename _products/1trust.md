@@ -29,7 +29,6 @@ Trust is currently in a closed beta test.
 [![Trust screenshot]({{"/images/trust_screenshot.png" | prepend:site.baseurl}})](/images/trust_screenshot.png)
 
 ## View our other products:
-
-[Ask](/products/ask.html)
-[Talk](/products/talk.html)
-[Guides](/products/guides.html)
+* [Ask](/products/ask.html)
+* [Talk](/products/talk.html)
+* [Guides](/products/guides.html)
