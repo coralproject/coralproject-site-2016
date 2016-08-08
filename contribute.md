@@ -25,11 +25,13 @@ Share ideas and experiences of online community
 ## Contribute without coding
 
 **Suggest a feature:**
+
 Before suggesting a feature, check out our feature wishlist in the “Future Features” column on our Trello board. We may already have your feature on the wishlist.
 
 * Suggest new features on our community board
 * Email ideas to Jeff Nelson
 * Add your ideas in the form below *(which is powered by Ask btw, nbd)*
+
 
 **Report a bug:**
 
