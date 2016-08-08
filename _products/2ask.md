@@ -32,44 +32,7 @@ By combining Ask with Trust and Talk, you can easily identify the best people to
 
 *Ask will launch in an open beta at the end of August 2016.* 
 <br />
-
-
-# Join the community of Ask makers
-
-## Suggest a feature
-
-Ways you can help:
-
-* Read our [product doc for Ask](https://coralproject.net/product-ask/)
-* See [our feature wishlist](https://trello.com/b/hAtt6ujX/ask) in the "Future Features" column on our Trello board
-* Suggest new features [on our community board](https://community.coralproject.net/c/the-coral-project/product-ask)
-* Email ideas to [Jeff Nelson](mailto: jeff@mozillafoundation.org)
-* Add your ideas in the form below *(which is powered by Ask btw, nbd)*
-
-<br />
-
-## Build a feature
-
-Ways you can help:
-
-* Look at the "Future Features" column [on our Trello board](https://trello.com/b/hAtt6ujX/ask)
-* Read [our guide to contributing to The Coral Project](http://coralprojectdocs.herokuapp.com/contribute/writing_code/)
-* [Submit a relevant GitHub issue](http://coralprojectdocs.herokuapp.com/contribute/reporting_bugs/) if there isn't one already
-* Email [Jeff Nelson](mailto: jeff@mozillafoundation.org) if you'd like any help/direction
-
-All of our software is created under an [Apache 2.0 open source license.](http://www.apache.org/licenses/LICENSE-2.0) We'll fully credit you for anything you make. 
-
-## Report/Fix some bugs
-
-Ways you can help:
-
-* Take a look at our [outstanding GitHub issues](https://github.com/coralproject/ask/issues)
-* Read [our guide to contributing to The Coral Project](http://coralprojectdocs.herokuapp.com/contribute/writing_code/)
-* [Submit a GitHub issue](http://coralprojectdocs.herokuapp.com/contribute/reporting_bugs/) if there isn't one already
-* Report your bugs in the form below
-* Email [Jeff Nelson](mailto: jeff@mozillafoundation.org) if you'd like any help/direction
-
-<br />
+[Help us improve Ask.](contribute.html)
 
 **ASK FORM HERE**
 
