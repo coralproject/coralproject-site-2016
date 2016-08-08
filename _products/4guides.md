@@ -22,12 +22,7 @@ Strong community is about more than software. Our guides will help everyone in t
 
 # Join our community of Guide writers
 
-Ways you can help:
-
-* Join the discussions on online community and engagement [in our community](https://community.coralproject.net)
-* [Read our blog](https://blog.coralproject.net) for the latest features and reflections on community building
-* Send ideas for what you want to read / write to [Sydette Harry](mailto:sydette@mozillafoundation.org) (and yes, we do pay for blogposts/contributions)
-* Fill out the form below
+**LINK HERE**
 
 **ASK FORM HERE**
 
