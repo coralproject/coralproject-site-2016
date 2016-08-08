@@ -33,8 +33,8 @@ By combining it with our Ask and Talk tools, you can create automatic actions ba
 
 *Trust is currently in a closed beta test. It will be released in an open beta in Q3 2016.* 
 
-# Join our community of Trust builders
-**LINK HERE**
+[Help us improve Trust.](contribute.html)
+
 **ASK FORM HERE**
 
 
