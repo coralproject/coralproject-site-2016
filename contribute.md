@@ -14,7 +14,7 @@ Help us by joining the community of people contributing to our code, suggesting 
 
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
-* [Help us improve Trust] (#anchor-link)
+* [Help us improve Trust](#ask)
 * Help us improve Ask (anchor link)
 * Help us improve Talk (anchor link)
 * Help us improve Guides (anchor link)
@@ -40,7 +40,6 @@ Before suggesting a feature, check out our feature wishlist in the “Future Fea
 * Alternatively, you can report your bug in the form below.
 * Email Jeff Nelson if you’d like any help/direction.
 
-<a id="anchor-link></a>
 
 ## Contribute by coding
 
@@ -58,7 +57,7 @@ All of our software is created under an Apache 2.0 open source license. We’ll 
 * Email Jeff Nelson if you’d like any help/direction.
 
 
-# $$$$$$Ask
+## Ask
 
 ## Contribute without coding
 
