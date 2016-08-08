@@ -10,7 +10,9 @@ bg-img-sm: /images/install-sm.jpg
 
 # How to contribute
 
-Help us by joining the community of people contributing to our code, suggesting features, and reporting bugs. Check out the sections below for some quick tips on how to get started, or take a look at [our technical documentation on contributing to the Coral Project.](http://coralprojectdocs.herokuapp.com/contribute/)
+Help us by joining the community of people contributing to our code, suggesting features, and reporting bugs. 
+
+Check out the sections below to get started, or take a look at [our technical documentation on contributing to the Coral Project.](http://coralprojectdocs.herokuapp.com/contribute/)
 
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
@@ -69,7 +71,7 @@ You can also:
 * [Add your ideas in the form below](#ideas-and-bug-reports) *(which is powered by Ask btw, nbd)*
 
 
-**Report a bug:**
+### Report a bug:
 
 * Take a look at our outstanding GitHub issues to make sure someone hasn’t already reported the bug
 * Submit a GitHub issue if there isn’t one already
@@ -79,14 +81,14 @@ You can also:
 
 ## Contribute by coding
 
-* [Look at the “Future Features” column on our Trello board] (http://trello.com/b/hAtt6ujX/ask) and select one you’d like to build
+* [Look at the “Future Features” column on our Trello board](http://trello.com/b/hAtt6ujX/ask) and select one you’d like to build
 * Submit a relevant GitHub issue if there isn’t one already
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
 All of our software is created under an [Apache 2.0 open source license.](http://www.apache.org/licenses/LICENSE-2.0) We’ll fully credit you for anything you make that we accept into our codebase.
 
 
-## Fix a bug
+### Fix a bug
 
 * Submit a GitHub issue if there isn’t one already
 * Before you get started, comment in the relevant GitHub issue to let everyone know you’re working on it
@@ -101,11 +103,11 @@ All of our software is created under an [Apache 2.0 open source license.](http:/
 
 * Add your thoughts, experiences, feature ideas [to our community](https://community.coralproject.net/c/the-coral-project/product-talk) 
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you'd like any help/direction
-* (Suggest ideas in the form below)(#ideas-and-bug-reports)
+* [Suggest ideas in the form below](#ideas-and-bug-reports)
 
 ## Contribute by coding
 
-Not yet. Soon.
+Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him know you're interested. 
 
 
 # Guides
