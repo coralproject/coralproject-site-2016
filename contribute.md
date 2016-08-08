@@ -54,6 +54,8 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 # Ask
 
+[Read about Ask here.](/products/ask.html)
+
 ## Contribute without coding
 
 ### Suggest new features
@@ -93,6 +95,8 @@ All of our software is created under an [Apache 2.0 open source license.](http:/
 
 # Talk
 
+[Read about Talk here.](/products/talk.html)
+
 ## Contribute without coding
 
 * Add your thoughts, experiences, feature ideas [to our community](https://community.coralproject.net/c/the-coral-project/product-talk) 
@@ -105,6 +109,8 @@ Not yet. Soon.
 
 
 # Guides
+
+[Read about Guides here.](/products/guides.html)
 
 * Join the discussions on online community and engagement [in our community](https://community.coralproject.net)
 * [Read our blog](https://blog.coralproject.net) for the latest features and reflections on community building
