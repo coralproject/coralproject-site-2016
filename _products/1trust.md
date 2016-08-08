@@ -28,12 +28,13 @@ By combining it with our Ask and Talk tools, you can create automatic actions ba
 
 * [Read about Trust](https://www.washingtonpost.com/pr/wp/2016/03/14/trust-the-first-app-from-the-coral-project-launches/)
 * [See an early version of Trust in action](https://youtu.be/pP7Rr12j4QY?t=21m30s)
-* [Install a pre-release version](http://coralprojectdocs.herokuapp.com/#trust) Caution: still contains bugs. 
+* [Install a pre-release version](http://coralprojectdocs.herokuapp.com/#trust) Caution: pre-alpha software.
+* [Help us improve Trust](contribute.html)
 
 
 *Trust is currently in a closed beta test. It will be released in an open beta in Q3 2016.* 
 
-[Help us improve Trust.](contribute.html)
+
 
 **ASK FORM HERE**
 
