@@ -26,38 +26,15 @@ Our Trust tool is a search engine to help you identify all of these user types a
 
 By combining it with our Ask and Talk tools, you can create automatic actions based on these formulas, making active curation and moderation quicker, easier, and more scalable.
 
+* [Read about Trust](https://www.washingtonpost.com/pr/wp/2016/03/14/trust-the-first-app-from-the-coral-project-launches/)
+* [See an early version of Trust in action](https://youtu.be/pP7Rr12j4QY?t=21m30s)
+* [Install a pre-release version](http://coralprojectdocs.herokuapp.com/#trust) Caution: still contains bugs. 
+
+
 *Trust is currently in a closed beta test. It will be released in an open beta in Q3 2016.* 
 
 # Join our community of Trust builders
-
-## Suggest a feature
-
-Ways you can help:
-
-* [Read about Trust](https://www.washingtonpost.com/pr/wp/2016/03/14/trust-the-first-app-from-the-coral-project-launches/)
-* [See an early version of Trust in action](https://youtu.be/pP7Rr12j4QY?t=21m30s)
-* Suggest new features [on our community board](https://community.coralproject.net/c/the-coral-project/product-trust)
-* Email [Jeff Nelson] with your ideas (mailto:jeff@mozillafoundation.org)
-* Add your ideas in the form below
-
-## Test our installation on your system
-
-Ways you can help:
-
-* [Visit our docs for the install guide](http://coralprojectdocs.herokuapp.com/#trust)
-
-Caution: bugs. 
-
-## Fix some bugs
-
-Ways you can help:
-
-* Take a look at the [open issues in our service layer servicing Trust](https://github.com/coralproject/pillar/issues)
-* Read [our guide to contributing to The Coral Project](http://coralprojectdocs.herokuapp.com/contribute/writing_code/)
-* [Submit a GitHub issue](http://coralprojectdocs.herokuapp.com/contribute/reporting_bugs/) if there isn't one already
-* Email [Jeff Nelson](mailto: jeff@mozillafoundation.org) if you'd like any help/direction
-
-
+**LINK HERE**
 **ASK FORM HERE**
 
 
