@@ -14,11 +14,11 @@ Help us by joining the community of people contributing to our code, suggesting 
 
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
-Help us improve Trust
-Help us improve Ask
-Help us improve Talk
-Help us improve Guides
-Share ideas and experiences of online community
+* [Help us improve Trust] (#anchor-link)
+* Help us improve Ask (anchor link)
+* Help us improve Talk (anchor link)
+* Help us improve Guides (anchor link)
+* Share ideas and experiences of online community (anchor link)
 
 # Ask
 
@@ -40,6 +40,7 @@ Before suggesting a feature, check out our feature wishlist in the “Future Fea
 * Alternatively, you can report your bug in the form below.
 * Email Jeff Nelson if you’d like any help/direction.
 
+<a id="anchor-link></a>
 
 ## Contribute by coding
 
