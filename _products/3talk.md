@@ -18,9 +18,11 @@ Online comments are broken. Our Talk tool will reshape how moderation, comment d
 
 By combining Talk with Trust, you’ll have a flexible tool with a powerful, scalable moderation system that will help you manage all levels of contributions to your site.
 
+* [Help us improve Talk.](contribute.html)
+
 *Talk will enter its first beta phase in Q4 2016.*
 
-[Help us improve Talk.](contribute.html)
+
 
 **INSERT ASK FORM HERE**
 
