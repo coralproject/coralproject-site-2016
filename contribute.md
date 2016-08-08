@@ -14,11 +14,11 @@ Help us by joining the community of people contributing to our code, suggesting 
 
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
-Help us improve Trust
-Help us improve Ask
-Help us improve Talk
-Help us improve Guides
-Share ideas and experiences of online community
+* [Help us improve Trust](#ask)
+* Help us improve Ask (anchor link)
+* Help us improve Talk (anchor link)
+* Help us improve Guides (anchor link)
+* Share ideas and experiences of online community (anchor link)
 
 # Ask
 
@@ -57,7 +57,7 @@ All of our software is created under an Apache 2.0 open source license. We’ll 
 * Email Jeff Nelson if you’d like any help/direction.
 
 
-# $$$$$$Ask
+## Ask
 
 ## Contribute without coding
 
