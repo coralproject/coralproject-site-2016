@@ -32,9 +32,11 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 [Read about Trust here.](/products/trust.html)
 
+&nbsp; 
+
 ## Contribute without coding
 
-**Suggest new features**
+### Suggest new features
 
 * Share your ideas [on our community board](https://community.coralproject.net/c/the-coral-project/product-trust)
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) with your ideas 
@@ -47,6 +49,9 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 * Alternatively, you can report your bug [in the form below](#ideas-and-bug-reports)
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
+&nbsp; 
+&nbsp; 
+
 ## Contribute by coding
 
 ### Fix a bug
@@ -57,11 +62,19 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 
 
+&nbsp; 
+
+&nbsp; 
+
+&nbsp; 
+
 
 
 # Ask
 
 [Read about Ask here.](/products/ask.html)
+
+&nbsp; 
 
 ## Contribute without coding
 
@@ -84,6 +97,10 @@ You can also:
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
 
+&nbsp; 
+&nbsp; 
+
+
 ## Contribute by coding
 
 * [Look at the “Future Features” column on our Trello board](http://trello.com/b/hAtt6ujX/ask) and select one you’d like to build
@@ -100,9 +117,20 @@ All of our software is created under an [Apache 2.0 open source license.](http:/
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
 
+
+
+&nbsp; 
+
+&nbsp; 
+
+&nbsp; 
+
+
 # Talk
 
 [Read about Talk here.](/products/talk.html)
+
+&nbsp; 
 
 ## Contribute without coding
 
@@ -110,10 +138,21 @@ All of our software is created under an [Apache 2.0 open source license.](http:/
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you'd like any help/direction
 * [Suggest ideas in the form below](#ideas-and-bug-reports)
 
+&nbsp; 
+&nbsp; 
+
+
 ## Contribute by coding
 
 Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him know you're interested. 
 
+
+
+&nbsp; 
+
+&nbsp; 
+
+&nbsp; 
 
 # Guides
 
@@ -125,9 +164,23 @@ Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him
 * [Fill out the form below](#ideas-and-bug-reports)
 
 
+&nbsp; 
+
+&nbsp; 
+
+&nbsp; 
+
+
 # Online Community
 
 [Join more than 300 members of our online community](https://community.coralproject.net), discussing community tools and practices as well as our goals and strategy. 
+
+
+&nbsp; 
+
+&nbsp; 
+
+&nbsp; 
 
 # Ideas and Bug Reports
 
