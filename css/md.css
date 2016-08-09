@@ -236,19 +236,6 @@ article p:last-of-type em { /* attribution text on code-of-conduct page  */
         box-shadow: 0px 0px 12px #666;
     }
 
-    #user > p > img {
-        margin-bottom: 0rem;
-    }
-    
-    #user > p:first-of-type  {
-        display: inline-block; 
-    }
-
-    #user > h1 {
-        display:inline-block;
-        vertical-align: top;
-    }
-
     article p:last-of-type em { /* attribution text on code-of-conduct page  */
         font-size: 14px;
         line-height: 25px;
