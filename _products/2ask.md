@@ -30,7 +30,7 @@ It allows you to:
 
 By combining Ask with Trust and Talk, you can easily identify the best people to respond, and send them your questions in just a few clicks.
 
-* [Help us improve Ask](/contribute.html)
+* [Help us improve Ask](/contribute.html#help-us-improve-ask)
 
 *Ask will launch in an open beta at the end of August 2016.* 
 <br />
