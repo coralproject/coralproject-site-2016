@@ -1,7 +1,7 @@
 <div id="sm-nav-container" class="absolute dn-ns w-100 h-100">
     <nav id="sm-nav-bg" class="w-100 h-100">
         <div class="toggle tr db"><img class="pa3 w1" src="/images/close.svg"></div>
-        <a class="tc db pa3" href="{{ site.baseurl }}/"><img class="w2" src="/images/icon-coral-white.svg"></a>
+        <a class="tc db pa3" href="{{ site.baseurl }}/"><img class="w2" src="/images/icon-coral-white.svg" alt="[IMAGE] The Coral Project logo: white squiggly lines that represent coral"></a>
         <a class="tc db pa3 link white ttu tracked f3 b" href={{"/about.html" | prepend:site.baseurl }}>About</a>
         <a class="tc db pa3 link white ttu tracked f3 b" href={{"/products/trust.html" | prepend:site.baseurl}}>Products</a>
         <a class="tc db pa3 link white ttu tracked f3 b" href={{"/install.html" | prepend:site.baseurl }}>Install</a>
@@ -14,7 +14,7 @@
     <div class="flex-auto">
         <header>
             <nav class="absolute w-100 w-auto-ns dt pa4-l pa3-m">
-                <a class="dtc pr3-ns pl0-ns pl3 pt0-ns pt3 w-auto-ns w-25" href="{{ site.baseurl }}/"><img class="coral-mark" src="/images/icon-coral-white.svg"></a>
+                <a class="dtc pr3-ns pl0-ns pl3 pt0-ns pt3 w-auto-ns w-25" href="{{ site.baseurl }}/"><img class="coral-mark" src="/images/icon-coral-white.svg" alt="[IMAGE] The Coral Project logo: white squiggly lines that represent coral"></a>
                 <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href={{"/about.html" | prepend:site.baseurl }}>About</a>
                 <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href={{"/#products" | prepend:site.baseurl}}>Products</a>
                 <a class="dtc-ns dn ph3 link white ttu tracked f6 b" href={{"/install.html" | prepend:site.baseurl }}>Install</a>
@@ -38,11 +38,11 @@
     <picture class="flex-auto w-100 bt-l tz-border-l bt-m tz-border-m bn">
         <source
             srcset= {% if page.md %} {{ page.bg-img-lg }} {% else %} "/images/splash-lg.jpg" {% endif %}
-            media="(min-width: 60em)" alt="[IMAGE] Two women sit opposite each other at a table. One is talking, the other listening with a smile on her face. There is an orange tint on top of the image.">
+            media="(min-width: 60em)" alt="[IMAGE] Two women sit opposite each other at a table. One is talking, the other listening with a smile on her face. The image has an orange tint.">
         <source
             srcset= {% if page.md %} {{ page.bg-img-md }} {% else %} "/images/splash-md.jpg" {% endif %}
-            media="(min-width: 30em) and (max-width: 60em)" alt="[IMAGE] Two women sit opposite each other at a table. One is talking, the other listening with a smile on her face. There is an orange tint on top of the image.">
+            media="(min-width: 30em) and (max-width: 60em)" alt="[IMAGE] Two women sit opposite each other at a table. One is talking, the other listening with a smile on her face. The image has an orange tint.">
         <img class="w-100"
-             src= {% if page.md %} {{ page.bg-img-sm }} {% else %} "/images/splash-sm.jpg" {% endif %}>
+             src= {% if page.md %} {{ page.bg-img-sm }} {% else %} "/images/splash-sm.jpg" {% endif %} alt="[IMAGE] A woman sits at a table, talking to an unseen companion. The image has an orange tint.">
     </picture>
 </div>
