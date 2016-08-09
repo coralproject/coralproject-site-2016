@@ -97,7 +97,7 @@ I like building things. Formerly of Tumblr and the New York Times, creating data
 ![Pablo Cuadrado ]({{"/images/team/pablo.jpg" | prepend: site.baseurl}}) 
 
 ### Pablo Cuadrado, UX Developer
-I'm a full-stack developer, working mostly on UX/UI and interaction design. I love crafting beautifully designed software, balancing capabilities, finding trade-offs and developing the underlying frontend architecture to support fluent interactions. Started working with journalists as co-founder of Hacks/Hackers Rosario, still excited about it.
+I'm a full-stack developer, working mostly on UX/UI and interaction design. I love crafting beautifully designed software, balancing capabilities, finding trade-offs, and developing frontend architecture to support fluent interactions. Co-founder of Hacks/Hackers Rosario, still excited about it.
 
 ![Eugene De Fikh ]({{"/images/team/Eugene.jpg" | prepend: site.baseurl}}) 
 
@@ -107,7 +107,7 @@ I'm a full-stack developer, working mostly on UX/UI and interaction design. I lo
 ![Daniel Whitenack ]({{"/images/team/Daniel.jpg" | prepend: site.baseurl}}) 
 
 ### Daniel Whitenack, Go Architect
-I'm data scientist/engineer and Go developer with experience developing and deploying predictive models, optimization services, data pipelines, and more.I'm passionate about developing data-driven applications that transform raw, messy data into valuable insights.  In my spare time, I mentor students with Thinkful and I play the banjo.
+I'm data scientist/engineer and Go developer with experience building predictive models, optimization services, data pipelines, and more. I'm passionate about developing data-driven applications that transform raw, messy data into valuable insights. I also mentor students and play the banjo.
 
 ![Dan Zajdband ]({{"/images/team/Dan.jpg" | prepend: site.baseurl}}) 
 
