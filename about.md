@@ -113,7 +113,7 @@ The Coral Project is a unique collaboration between the Mozilla Foundation, The 
 ### Martin Shelton, Knight-Mozilla OpenNews Fellow
 *Through user research and data analytics, I study how to improve online privacy and security for at-risk groups. I previously worked at Google, the Pew Research Center, and Twitter as an intern. I earned my PhD in Information and Computer Science at UC Irvine.*
 
-![Dan Sinker ]({{"/images/team/Dan Sinker.jpg" | prepend: site.baseurl}}) 
+![Dan Sinker ]({{"/images/team/Dan%20Sinker.jpg" | prepend: site.baseurl}}) 
 
 ### Dan Sinker, Project Advisor, Head of Knight-Mozilla OpenNews 
 *I am the director of OpenNews as well as a journalist, entrepreneur and maker based out of Chicago. I taught digital journalism at Columbia College Chicago, was a Knight Fellow at Stanford University, and founded and ran the magazine Punk Planet.*
