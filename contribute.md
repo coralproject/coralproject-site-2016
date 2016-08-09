@@ -20,7 +20,7 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 * [Help us improve Ask](#help-us-improve-ask)
 * [Help us improve Talk](#help-us-improve-talk)
 * [Help us improve Guides](#help-us-improve-guides)
-* [Share your ideas/experiences of online community](#online-community)
+* [Join our online community](#our-online-community)
 * [Other ideas and bug reports](#other-ideas-and-bug-reports)
 
 &nbsp;
@@ -138,7 +138,7 @@ Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him
 &nbsp;
 
 
-# **Online Community**
+# **Our online community**
 
 [Join more than 300 members of our online community](https://community.coralproject.net), discussing community tools and practices as well as our goals and strategy.
 
