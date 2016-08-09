@@ -13,7 +13,8 @@ The Coral Project improves the ways that journalists and communities engage on n
 
 We are building free, open-source tools for publishers of all sizes. Because journalism needs everyone.
 
-&nbsp;
+&nbsp; 
+
 We're currently building four products: 
 
 * [Trust](/products/trust.html) - a search tool that helps you find users and contributions you can trust.
@@ -22,7 +23,8 @@ We're currently building four products:
 * [Guides](/products/guides.html) - methods to improve your online communities, whatever tools you use. 
 
 
-&nbsp;
+&nbsp; 
+
 We want to talk to anyone who might be impacted by our work. 
 
 So far, we’ve interviewed more than 300 people in 150 newsrooms in 30 countries, as well as commenters, trolls, and people who never comment. [We want to talk to you.](/contact.html)
@@ -33,13 +35,13 @@ If you have ideas of what else we can do with you, [please get in touch.](/conta
 
 And the name? Coral’s intricate reef systems protect shorelines and give cover for organisms to connect and evolve. Like coral, we aim to create the structure to help communities thrive.
 
-&nbsp;
 
 *The Coral Project is a unique collaboration between the Mozilla Foundation, The New York Times, and The Washington Post, funded by a grant from the John S. and James L. Knight Foundation.*
 
-&nbsp;
+&nbsp; 
 
-&nbsp;
+&nbsp; 
+
 ## About the Team
 
 ![Andrew Losowsky]({{"/images/team/Andrew.jpg" | prepend: site.baseurl}}) 
