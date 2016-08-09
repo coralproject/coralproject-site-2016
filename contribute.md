@@ -16,7 +16,7 @@ Check out the sections below to get started, or take a look at [our technical do
 
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
-* [Help us improve Trust](#trust)
+* [Help us improve Trust](#help-us-improve-trust)
 * [Help us improve Ask](#ask)
 * [Help us improve Talk](#talk)
 * [Help us improve Guides](#guides)
@@ -26,7 +26,7 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 &nbsp;
 
-# **Trust**
+# **Help us improve Trust**
 
 [Read about Trust here.](/products/trust.html)
 
