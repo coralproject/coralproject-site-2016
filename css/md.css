@@ -23,7 +23,7 @@ article {
 
 article h1 {
     font-size: 24px;
-    font-weight: 700;
+    font-weight: bold;
     line-height: 23px;
     color: #1e0038;
 }
@@ -31,23 +31,23 @@ article h1 {
 article h2 {
     font-size: 19px;
     line-height: 23px;
-    font-weight: 700;
+    font-weight: bold;
 }
 
 article h3 {
-    font-weight: 700;
+    font-weight: bold;
     font-size: 15px;
 }
 
 article strong {
-    font-weight: 700;
+    font-weight: bold;
 }
 
 article a {
     border-bottom: 2px dotted  #f67150;
     color: #333;
     text-decoration: none;
-    font-weight: 700;
+    font-weight: bold;
 }
 
 article a:hover {
