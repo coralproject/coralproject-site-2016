@@ -13,6 +13,8 @@ The Coral Project improves the ways that journalists and communities engage on n
 
 We are building free, open-source tools for publishers of all sizes. Because journalism needs everyone.
 
+&nbsp; 
+
 We're currently building four products: 
 
 * [Trust](/products/trust.html) - a search tool that helps you find users and contributions you can trust.
@@ -20,6 +22,8 @@ We're currently building four products:
 * [Talk](/products/talk.html) - a discussion space that is highly customizable, and designed for safety.
 * [Guides](/products/guides.html) - methods to improve your online communities, whatever tools you use. 
 
+
+&nbsp; 
 
 We want to talk to anyone who might be impacted by our work. 
 
@@ -32,7 +36,11 @@ If you have ideas of what else we can do with you, [please get in touch.](/conta
 And the name? Coral’s intricate reef systems protect shorelines and give cover for organisms to connect and evolve. Like coral, we aim to create the structure to help communities thrive.
 
 
-The Coral Project is a unique collaboration between the Mozilla Foundation, The New York Times, and The Washington Post, funded by a grant from the John S. and James L. Knight Foundation.
+*The Coral Project is a unique collaboration between the Mozilla Foundation, The New York Times, and The Washington Post, funded by a grant from the John S. and James L. Knight Foundation.*
+
+&nbsp; 
+
+&nbsp; 
 
 ## About the Team
 
@@ -49,7 +57,7 @@ The Coral Project is a unique collaboration between the Mozilla Foundation, The 
 ![Kim Gardner]({{"/images/team/Kim.jpg" | prepend: site.baseurl}}) 
 
 ### Kim Gardner, Project Manager
-*TKTKTKTKTK TKTKTKTKTKTK*
+*I'm passionate about methodologies and tools that create a respectful, productive, and fun environment. I've been a project manager at Shutterstock and The New York Times, and am currently working on Pigeon.io, which allows you to easily host your own email.* 
 
 ![Sydette Harry]({{"/images/team/Sydette.jpg" | prepend: site.baseurl}}) 
 
@@ -91,20 +99,14 @@ The Coral Project is a unique collaboration between the Mozilla Foundation, The 
 ### Pablo Cuadrado, UX Developer
 *I'm a full-stack developer, working mostly on UX/UI and interaction design. I love crafting beautifully designed software, balancing capabilities, finding trade-offs and developing the underlying frontend architecture to support fluent interactions. Started working with journalists as co-founder of Hacks/Hackers Rosario, still excited about it.*
 
-![Eugene De Fikh ] ({{"/images/team/Eugene.jpg" | prepend: site.baseurl}}) 
+![Eugene De Fikh ]({{"/images/team/Eugene.jpg" | prepend: site.baseurl}}) 
 
 ### Eugene De Fikh, DevOps
 *TKTKTKTKTKTKTKTKTK* 
 
-![Ann Boyles ] ({{"/images/team/Ann.jpg" | prepend: site.baseurl}}) 
-
-### Ann Boyles, Tech Writer
-*TKTKTKTKTKTKTKTKTK* 
-
-![Daniel Whitenack ] ({{"/images/team/Daniel.jpg" | prepend: site.baseurl}}) 
+![Daniel Whitenack ]({{"/images/team/Daniel.jpg" | prepend: site.baseurl}}) 
 
 ### Daniel Whitenack, Go Architect
-
 *I'm data scientist/engineer and Go developer with experience developing and deploying predictive models, optimization services, data pipelines, and more.I'm passionate about developing data-driven applications that transform raw, messy data into valuable insights.  In my spare time, I mentor students with Thinkful and I play the banjo.*
 
 ![Dan Zajdband ]({{"/images/team/Dan.jpg" | prepend: site.baseurl}}) 
@@ -117,12 +119,14 @@ The Coral Project is a unique collaboration between the Mozilla Foundation, The 
 ### Martin Shelton, Knight-Mozilla OpenNews Fellow
 *Through user research and data analytics, I study how to improve online privacy and security for at-risk groups. I previously worked at Google, the Pew Research Center, and Twitter as an intern. I earned my PhD in Information and Computer Science at UC Irvine.*
 
-![Dan Sinker ]({{"/images/team/Dan Sinker.jpg" | prepend: site.baseurl}}) 
+![Dan Sinker ]({{"/images/team/DanSinker.jpg" | prepend: site.baseurl}}) 
 
 ### Dan Sinker, Project Advisor, Head of Knight-Mozilla OpenNews 
 *I am the director of OpenNews as well as a journalist, entrepreneur and maker based out of Chicago. I taught digital journalism at Columbia College Chicago, was a Knight Fellow at Stanford University, and founded and ran the magazine Punk Planet.*
  
  
- 
+&nbsp;
+&nbsp;
+&nbsp;
   
 *Website designed by [Pilcrow](http://www.pilcrow.ie/), built by [GetBulb](http://www.getbulb.com/). Background images from [wocintechchat.com](http://www.wocintechchat.com/), available via a CC-BY 2.0 license.*
