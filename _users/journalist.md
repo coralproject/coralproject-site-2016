@@ -30,4 +30,4 @@ By combining Trust and Ask, you can identify potential experts in your field amo
 By engaging with onsite communities through our tools, you will generate new and lasting connections that increase your fan base without taking up the time you need to do your work.
 
 <br />
-*[See how we can help Publishers->](publishers.html)*
+*[See how we can help Publishers ▶︎](publishers.html)*

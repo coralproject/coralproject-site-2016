@@ -80,13 +80,10 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 ### Suggest new features
 
-Before suggesting a feature, check out the [“Future Features” column on our Trello board.](http://trello.com/b/hAtt6ujX/ask) We may already have your feature on our wishlist. You can leave comments about our plans there.
-
-You can also:
-
-* Share your ideas [on our community board](https://community.coralproject.net/c/the-coral-project/product-trust)
+* Before suggesting a feature, check out the [“Future Features” column on our Trello board.](http://trello.com/b/hAtt6ujX/ask) We may already have your feature on our wishlist. You can also leave comments about our plans there.
+* Share feature ideas [on our community board](https://community.coralproject.net/c/the-coral-project/product-trust)
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) with your ideas 
-* [Add your ideas in the form below](#ideas-and-bug-reports) *(which is powered by Ask btw, nbd)*
+* [Add your suggestions in the form below](#ideas-and-bug-reports) *(which is powered by Ask btw, nbd)*
 
 
 ### Report a bug:
@@ -107,7 +104,7 @@ You can also:
 * Submit a relevant GitHub issue if there isn’t one already
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
-All of our software is created under an [Apache 2.0 open source license.](http://www.apache.org/licenses/LICENSE-2.0) We’ll fully credit you for anything you make that we accept into our codebase.
+*All of our software is created under an [Apache 2.0 open source license.](http://www.apache.org/licenses/LICENSE-2.0) We’ll fully credit you for anything you make that we accept into our codebase.*
 
 
 ### Fix a bug
