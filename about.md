@@ -49,7 +49,7 @@ The Coral Project is a unique collaboration between the Mozilla Foundation, The 
 ![Kim Gardner]({{"/images/team/Kim.jpg" | prepend: site.baseurl}}) 
 
 ### Kim Gardner, Project Manager
-*TKTKTKTKTK TKTKTKTKTKTK*
+*I'm passionate about methodologies and tools that create a respectful, productive, and fun environment. I've been a project manager at Shutterstock and The New York Times, and am currently working on Pigeon.io, which allows you to easily host your own email.* 
 
 ![Sydette Harry]({{"/images/team/Sydette.jpg" | prepend: site.baseurl}}) 
 
