@@ -56,13 +56,13 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 ## Contribute without coding
 
 * Submit a feature request by first reading the [“Future Features” column on our Trello board](http://trello.com/b/hAtt6ujX/ask), then sharing ideas [on our community board](https://community.coralproject.net/c/the-coral-project/product-trust) or [in the form below](#ideas-and-bug-reports) *(which is powered by Ask btw, nbd)*
-* Report bugs by checking our GitHub issues, then submitting a new issue if there isn’t one already. Or you can report your bug [in the form below](#other-ideas-and-bug-reports)
+* Report bugs [by checking our GitHub issues](https://github.com/coralproject/ask/issues), then submitting a new issue if there isn’t one already. Or you can report your bug [in the form below](#other-ideas-and-bug-reports)
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
 ## Contribute by coding
 
-* Build a feature by [looking at the “Future Features” column on our Trello board](http://trello.com/b/hAtt6ujX/ask) and selecting one you’d like to build. Submit a relevant GitHub issue if there isn’t one already
-* Fix a bug by submitting a GitHub issue if there isn’t one already, then commenting in the relevant issue to let everyone know you’re working on it
+* Build a feature by [looking at the “Future Features” column on our Trello board](http://trello.com/b/hAtt6ujX/ask) and selecting one you’d like to build. Submit a relevant GitHub issue [if there isn’t one already](https://github.com/coralproject/ask/issues)
+* Fix a bug by submitting a GitHub issue [if there isn’t one already](https://github.com/coralproject/ask/issues), then commenting in the relevant issue to let everyone know you’re working on it
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
 &nbsp;
