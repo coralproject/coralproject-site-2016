@@ -50,64 +50,77 @@ And the name? Coral’s intricate reef systems protect shorelines and give cover
 *I drink a lot of tea. Previously: The Huffington Post, News Corp, John S. Knight Fellow at Stanford University, start ups. Currently: Adjunct in the Journalism+Design program at The New School in New York; Co-Director, The Museum On Site.*
 
 ![David Erwin]({{"images/team/David.jpg" | prepend: site.baseurl}}) 
+
 ### David Erwin, Lead Engineer
 *I’m an engineer with a penchant for product work. I was previously Lead Engineer at The New York Times, the CTO at Zap on Demand and a Project Leader at Telcordia. Currently: CTO of World Fit, a charity that seeks to end childhood obesity.*
 
 ![Kim Gardner]({{"/images/team/Kim.jpg" | prepend: site.baseurl}}) 
+
 ### Kim Gardner, Project Manager
 *I'm passionate about methodologies and tools that create a respectful, productive, and fun environment. I've been a project manager at Shutterstock and The New York Times, and am currently working on Pigeon.io, which allows you to easily host your own email.* 
 
 ![Sydette Harry]({{"/images/team/Sydette.jpg" | prepend: site.baseurl}}) 
+
 ### Sydette Harry, Community Lead
 *I am an avid internet commenter on anywhere that will give me a password. I’ve worked in cultural arts, tech and project curation, and my writing has been on Bitch.com, Salon, and The Toast.*
 
 ![Greg Barber]({{"/images/team/Greg.jpg" | prepend: site.baseurl}}) 
+
 ### Greg Barber, Head of Strategy and Partnerships
 *I’ve made a career of startups within news organizations. When not working with The Coral Project, I’m focused on interactivity, personalization, and news games as Director of Digital News Projects at The Washington Post.*
 
 ![Emma Grdina]({{"/images/team/Emma.jpg" | prepend: site.baseurl}}) 
+
 ### Emma Grdina, Lead Designer
 *I’m interested in using design to create engaging online spaces that people look forward to visiting. Currently I work on the Digital Design team at The Washington Post.*
 
 ![Jeff Nelson]({{"/images/team/Jeff.jpg" | prepend: site.baseurl}}) 
+
 ### Jeff Nelson, Integration Engineer
 *TKTKTKTKTKTKTKTKTK*
 
 ![Samantha Hankins]({{"/images/team/Sam.jpg" | prepend: site.baseurl}}) 
+
 ### Samantha Hankins, Designer
 *My design process and voice are grounded in my previous work in the hospitality, legal, and educational fields. Previously: building communities IRL around diversity and promoting inclusion at the Maurice A. Deane School of Law at Hofstra University.*
 
 ![Gabriela Rodríguez]({{"/images/team/Gaba.jpg" | prepend: site.baseurl}}) 
+
 ### Gabriela Rodríguez, Full-Stack Developer
 *I’m an activist and hacker who loves the intersection between media and technology. I co-founded the non-profit DATA, which works with open data and transparency in South America. I grew up in Uruguay and now live in Portland, OR.*
 
 ![Riley Davis ]({{"/images/team/Riley.jpg" | prepend: site.baseurl}}) 
+
 ### Riley Davis, Full-Stack Developer
 *I like building things. Formerly of Tumblr and the New York Times, creating data visualizations and general digital goods.*
 
 ![Pablo Cuadrado ]({{"/images/team/pablo.jpg" | prepend: site.baseurl}}) 
+
 ### Pablo Cuadrado, UX Developer
 *I'm a full-stack developer, working mostly on UX/UI and interaction design. I love crafting beautifully designed software, balancing capabilities, finding trade-offs and developing the underlying frontend architecture to support fluent interactions. Started working with journalists as co-founder of Hacks/Hackers Rosario, still excited about it.*
 
 ![Eugene De Fikh ]({{"/images/team/Eugene.jpg" | prepend: site.baseurl}}) 
+
 ### Eugene De Fikh, DevOps
 *TKTKTKTKTKTKTKTKTK* 
 
-
 ![Daniel Whitenack ]({{"/images/team/Daniel.jpg" | prepend: site.baseurl}}) 
-### Daniel Whitenack, Go Architect
 
+### Daniel Whitenack, Go Architect
 *I'm data scientist/engineer and Go developer with experience developing and deploying predictive models, optimization services, data pipelines, and more.I'm passionate about developing data-driven applications that transform raw, messy data into valuable insights.  In my spare time, I mentor students with Thinkful and I play the banjo.*
 
 ![Dan Zajdband ]({{"/images/team/Dan.jpg" | prepend: site.baseurl}}) 
+
 ### Dan Zajdband, Knight-Mozilla OpenNews Fellow
 *I’m a software developer passionate about real-time technologies, open source projects and Open Journalism. I create digital tools for people to express their ideas in different and creative ways. In my spare time, I do things I can’t do well, like playing soccer and the guitar.*
 
 ![Martin Shelton ]({{"/images/team/Martin.jpg" | prepend: site.baseurl}}) 
+
 ### Martin Shelton, Knight-Mozilla OpenNews Fellow
 *Through user research and data analytics, I study how to improve online privacy and security for at-risk groups. I previously worked at Google, the Pew Research Center, and Twitter as an intern. I earned my PhD in Information and Computer Science at UC Irvine.*
 
 ![Dan Sinker ]({{"/images/team/DanSinker.jpg" | prepend: site.baseurl}}) 
+
 ### Dan Sinker, Project Advisor, Head of Knight-Mozilla OpenNews 
 *I am the director of OpenNews as well as a journalist, entrepreneur and maker based out of Chicago. I taught digital journalism at Columbia College Chicago, was a Knight Fellow at Stanford University, and founded and ran the magazine Punk Planet.*
  
