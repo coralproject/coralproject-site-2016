@@ -38,10 +38,10 @@
     <picture class="flex-auto w-100 bt-l tz-border-l bt-m tz-border-m bn">
         <source
             srcset= {% if page.md %} {{ page.bg-img-lg }} {% else %} "/images/splash-lg.jpg" {% endif %}
-            media="(min-width: 60em)" title="[IMAGE] Two women sit opposite each other at a table. One is talking, the other listening with a smile on her face. There is an orange tint on top of the image.">
+            media="(min-width: 60em)" alt="[IMAGE] Two women sit opposite each other at a table. One is talking, the other listening with a smile on her face. There is an orange tint on top of the image.">
         <source
             srcset= {% if page.md %} {{ page.bg-img-md }} {% else %} "/images/splash-md.jpg" {% endif %}
-            media="(min-width: 30em) and (max-width: 60em)" "[IMAGE] Two women sit opposite each other at a table. One is talking, the other listening with a smile on her face. There is an orange tint on top of the image.">
+            media="(min-width: 30em) and (max-width: 60em)" alt="[IMAGE] Two women sit opposite each other at a table. One is talking, the other listening with a smile on her face. There is an orange tint on top of the image.">
         <img class="w-100"
              src= {% if page.md %} {{ page.bg-img-sm }} {% else %} "/images/splash-sm.jpg" {% endif %}>
     </picture>
