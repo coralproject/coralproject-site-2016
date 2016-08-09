@@ -57,7 +57,7 @@ article p > img[src $= "svg"]{ /* SVG logos in markdown pages  */
     margin-right: auto;
 }
 
-article p em:last-of-type { /* attribution text on code-of-conduct page  */
+article p:last-of-type em { /* attribution text on code-of-conduct page  */
     font-size: 14px;
     line-height: 25px;
 }
