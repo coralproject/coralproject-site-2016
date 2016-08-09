@@ -17,10 +17,11 @@ Check out the sections below to get started, or take a look at [our technical do
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 * [Help us improve Trust](#help-us-improve-trust)
-* [Help us improve Ask](#ask)
-* [Help us improve Talk](#talk)
-* [Help us improve Guides](#guides)
-* [Share your ideas and experiences of online community](#online-community)
+* [Help us improve Ask](#help-us-improve-ask)
+* [Help us improve Talk](#help-us-improve-talk)
+* [Help us improve Guides](#help-us-improve-guides)
+* [Share your ideas/experiences of online community](#online-community)
+* [Other ideas and bug reports](#other-ideas-and-bug-reports)
 
 &nbsp;
 
@@ -59,7 +60,7 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 &nbsp;
 
 
-# **Ask**
+# **Help us improve Ask**
 
 [Read about Ask here.](/products/ask.html)
 
@@ -101,7 +102,7 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 &nbsp;
 
 
-# **Talk**
+# **Help us improve Talk**
 
 [Read about Talk here.](/products/talk.html)
 
@@ -122,7 +123,7 @@ Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him
 &nbsp;
 
 
-# **Guides**
+# **Help us improve Guides**
 
 [Read about Guides here.](/products/guides.html)
 
@@ -146,6 +147,6 @@ Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him
 
 &nbsp;
 
-# **Ideas and Bug Reports**
+# **Other ideas and bug reports**
 
 **INSERT ASK FORM HERE**
