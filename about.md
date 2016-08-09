@@ -45,6 +45,7 @@ And the name? Coral’s intricate reef systems protect shorelines and give cover
 ## About the Team
 
 ![Andrew Losowsky]({{"/images/team/Andrew.jpg" | prepend: site.baseurl}}) 
+
 ### Andrew Losowsky, Project Lead
 *I drink a lot of tea. Previously: The Huffington Post, News Corp, John S. Knight Fellow at Stanford University, start ups. Currently: Adjunct in the Journalism+Design program at The New School in New York; Co-Director, The Museum On Site.*
 
