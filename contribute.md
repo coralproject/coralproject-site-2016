@@ -12,7 +12,7 @@ bg-img-sm: /images/install-sm.jpg
 
 Help us by joining the community of people contributing to our code, suggesting features, and reporting bugs.
 
-Check out the sections below to get started, or take a look at [our technical documentation on contributing to the Coral Project.](http://coralprojectdocs.herokuapp.com/contribute/). All of our software is created under an [Apache 2.0 open source license.](http://www.apache.org/licenses/LICENSE-2.0) We’ll fully credit you for anything you make that we accept into our codebase.
+Check out the sections below to get started, or take a look at [our technical documentation on contributing to the Coral Project.](http://coralprojectdocs.herokuapp.com/contribute/) All of our software is created under an [Apache 2.0 open source license.](http://www.apache.org/licenses/LICENSE-2.0) We’ll fully credit you for anything you make that we accept into our codebase.
 
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
@@ -35,7 +35,7 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 * Add feature ideas [to our community board](https://community.coralproject.net/c/the-coral-project/product-trust)
 * [Submit feature ideas in the form below](#ideas-and-bug-reports)
-* Report bugs by checking our GitHub issues, then submitting a new issue if there isn’t one already. Or you can report your bug [in the form below](#ideas-and-bug-reports)
+* Report bugs by checking our GitHub issues, then submitting a new issue if there isn’t one already. Or you can report your bug [in the form below](#other-ideas-and-bug-reports)
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
 ## Contribute by coding
@@ -56,7 +56,7 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 ## Contribute without coding
 
 * Submit a feature request by first reading the [“Future Features” column on our Trello board](http://trello.com/b/hAtt6ujX/ask), then sharing ideas [on our community board](https://community.coralproject.net/c/the-coral-project/product-trust) or [in the form below](#ideas-and-bug-reports) *(which is powered by Ask btw, nbd)*
-* Report bugs by checking our GitHub issues, then submitting a new issue if there isn’t one already. Or you can report your bug [in the form below](#ideas-and-bug-reports)
+* Report bugs by checking our GitHub issues, then submitting a new issue if there isn’t one already. Or you can report your bug [in the form below](#other-ideas-and-bug-reports)
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
 ## Contribute by coding
@@ -78,7 +78,7 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 * Add your thoughts, experiences, feature ideas [to our community](https://community.coralproject.net/c/the-coral-project/product-talk)
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you'd like any help/direction
-* [Suggest ideas in the form below](#ideas-and-bug-reports)
+* [Suggest ideas in the form below](#other-ideas-and-bug-reports)
 
 ## Contribute by coding
 
@@ -98,7 +98,7 @@ Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him
 * Join the discussions on online community and engagement [in our community](https://community.coralproject.net)
 * [Read our blog](https://blog.coralproject.net) for the latest features and reflections on community building
 * Send ideas for what you want to read / write to [Sydette Harry](mailto:sydette@mozillafoundation.org) (and yes, we do pay for blogposts/contributions)
-* [Fill out the form below](#ideas-and-bug-reports)
+* [Fill out the form below](#other-ideas-and-bug-reports)
 
 
 &nbsp;
