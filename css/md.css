@@ -39,6 +39,10 @@ article h3 {
     font-size: 15px;
 }
 
+article em {
+    font-weight: 700;
+}
+
 article a {
     border-bottom: 2px dotted  #f67150;
     color: #333;
