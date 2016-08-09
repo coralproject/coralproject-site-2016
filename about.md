@@ -91,17 +91,13 @@ The Coral Project is a unique collaboration between the Mozilla Foundation, The 
 ### Pablo Cuadrado, UX Developer
 *I'm a full-stack developer, working mostly on UX/UI and interaction design. I love crafting beautifully designed software, balancing capabilities, finding trade-offs and developing the underlying frontend architecture to support fluent interactions. Started working with journalists as co-founder of Hacks/Hackers Rosario, still excited about it.*
 
-![Eugene De Fikh ] ({{"/images/team/Eugene.jpg" | prepend: site.baseurl}}) 
+![Eugene De Fikh ]({{"/images/team/Eugene.jpg" | prepend: site.baseurl}}) 
 
 ### Eugene De Fikh, DevOps
 *TKTKTKTKTKTKTKTKTK* 
 
-![Ann Boyles ] ({{"/images/team/Ann.jpg" | prepend: site.baseurl}}) 
 
-### Ann Boyles, Tech Writer
-*TKTKTKTKTKTKTKTKTK* 
-
-![Daniel Whitenack ] ({{"/images/team/Daniel.jpg" | prepend: site.baseurl}}) 
+![Daniel Whitenack ]({{"/images/team/Daniel.jpg" | prepend: site.baseurl}}) 
 
 ### Daniel Whitenack, Go Architect
 
