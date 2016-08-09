@@ -34,7 +34,7 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 ## Contribute without coding
 
-### Suggest new features
+**Suggest new features**
 
 * Share your ideas [on our community board](https://community.coralproject.net/c/the-coral-project/product-trust)
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) with your ideas 
