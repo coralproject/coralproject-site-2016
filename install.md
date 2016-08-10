@@ -8,7 +8,7 @@ bg-img-md: /images/install2-md.jpg
 bg-img-sm: /images/install2-sm.jpg
 ---
 
-# How to Install
+# How to install
 
 To run our products, you need to install them on your own server.
 
