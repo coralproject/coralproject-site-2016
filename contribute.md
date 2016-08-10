@@ -3,9 +3,9 @@ title: Contribute
 layout: page
 permalink: /contribute
 md: true
-bg-img-lg: /images/install-lg.jpg
-bg-img-md: /images/install-md.jpg
-bg-img-sm: /images/install-sm.jpg
+bg-img-lg: /images/contribute-lg.jpg
+bg-img-md: /images/contribute-md.jpg
+bg-img-sm: /images/contribute-sm.jpg
 ---
 
 # How to contribute
