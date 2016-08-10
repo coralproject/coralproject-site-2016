@@ -3,9 +3,9 @@ title: Contact
 layout: page
 permalink: /contact
 md: true
-bg-img-lg: /images/install-lg.jpg
-bg-img-md: /images/install-md.jpg
-bg-img-sm: /images/install-sm.jpg
+bg-img-lg: /images/contact-lg.jpg
+bg-img-md: /images/contact-md.jpg
+bg-img-sm: /images/contact-sm.jpg
 ---
 
 # Get in touch
