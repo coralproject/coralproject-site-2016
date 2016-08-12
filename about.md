@@ -35,7 +35,7 @@ If you have ideas of what else we can do with you, [please get in touch.](/conta
 
 And the name? Coral’s intricate reef systems protect shorelines and give cover for organisms to connect and evolve. Like coral, we aim to create the structure to help communities thrive.
 
-
+&nbsp; 
 *The Coral Project is a unique collaboration between the Mozilla Foundation, The New York Times, and The Washington Post, funded by a grant from the John S. and James L. Knight Foundation.*
 
 &nbsp;
@@ -97,12 +97,12 @@ I like building things. Formerly of Tumblr and the New York Times, creating data
 ![Pablo Cuadrado ]({{"/images/team/pablo.jpg" | prepend: site.baseurl}})
 
 ### Pablo Cuadrado, UX Developer
-I'm a full-stack developer, working mostly on UX/UI and interaction design. I love crafting beautifully designed software, balancing capabilities, finding trade-offs, and developing frontend architecture to support fluent interactions. Co-founder of Hacks/Hackers Rosario, still excited about it.
+I'm a full-stack developer, working mostly on UX/UI and interaction design. I love crafting beautifully designed software, balancing capabilities, and developing frontend architecture to support fluent interactions. Co-founder of Hacks/Hackers Rosario, still excited about it.
 
 ![Eugene De Fikh ]({{"/images/team/Eugene.jpg" | prepend: site.baseurl}})
 
 ### Eugene De Fikh, DevOps
-*TKTKTKTKTKTKTKTKTK*
+I am a DevOps engineer working with Linux, cloud infrastructures, databases, open-source applications, scaling sites, debugging performance issues, and putting out production fires. I pride myself on my problem-solving skills and the ability to learn new technologies quickly.
 
 ![Daniel Whitenack ]({{"/images/team/Daniel.jpg" | prepend: site.baseurl}})
 
