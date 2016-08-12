@@ -36,6 +36,7 @@ If you have ideas of what else we can do with you, [please get in touch.](/conta
 And the name? Coral’s intricate reef systems protect shorelines and give cover for organisms to connect and evolve. Like coral, we aim to create the structure to help communities thrive.
 
 &nbsp;
+
 *The Coral Project is a unique collaboration between the Mozilla Foundation, The New York Times, and The Washington Post, funded by a grant from the John S. and James L. Knight Foundation.*
 
 &nbsp;
