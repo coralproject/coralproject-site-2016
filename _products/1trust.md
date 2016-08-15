@@ -22,7 +22,7 @@ The biggest challenge with online communities is knowing who to trust in a parti
 
 [![Trust screenshot]({{"/images/trust_screenshot.png" | prepend:site.baseurl}})](/images/trust_screenshot.png "[IMAGE] A screenshot of a prototype of our Trust product, showing a column of Filters and a list of users")
 
-Our Trust tool is a search engine to help you identify all of these user types and more. You can see how users are acting across your site, and then write simple formulas to find good and bad contributors across a range of different contexts. 
+Our Trust tool can help you identify all of these user types and more. You can see how users are acting across your site, and then write simple formulas to find good and bad contributors across a range of different contexts. 
 
 By combining it with our Ask and Talk tools, you can create automatic actions based on these formulas, making active curation and moderation quicker, easier, and more scalable.
 
