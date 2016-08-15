@@ -20,19 +20,19 @@ The biggest challenge with online communities is knowing who to trust in a parti
 * If you could spot a particular author’s trolls, you could make their comments on that author’s articles go straight to pre-moderation. 
 * If you knew whose flags were most reliable, or whose ‘likes’ most matched those of your journalists, then you could use these people’s behavior to more easily find good or bad contributions.
 
-[![Trust screenshot]({{"/images/trust_screenshot.png" | prepend:site.baseurl}})](/images/trust_screenshot.png "[IMAGE] A screenshot of our Trust product, showing a column of Filters and a list of users")
+[![Trust screenshot]({{"/images/trust_screenshot.png" | prepend:site.baseurl}})](/images/trust_screenshot.png "[IMAGE] A screenshot of a prototype of our Trust product, showing a column of Filters and a list of users")
 
 Our Trust tool is a search engine to help you identify all of these user types and more. You can see how users are acting across your site, and then write simple formulas to find good and bad contributors across a range of different contexts. 
 
 By combining it with our Ask and Talk tools, you can create automatic actions based on these formulas, making active curation and moderation quicker, easier, and more scalable.
 
 * [Read about Trust](https://www.washingtonpost.com/pr/wp/2016/03/14/trust-the-first-app-from-the-coral-project-launches/)
-* [See an early version of Trust in action](https://youtu.be/pP7Rr12j4QY?t=21m30s)
-* [Install a pre-release version](http://coralprojectdocs.herokuapp.com/#trust) Caution: pre-alpha software.
+* [See a prototype of Trust in action](https://youtu.be/pP7Rr12j4QY?t=21m30s)
+* [Install a pre-release prototype](http://coralprojectdocs.herokuapp.com/#trust) Caution: pre-alpha software.
 * [Help us improve Trust](/contribute.html#help-us-improve-trust)
 
 
-*Trust is currently in a closed beta test. It will be released in an open beta in Q3 2016.* 
+*We've created a prototype of this technology, which is currently in a closed beta test, and are building it into our Talk product.*
 
 &nbsp; 
 
