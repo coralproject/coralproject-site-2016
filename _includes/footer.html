@@ -28,7 +28,10 @@
   <script type="text/javascript">
    var toggles = document.getElementsByClassName("toggle");
    var smNav = document.getElementById("sm-nav-container");
+   smNav.style.display = "none";
    Array.prototype.forEach.call(toggles, function(toggle, index) {
-       toggle.addEventListener("click", function(){smNav.classList.toggle("onscreen")});
+       toggle.addEventListener("click", function(){
+           if(smNav.style.display="none") smNav.style.display = "block";
+           smNav.classList.toggle("onscreen")});
    });
   </script>
