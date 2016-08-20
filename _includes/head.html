@@ -40,6 +40,10 @@
        transform: translateX(0);
        -webkit-transform: translateX(0);
    }
+
+   <!-- SVG fix for weird sizing on ie9 & above -->
+   @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {img[src$=".svg"] {width: 100%;}
+}
   </style>
   <link rel="stylesheet" href="https://npmcdn.com/tachyons@4.0.4/css/tachyons.min.css">
   <link rel="stylesheet" href="{{ "/css/icons/fa-duo-icons-embedded.css" | prepend: site.baseurl }}">
