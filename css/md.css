@@ -246,7 +246,7 @@ article p:last-of-type em { /* attribution text on code-of-conduct page  */
     }
 }
 
-@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+@media screen and (-ms-high-contrast: none), (-ms-high-contrast: active) {
     /* IE10+ CSS styles go here */
     article {
         margin-top: -25%;
