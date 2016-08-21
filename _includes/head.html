@@ -45,6 +45,12 @@
        transform: translateX(0);
        -webkit-transform: translateX(0);
    }
+   @media screen and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+       /* IE10+ CSS style targeting tabzilla block */
+       div#tabzilla-container {
+           margin-top: -3rem;
+       }
+   }
 }
   </style>
   <link rel="stylesheet" href="https://npmcdn.com/tachyons@4.0.4/css/tachyons.min.css">
