@@ -18,8 +18,6 @@ If you want to ask your audience a specific question to improve your reporting, 
 
 None of these are built for the needs of journalists. Our Ask tool is. 
 
-[![Ask screenshot]({{"/images/ask_screenshot.png" | prepend:site.baseurl}})](/images/ask_screenshot.png "[IMAGE] A screenshot of the form builder screen of our Ask tool")
-
 It allows you to:
 
 * Invite responses in a compact, embeddable form that's compatible across devices
@@ -27,6 +25,8 @@ It allows you to:
 * Build a gallery of the best responses 
 * Search and share the best contributions 
 * Keep complete control of your data
+ 
+[![Ask screenshot]({{"/images/ask_screenshot.png" | prepend:site.baseurl}})](/images/ask_screenshot.png "[IMAGE] A screenshot of the form builder screen of our Ask tool")
 
 By combining Ask with Trust and Talk, you can easily identify the best people to respond, and send them your questions in just a few clicks.
 
