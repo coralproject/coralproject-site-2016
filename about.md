@@ -33,7 +33,6 @@ And the name? Coral’s intricate reef systems protect shorelines and give cover
 *The Coral Project is a unique collaboration between the Mozilla Foundation, The New York Times, and The Washington Post, funded by a grant from the John S. and James L. Knight Foundation.*
 
 &nbsp;
-
 &nbsp;
 
 ## About the Team
