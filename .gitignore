@@ -1,3 +1,9 @@
+# Ignore Jekyll specific files
+
 _site
 .sass-cache
 .jekyll-metadata
+
+# Ignore dot files
+.*
+!/.gitignore
