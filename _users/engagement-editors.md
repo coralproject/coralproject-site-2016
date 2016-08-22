@@ -29,5 +29,6 @@ By using Trust and Ask together, you can quickly create workflows to make your j
 
 Most onsite community resources go into tackling trolls and abuse. By using Trust and Ask, you can better control for negative interactions, allowing you to spend more time finding useful contributions, and sharing them with journalists. You can also give others in your newsroom access to limited versions of the moderation tools, allowing them to reply quickly and easily to positive contributors on their articles. By introducing Ask into your newsroom, you can create more targeted contributor interactions with journalists to directly improve the journalism.
 
-<br />
+[Help improve our tools](/contribute.html)
+&nbsp; 
 *[See how we can help Journalists ▶︎](journalists.html)*
