@@ -37,11 +37,7 @@ By combining Ask with Trust and Talk, you can easily identify the best people to
 
 
 &nbsp; 
-
-
-
-**ASK FORM HERE**
-
+&nbsp; 
 
 ## View our other products:
 * [Trust](/products/trust.html)
