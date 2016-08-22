@@ -35,9 +35,7 @@ By combining it with our Ask and Talk tools, you can create automatic actions ba
 *We've created a prototype of this technology, which is currently in a closed beta test, and are building it into our Talk product.*
 
 &nbsp; 
-
-
-**ASK FORM HERE**
+&nbsp; 
 
 
 ## View our other products:

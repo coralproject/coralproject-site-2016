@@ -34,5 +34,6 @@ Readers are put off by unpleasant interactions in the comment space. By giving t
 
 Your audience has experiences, insights, skills that can enhance your reporting, if only you could access them. Our Ask tool helps journalists quickly and easily invite greater collaboration, and then display the best contributions in just a few clicks. Our tool can be customized to match your site design, and is built specifically for journalistic use.
 
-<br />
+[Join our community to improve the tools](/contribute.html)
+&nbsp; 
 *[See how we can help Community Members ▶︎](community-members.html)*
