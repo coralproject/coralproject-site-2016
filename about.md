@@ -17,6 +17,7 @@ We're currently building four products:
 * [Ask](/products/ask.html) -  a form/gallery builder to collect, manage, and display user-generated contributions.
 * [Talk](/products/talk.html) - a discussion space that is highly customizable, and designed for safety.
 * [Guides](/products/guides.html) - methods to improve your online communities, whatever tools you use.
+
 &nbsp;
 
 We want to talk to anyone who might be impacted by our work.
