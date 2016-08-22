@@ -8,7 +8,7 @@ bg-img-md: /images/contribute2-md.jpg
 bg-img-sm: /images/contribute2-sm.jpg
 ---
 
-# How to contribute
+# How to get involved
 
 Help us by joining the community of people contributing to our code, suggesting features, and reporting bugs.
 

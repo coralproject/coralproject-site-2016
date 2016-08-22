@@ -1,15 +1,15 @@
-<footer>
+<footer class="relative">
 
     {% include email-gimme.html %}
 
     <div class="med-bg center tc pa4 body-grey f6-ns f7">
         <div class="flex flex-column flex-row-ns items-center justify-between mb3">
-            <a class="flex-auto body-grey link mb2 mb0-ns " target="_blank" href="https://twitter.com/{{ site.twitter_username }}"> <img class="w1 mr1" alt="[IMAGE] Twitter logo" src={{"/images/icon-twitter.svg" | prepend:site.baseurl}} >Twitter</img></a>
-            <a class="flex-auto body-grey link mb2 mb0-ns " target="_blank" href="https://github.com/{{ site.github_username }}"> <img class="w1 mr1" alt="[IMAGE] GitHub logo" src={{"/images/icon-github.svg" | prepend:site.baseurl}}>GitHub</img></a>
-            <a class="flex-auto body-grey link mb2 mb0-ns " href="mailto:jeff@mozillafoundation.org"><img class="w1 mr1" alt="[IMAGE] Email icon" src={{"/images/icon-contact.svg" | prepend:site.baseurl}}>Email Us</img></a>
-            <a class="flex-auto body-grey link mb2 mb0-ns " target="_blank" href="https://www.mozilla.org/en-US/about/legal.html"><img class="w1 mr1" alt="[IMAGE] Check mark" src={{"/images/icon-legal.svg" | prepend:site.baseurl}}>Legal</img></a>
-            <a class="flex-auto body-grey link mb2 mb0-ns " target="_blank" href="https://creativecommons.org/licenses/by/4.0/"> <img class="w1 mr1"  alt="[IMAGE] Creative Commons logo" src={{"/images/icon-cc-logo.svg" | prepend:site.baseurl}}>License</img></a>
-            <a class="flex-auto body-grey link mb2 mb0-ns " href={{"/code-of-conduct.html"| prepend:site.baseurl }} > <img class="w1 mr1" alt="[IMAGE] Smiling face" src={{"/images/icon-conduct.svg" | prepend:site.baseurl}}>Code of Conduct</img></a>
+            <a class="flex-auto body-grey link mb2 mb0-ns " target="_blank" href="https://twitter.com/{{ site.twitter_username }}"> <img class="w1 h1 mr1" alt="[IMAGE] Twitter logo" src={{"/images/icon-twitter.svg" | prepend:site.baseurl}} >Twitter</img></a>
+            <a class="flex-auto body-grey link mb2 mb0-ns " target="_blank" href="https://github.com/{{ site.github_username }}"> <img class="w1 h1 mr1" alt="[IMAGE] GitHub logo" src={{"/images/icon-github.svg" | prepend:site.baseurl}}>GitHub</img></a>
+            <a class="flex-auto body-grey link mb2 mb0-ns " href="mailto:jeff@mozillafoundation.org"><img class="w1 h1 mr1" alt="[IMAGE] Email icon" src={{"/images/icon-contact.svg" | prepend:site.baseurl}}>Email Us</img></a>
+            <a class="flex-auto body-grey link mb2 mb0-ns " target="_blank" href="https://www.mozilla.org/en-US/about/legal.html"><img class="w1 h1 mr1" alt="[IMAGE] Check mark" src={{"/images/icon-legal.svg" | prepend:site.baseurl}}>Legal</img></a>
+            <a class="flex-auto body-grey link mb2 mb0-ns " target="_blank" href="https://creativecommons.org/licenses/by/4.0/"> <img class="w1 h1 mr1"  alt="[IMAGE] Creative Commons logo" src={{"/images/icon-cc-logo.svg" | prepend:site.baseurl}}>License</img></a>
+            <a class="flex-auto body-grey link mb2 mb0-ns " href={{"/code-of-conduct.html"| prepend:site.baseurl }} > <img class="w1 h1 mr1" alt="[IMAGE] Smiling face" src={{"/images/icon-conduct.svg" | prepend:site.baseurl}}>Code of Conduct</img></a>
         </div>
         <div class="">
             <a class="dib-ns" href="https://mozilla.org" target="_blank">
@@ -28,7 +28,10 @@
   <script type="text/javascript">
    var toggles = document.getElementsByClassName("toggle");
    var smNav = document.getElementById("sm-nav-container");
+   smNav.style.display = "none";
    Array.prototype.forEach.call(toggles, function(toggle, index) {
-       toggle.addEventListener("click", function(){smNav.classList.toggle("onscreen")});
+       toggle.addEventListener("click", function(){
+           if(smNav.style.display="none") smNav.style.display = "block";
+           smNav.classList.toggle("onscreen")});
    });
   </script>

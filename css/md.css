@@ -246,6 +246,13 @@ article p:last-of-type em { /* attribution text on code-of-conduct page  */
     }
 }
 
+@media screen and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    /* IE10+ CSS styles go here */
+    article {
+        margin-top: -25%;
+    }
+}
+
 /* Duplicated from index.css for to work around specificity issues */
 
 .moz-footer-logo {
@@ -270,6 +277,7 @@ article p:last-of-type em { /* attribution text on code-of-conduct page  */
         border-bottom-left-radius: 0;
     }
     .coral-mark {
+        height: 3.3rem;
         width: 3.3rem;
     }
     .moz-footer-logo {
@@ -298,6 +306,7 @@ article p:last-of-type em { /* attribution text on code-of-conduct page  */
         border-bottom-left-radius: 0;
     }
     .coral-mark {
+        height: 4rem;
         width: 4rem;
     }
     .moz-footer-logo {
