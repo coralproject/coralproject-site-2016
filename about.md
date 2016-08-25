@@ -105,12 +105,17 @@ I'm into technology, community organizing, and matzoh ball soup. I’ve spent mu
 ![Daniel Whitenack ]({{"/images/team/Daniel.jpg" | prepend: site.baseurl}})
 
 ### Daniel Whitenack, Go Architect
-I'm data scientist/engineer and Go developer with experience building predictive models, optimization services, data pipelines, and more. I'm passionate about developing data-driven applications that transform raw, messy data into valuable insights. I also mentor students and play the banjo.
+I'm data scientist/engineer and Go developer with experience building predictive models, optimization services, data pipelines, and more. I'm passionate about developing data-driven applications that transform raw, messy data into valuable insights. I also play the banjo.
+
+![Wyatt Johnson]({{"/images/team/wyatt.jpg" | prepend: site.baseurl}})
+
+### Wyatt Johnson, Go Developer
+I’m a full-stack software developer with a security-first mindset. I create backend systems that handle the data in a responsible and monitored way. For fun, I run and climb things.
 
 ![Dan Zajdband ]({{"/images/team/Dan.jpg" | prepend: site.baseurl}})
 
 ### Dan Zajdband, Knight-Mozilla OpenNews Fellow
-I’m a software developer passionate about real-time technologies, open source projects and Open Journalism. I create digital tools for people to express their ideas in different and creative ways. In my spare time, I do things I can’t do well, like playing soccer and the guitar.
+I’m a software developer passionate about real-time technologies, open source projects, and Open Journalism. I create digital tools for people to express their ideas in different and creative ways. I also do things I can’t do well, like playing soccer and the guitar.
 
 ![Martin Shelton ]({{"/images/team/Martin.jpg" | prepend: site.baseurl}})
 
