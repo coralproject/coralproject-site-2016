@@ -19,7 +19,7 @@ bg-img-sm: /images/users-journalist-sm.jpg
 
 ## Have smarter interactions 
 
-Our [Trust](/products/trust.html) tool empowers you to quickly and easily filter comments on your articles to find the most useful contributions, without exposing you to the worst abuse.
+Our [Trust](/products/trust.html) tool empowers you to quickly and easily filter comments on your articles to find the most useful contributions, without exposing you to the worst abuse. Our [Talk](/products/talk.html) tool will help you participate in the conversation more safely and in a manageable fashion.
 
 ## Find potential sources
 
@@ -27,7 +27,7 @@ Through [Trust](/products/trust.html) and [Ask](/products/ask.html), you can ide
 
 ## Grow your audience
 
-By engaging with onsite communities through our tools, you will generate new and lasting connections that increase your fan base without taking up the time you need to do your work.
+By engaging with onsite communities through our [tools](/#products), you will generate new and lasting connections that increase your fan base without taking up the time you need to do your work.
 
 
 [Help improve our tools](/contribute.html)
