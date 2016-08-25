@@ -19,7 +19,7 @@ bg-img-sm: /images/users-publisher-sm.jpg
 
 ## Increase engagement
 
-> As users become increasingly engaged with a website, they become more willing to pay for its services — [but] the website must take an active approach to engage and interact with its users 
+> *As users become increasingly engaged with a website, they become more willing to pay for its services — [but] the website must take an active approach to engage and interact with its users* 
 > -- <cite>Lior Zalmanson and Gal Oestreicher-Singer, <a href="http://sloanreview.mit.edu/article/turning-content-viewers-into-subscribers/">MIT-Sloan Management Review</a>, Spring 2016 issue</cite>
 &nbsp;
 
