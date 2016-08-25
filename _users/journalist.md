@@ -19,11 +19,11 @@ bg-img-sm: /images/users-journalist-sm.jpg
 
 ## Have smarter interactions 
 
-Our Trust tool empowers you to quickly and easily filter comments on your articles to find the most useful contributions, without exposing you to the worst abuse.
+Our [Trust](/products/trust.html) tool empowers you to quickly and easily filter comments on your articles to find the most useful contributions, without exposing you to the worst abuse.
 
 ## Find potential sources
 
-By combining Trust and Ask, you can identify potential experts in your field among your readership, and invite them to contribute directly to your work.
+Through [Trust](/products/trust.html) and [Ask](/products/ask.html), you can identify potential experts in your field among your readership, tag them for future stories, and invite them to contribute directly to your work.
 
 ## Grow your audience
 
