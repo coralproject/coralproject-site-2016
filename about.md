@@ -9,11 +9,7 @@ bg-img-sm: /images/learnmore-sm.jpg
 ---
 # Learn more
 
-The Coral Project improves the ways that journalists and communities engage on news websites.
-
-We are building free, open-source tools for publishers of all sizes. Because journalism needs everyone.
-
-&nbsp;
+The Coral Project improves the ways that journalists and communities engage on news websites. We are building free, open-source tools for publishers of all sizes. Because journalism needs everyone.
 
 We're currently building four products:
 
@@ -21,7 +17,6 @@ We're currently building four products:
 * [Ask](/products/ask.html) -  a form/gallery builder to collect, manage, and display user-generated contributions.
 * [Talk](/products/talk.html) - a discussion space that is highly customizable, and designed for safety.
 * [Guides](/products/guides.html) - methods to improve your online communities, whatever tools you use.
-
 
 &nbsp;
 
@@ -38,7 +33,6 @@ And the name? Coral’s intricate reef systems protect shorelines and give cover
 *The Coral Project is a unique collaboration between the Mozilla Foundation, The New York Times, and The Washington Post, funded by a grant from the John S. and James L. Knight Foundation.*
 
 &nbsp;
-
 &nbsp;
 
 ## About the Team
@@ -131,6 +125,6 @@ I am the director of OpenNews as well as a journalist, entrepreneur and maker ba
 
 &nbsp;
 &nbsp;
-&nbsp;
+
 
 Website designed by [Pilcrow](http://www.pilcrow.ie/), built by [GetBulb](http://www.getbulb.com/). Background images from [wocintechchat.com](http://www.wocintechchat.com/), available via a CC-BY 2.0 license.

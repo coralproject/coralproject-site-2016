@@ -9,7 +9,7 @@
 title: The Coral Project 
 email: Greg.Barber@washpost.com
 description: > # this means to ignore newlines until "baseurl:"
-  The Coral Project is an open source project to help publishers of all sizes build better communities around their journalism. We’re creating tools that allow everyone feel safe, respected, and heard.
+  The Coral Project is an open source project to help publishers of all sizes build better communities around their journalism. We’re creating tools that help everyone to feel safe, respected, and heard.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: coralproject

@@ -29,5 +29,8 @@ Improve journalism by sharing your knowledge and skills directly with journalist
 
 Privacy and anti-harassment features are at the core of our tools. Our Ask tool will allow you to opt out from publicly sharing information. Our Trust tool makes it easier for newsrooms to handle abuse and trolling. Our Talk tool keeps you closer to conversations that you want to read and participate in, and away from those that you don’t.
 
-<br />
+
+[Help improve community spaces online](/contribute.html)
+&nbsp; 
+
 *[See how we can help Engagement Editors ▶︎](engagement-editors.html)*

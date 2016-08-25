@@ -23,10 +23,8 @@ By combining Talk with Trust, you’ll have a flexible tool with a powerful, sca
 *Talk will enter its first beta phase in Q4 2016.*
 
 &nbsp; 
+&nbsp; 
 
-
-
-**INSERT ASK FORM HERE**
 
 ## View our other products:
 * [Trust](/products/trust.html)

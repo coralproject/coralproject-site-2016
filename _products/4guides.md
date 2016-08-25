@@ -25,8 +25,6 @@ Strong community is about more than software. Our guides will help everyone in t
 
 &nbsp; 
 
-
-**ASK FORM HERE**
 &nbsp; 
 
 
