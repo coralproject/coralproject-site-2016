@@ -23,11 +23,11 @@ By using our simple [Talk](/products/talk.html) filters, you will be able to cus
 
 ## Interact with the newsroom
 
-Improve journalism by sharing your knowledge and skills directly with journalists. Through our [Ask](/products/ask.html) and [Trust])(/products/trust.html) tools, journalists can spend more time finding, reading, and responding to your contributions.
+Improve journalism by sharing your knowledge and skills directly with journalists. Through our [Ask](/products/ask.html) and [Trust](/products/trust.html) tools, journalists can spend more time finding, reading, and responding to your contributions.
 
 ## Avoid abuse 
 
-Privacy and anti-harassment features are at the core of our tools. Our Ask tool will allow you to opt out from publicly sharing information. Our [Trust])(/products/trust.html) tool makes it easier for newsrooms to handle abuse and trolling. Our [Talk](/products/talk.html) tool will keep you closer to conversations that you want to read and participate in, and away from those that you don’t.
+Privacy and anti-harassment features are at the core of our tools. Our Ask tool will allow you to opt out from publicly sharing information. Our [Trust](/products/trust.html) tool makes it easier for newsrooms to handle abuse and trolling. Our [Talk](/products/talk.html) tool will keep you closer to conversations that you want to read and participate in, and away from those that you don’t.
 
 
 [Help improve community spaces online](/contribute.html)
