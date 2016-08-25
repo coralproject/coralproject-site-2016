@@ -31,4 +31,5 @@ Most onsite community resources go into tackling trolls and abuse. By using Trus
 
 [Join our community to improve the tools](/contribute.html)
 &nbsp; 
+ 
 *[See how we can help Journalists ▶︎](journalists.html)*
