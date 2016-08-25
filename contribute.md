@@ -116,4 +116,4 @@ Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him
 &nbsp;
 
 # **Other ideas and bug reports**
-<iframe width="100%" height="1200" frameborder="0" scrolling="no" src="http://54.175.45.178:4444/iframe/57bb47685cea630006bb2068"></iframe>
+<div id="ask-form"></div><script src="http://104.196.97.167:4444/widgets/57bf2b774b161600054373f8.js"></script>
