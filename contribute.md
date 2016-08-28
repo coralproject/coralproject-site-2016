@@ -116,4 +116,4 @@ Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him
 &nbsp;
 
 # **Other ideas and bug reports**
-<div id="ask-form"></div><script src="http://104.196.97.167:4444/widgets/57bf2b774b161600054373f8.js"></script>
+<div id="ask-form"></div><script src="https://coral-internal-elkhorn.coralproject.net/widgets/57bf2b774b161600054373f8.js"></script>
