@@ -22,4 +22,4 @@ If you have any other questions, email [Andrew Losowsky.](mailto:andrewl@mozilla
 
 To report bugs or suggest new features, complete the form below.
 
-<div id="ask-form"></div><script src="http://104.196.97.167:4444/widgets/57bf2b774b161600054373f8.js"></script>
+<div id="ask-form"></div><script src="https://coral-internal-elkhorn.coralproject.net/widgets/57bf2b774b161600054373f8.js"></script>
