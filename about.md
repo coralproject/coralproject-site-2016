@@ -97,12 +97,17 @@ I am a DevOps engineer working with Linux, cloud infrastructures, databases, ope
 ### Pablo Cuadrado, UX Developer
 I'm a full-stack developer, working mostly on UX/UI and interaction design. I love crafting beautifully designed software, balancing capabilities, and developing frontend architecture to support fluent interactions. Co-founder of Hacks/Hackers Rosario, still excited about it.
 
+![Belén Curcio]({{"/images/team/belen.jpg" | prepend: site.baseurl}})
+
+### Belén Curcio, Front End Developer
+I'm a software developer passionate about web technologies. If I can't find a solution, I create it. In my free time, I like to contribute to open-source projects, explore tech communities, and solve Rubik's Cubes.
+
 ![David Jay]({{"/images/team/Davidjay.jpg" | prepend: site.baseurl}})
 
 ### David Jay, Front End Developer
 I'm into technology, community organizing, and matzoh ball soup. I’ve spent much of my career finding ways to build new and interesting spaces for conversation online. I also do LGBTQA organizing and work to build better online safe spaces.
 
-![Daniel Whitenack ]({{"/images/team/Daniel.jpg" | prepend: site.baseurl}})
+![Daniel Whitenack]({{"/images/team/Daniel.jpg" | prepend: site.baseurl}})
 
 ### Daniel Whitenack, Go Architect
 I'm data scientist/engineer and Go developer with experience building predictive models, optimization services, data pipelines, and more. I'm passionate about developing data-driven applications that transform raw, messy data into valuable insights. I also play the banjo.
