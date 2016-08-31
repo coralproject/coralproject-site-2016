@@ -7,7 +7,7 @@ bg-img-lg: /images/learnmore-lg.jpg
 bg-img-md: /images/learnmore-md.jpg
 bg-img-sm: /images/learnmore-sm.jpg
 ---
-# Learn more
+# About us
 
 The Coral Project improves the ways that journalists and communities engage on news websites. We are building free, open-source tools for publishers of all sizes. Because journalism needs everyone.
 
