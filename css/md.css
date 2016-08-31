@@ -12,6 +12,22 @@ ul {
     list-style: square;
 }
 
+#ask-form > div > div > header {
+    padding: 0 0 0 0 !important;
+}
+
+#ask-form > div > div > div > ul > li {
+    padding: 20px 5px 20px 5px !important;
+}
+
+#ask-form > div > div > div > footer > div {
+    padding: 0 0 0 0 !important;
+}
+
+#ask-form > div > div > div > footer > div > div > button {
+    line-height: 50px !important;
+}
+
 article {
     width: 84%;
     margin-left: auto;
@@ -120,11 +136,11 @@ article p:last-of-type em { /* attribution text on code-of-conduct page  */
         padding-right: 9%;
         padding-top: 3rem;
     }
-    article h1{
+    article h1 {
         font-size: 28px;
         line-height: 28px;
     }
-    article h2{
+    article h2 {
         font-size: 22px;
         line-height: 28px;
     }
@@ -191,12 +207,12 @@ article p:last-of-type em { /* attribution text on code-of-conduct page  */
         padding-bottom: 10rem;
     }
     
-    article h1{
+    article h1 {
         font-size: 28px;
         line-height: 28px;
     }
     
-    article h2{
+    article h2 {
         font-size: 22px;
         line-height: 28px;
     }

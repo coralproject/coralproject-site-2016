@@ -26,12 +26,19 @@
 </footer>
 
   <script type="text/javascript">
-   var toggles = document.getElementsByClassName("toggle");
-   var smNav = document.getElementById("sm-nav-container");
-   smNav.style.display = "none";
-   Array.prototype.forEach.call(toggles, function(toggle, index) {
-       toggle.addEventListener("click", function(){
-           if(smNav.style.display="none") smNav.style.display = "block";
-           smNav.classList.toggle("onscreen")});
-   });
+      var openNavButton = document.getElementById("openNav");
+      var closeNavButton = document.getElementById("closeNav");
+      var smNav = document.getElementById("sm-nav-container");
+      
+      smNav.style.display = "none";
+
+      openNavButton.addEventListener("click", function(){
+          smNav.style.display = "block";
+          smNav.classList.toggle("onscreen");
+      });
+
+      closeNavButton.addEventListener("click", function(){
+          smNav.style.display = "none";
+          smNav.classList.toggle("onscreen");
+      });
   </script>
