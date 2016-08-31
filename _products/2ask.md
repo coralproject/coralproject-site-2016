@@ -32,7 +32,7 @@ By combining Ask with Trust and Talk, you can easily identify the best people to
 
 * [Help us improve Ask](/contribute.html#help-us-improve-ask)
 
-*Ask will launch in an open beta at the end of August 2016.* 
+*Ask will launch in an open beta in early September 2016. You can see it in action on our [Contribute page.](/contribute.html#other-ideas-and-bug-reports)* 
 <br />
 
 
