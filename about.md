@@ -24,7 +24,7 @@ We want to talk to anyone who might be impacted by our work.
 
 So far, we’ve interviewed more than 300 people in 150 newsrooms in 30 countries, as well as commenters, trolls, and people who never comment. [We want to talk to you.](/contact.html)
 
-As we learn, we share. We’ve created [fictionalized personas](https://community.coralproject.net/t/our-user-personas/286) whose needs are at the heart of everything we build. We have [a blog](http://blog.coralproject.net) filled with articles from and about community experts. We have [our own online community](http://community.coralproject.net) that helps design and improve our work. We [hold](https://coralproject.net/our-first-hackathon/) [events](https://coralproject.net/beyond-comments-our-first-event/) around communities and code. We’ve even invented [a community card game.](https://coralproject.net/cards/)
+As we learn, we share. We’ve created [fictionalized personas](https://community.coralproject.net/t/our-user-personas/286) whose needs are at the heart of everything we build. We have [a blog](http://blog.coralproject.net) filled with articles from and about community experts. We have [our own online community](http://community.coralproject.net) that helps design and improve our work. We [hold](https://blog.coralproject.net/our-first-hackathon/) [events](https://blog.coralproject.net/beyond-comments-our-first-event/) around communities and code. We’ve even invented [a community card game.](https://blog.coralproject.net/cards/)
 
 If you have ideas of what else we can do with you, [please get in touch.](/contact.html)
 
