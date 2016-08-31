@@ -28,7 +28,7 @@ By combining it with our Ask and Talk tools, you can create automatic actions ba
 
 * [Read about Trust](https://www.washingtonpost.com/pr/wp/2016/03/14/trust-the-first-app-from-the-coral-project-launches/)
 * [See a prototype of Trust in action](https://youtu.be/pP7Rr12j4QY?t=21m30s)
-* [Install a pre-release prototype](http://coralprojectdocs.herokuapp.com/#trust) Caution: pre-alpha software.
+* [Install a pre-release prototype](https://docs.coralproject.net/#trust) Caution: pre-alpha software.
 * [Help us improve Trust](/contribute.html#help-us-improve-trust)
 
 

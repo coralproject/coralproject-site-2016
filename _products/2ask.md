@@ -30,6 +30,9 @@ It allows you to:
 
 By combining Ask with Trust and Talk, you can easily identify the best people to respond, and send them your questions in just a few clicks.
 
+* [Read our Product Doc for Ask](https://blog.coralproject.net/product-ask/)
+* [Install a pre-release version of Ask](https://docs.coralproject.net/user/ask/#ask-installation) Caution: pre-release software, contains bugs. 
+* [Advice on using forms effectively in your newsroom](https://blog.coralproject.net/forms-audience-engagement/)
 * [Help us improve Ask](/contribute.html#help-us-improve-ask)
 
 *Ask will launch in an open beta in early September 2016. You can see it in action on our [Contribute page.](/contribute.html#other-ideas-and-bug-reports)* 
