@@ -29,6 +29,7 @@ collections:
 # Meta settings
 name:           "The Coral Project"
 logo:           /images/logo.png
+image:          /images/logo.png
 locale:         en_us
 author:
   facebook:     coralproject
