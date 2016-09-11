@@ -26,4 +26,15 @@ collections:
   users:
     output: true
 
+# Meta settings
+name:           "The Coral Project"
+logo:           /images/logo.png
+locale:         en_us
+author:
+  facebook:     coralproject
+  twitter:      coralproject
+facebook:
+  app_id:       301497520213821
+twitter:
+  username:     coralproject
 
