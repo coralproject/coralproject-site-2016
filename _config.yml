@@ -38,3 +38,7 @@ facebook:
 twitter:
   username:     coralproject
 
+# Redirects
+
+gems:
+  - jekyll-redirect-from
