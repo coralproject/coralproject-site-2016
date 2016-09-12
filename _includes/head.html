@@ -9,6 +9,8 @@
   <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:image" content="http://coralproject.net/images/logo.png">
+  <meta property="og:image:width" content="261" />
+  <meta property="og:image:height" content="291" />
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:site_name" content="{{ site.name }}">
   <meta property="og:locale" content="{{ site.locale }}">
