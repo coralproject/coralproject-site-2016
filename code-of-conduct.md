@@ -79,3 +79,9 @@ If you feel you have been unfairly accused of violating this code of conduct, yo
 We welcome your feedback on this and every other aspect of what we do as The Coral Project, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone involved in the project and what we do.
 
 *Above text is licensed CC BY-SA 4.0, adapted from the SRCCON code of conduct, FreeBSD's code of conduct, Vox Media's product team code of conduct, and Medium's code of conduct.*
+---
+redirect_from:
+  - code-of-conduct
+redirect_to:
+  - http://blog.coralproject.net/code-of-conduct/
+---
