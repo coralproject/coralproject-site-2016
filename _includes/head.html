@@ -7,7 +7,6 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:title" content="The Coral Project">
   <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
-  <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:image" content="http://coralproject.net/images/logo.png">
   <meta property="og:image:width" content="261" />
   <meta property="og:image:height" content="291" />
@@ -17,7 +16,9 @@
   <meta property="fb:app_id" content="301497520213821" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@coralproject" />
-  <meta name="twitter:creator" content="@coralproject" />
+  <meta property="twitter:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="twitter:image" content="http://coralproject.net/images/logo.png">
+  <meta property="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
   <script>
     // Picture element HTML5 shiv :(
     document.createElement( "picture" );
