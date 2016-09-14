@@ -138,9 +138,3 @@ I am the director of OpenNews as well as a journalist, entrepreneur and maker ba
 
 
 Website designed by [Pilcrow](http://www.pilcrow.ie/), built by [GetBulb](http://www.getbulb.com/). Background images from [wocintechchat.com](http://www.wocintechchat.com/), available via a CC-BY 2.0 license.
----
-redirect_from:
-  - about
-redirect_to:
-  - http://blog.coralproject.net/
----
