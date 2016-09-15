@@ -43,5 +43,14 @@ twitter:
 gems:
   - jekyll-redirect-from
 
-permalink: /:title/
+# Site settings
+permalink: pretty
+
+# Pages permalink
+defaults:
+  -
+    scope:
+      type: "pages"
+    values:
+      permalink: /:path/:basename:output_ext
 
