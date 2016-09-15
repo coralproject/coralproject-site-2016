@@ -43,4 +43,5 @@ twitter:
 gems:
   - jekyll-redirect-from
 
-permalink: pretty
+permalink: /:title/
+
