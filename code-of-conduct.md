@@ -1,7 +1,6 @@
 ---
 title: Code of Conduct
 layout: page
-permalink: /code-of-conduct
 md: true
 bg-img-lg: /images/coc-lg.jpg
 bg-img-md: /images/coc-md.jpg
