@@ -26,6 +26,8 @@ It allows you to:
 * Search and share the best contributions 
 * Keep complete control of your data
 
+{% include youtubePlayer.html id="KBKcXCEZLRU" %}
+
 By combining Ask with Trust and Talk, you can easily identify the best people to respond, and send them your questions in just a few clicks.
 
 * [Read our Product Doc for Ask](https://blog.coralproject.net/product-ask/)
