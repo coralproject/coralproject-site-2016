@@ -25,8 +25,6 @@ It allows you to:
 * Build a gallery of the best responses 
 * Search and share the best contributions 
 * Keep complete control of your data
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KBKcXCEZLRU" name="A video about Ask" frameborder="0" allowfullscreen></iframe>
 
 By combining Ask with Trust and Talk, you can easily identify the best people to respond, and send them your questions in just a few clicks.
 
