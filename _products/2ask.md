@@ -26,7 +26,7 @@ It allows you to:
 * Search and share the best contributions 
 * Keep complete control of your data
  
-[![Ask screenshot]({{"/images/ask_screenshot.png" | prepend:site.baseurl}})](/images/ask_screenshot.png "[IMAGE] A screenshot of the form builder screen of our Ask tool")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KBKcXCEZLRU" name="A video about Ask" frameborder="0" allowfullscreen></iframe>
 
 By combining Ask with Trust and Talk, you can easily identify the best people to respond, and send them your questions in just a few clicks.
 
