@@ -26,8 +26,6 @@ It allows you to:
 * Search and share the best contributions 
 * Keep complete control of your data
 
-{% include youtubePlayer.html id="KBKcXCEZLRU" %}
-
 By combining Ask with Trust and Talk, you can easily identify the best people to respond, and send them your questions in just a few clicks.
 
 * [Read our Product Doc for Ask](https://blog.coralproject.net/product-ask/)
@@ -35,7 +33,7 @@ By combining Ask with Trust and Talk, you can easily identify the best people to
 * [Advice on using forms effectively in your newsroom](https://blog.coralproject.net/forms-audience-engagement/)
 * [Help us improve Ask](/contribute.html#help-us-improve-ask)
 
-*Ask will launch in an open beta in early September 2016. You can see it in action on our [Contribute page.](/contribute.html#other-ideas-and-bug-reports)* 
+*Ask will launch in an open beta in early September 2016. [Contact us](mailto:jeff@mozillafoundation.org) if you would like to try it. You can see it in action on our [Contribute page.](/contribute.html#other-ideas-and-bug-reports)* 
 <br />
 
 
