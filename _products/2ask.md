@@ -18,6 +18,8 @@ If you want to ask your audience a specific question to improve your reporting, 
 
 None of these are built for the needs of journalists. Our Ask tool is. 
 
+{% include youtubePlayer.html id="KBKcXCEZLRU" %}		
+
 It allows you to:
 
 * Invite responses in a compact, embeddable form that's compatible across devices
