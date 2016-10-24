@@ -92,11 +92,6 @@ I like building things. Formerly of Tumblr and the New York Times, creating data
 ### Eugene De Fikh, DevOps
 I am a DevOps engineer working with Linux, cloud infrastructures, databases, open-source applications, scaling sites, debugging performance issues, and putting out production fires. I pride myself on my problem-solving skills and the ability to learn new technologies quickly.
 
-![Pablo Cuadrado ]({{"/images/team/pablo.jpg" | prepend: site.baseurl}})
-
-### Pablo Cuadrado, UX Developer
-I'm a full-stack developer, working mostly on UX/UI and interaction design. I love crafting beautifully designed software, balancing capabilities, and developing frontend architecture to support fluent interactions. Co-founder of Hacks/Hackers Rosario, still excited about it.
-
 ![Belén Curcio]({{"/images/team/belen.jpg" | prepend: site.baseurl}})
 
 ### Belén Curcio, Front End Developer
