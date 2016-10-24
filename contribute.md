@@ -12,7 +12,7 @@ bg-img-sm: /images/contribute2-sm.jpg
 
 Help us by joining the community of people contributing to our code, suggesting features, and reporting bugs.
 
-Check out the sections below to get started, or take a look at [our technical documentation on contributing to the Coral Project.](http://coralprojectdocs.herokuapp.com/contribute/) All of our software is created under an [Apache 2.0 open source license.](http://www.apache.org/licenses/LICENSE-2.0) We’ll fully credit you for anything you make that we accept into our codebase.
+Check out the sections below to get started, or take a look at [our technical documentation on contributing to the Coral Project.](https://docs.coralproject.net/) All of our software is created under an [Apache 2.0 open source license.](http://www.apache.org/licenses/LICENSE-2.0) We’ll fully credit you for anything you make that we accept into our codebase.
 
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
