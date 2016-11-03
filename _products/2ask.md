@@ -30,7 +30,7 @@ It allows you to:
 
 By combining Ask with Trust and Talk, you can easily identify the best people to respond, and send them your questions in just a few clicks.
 
-* [Install Ask](https://docs.coralproject.net/user/ask/#ask-installation)
+* [Install Ask](https://docs.coralproject.net/products/ask/)
 * [Advice on using forms effectively in your newsroom](https://blog.coralproject.net/forms-audience-engagement/)
 * [Read our Product Doc for Ask](https://blog.coralproject.net/product-ask/)
 * [Help us improve Ask](/contribute.html#help-us-improve-ask)
