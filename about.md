@@ -87,11 +87,6 @@ I’m an activist and hacker who loves the intersection between media and techno
 ### Riley Davis, Full-Stack Developer
 I like building things. Formerly of Tumblr and the New York Times, creating data visualizations and general digital goods.
 
-![Eugene De Fikh ]({{"/images/team/Eugene.jpg" | prepend: site.baseurl}})
-
-### Eugene De Fikh, DevOps
-I am a DevOps engineer working with Linux, cloud infrastructures, databases, open-source applications, scaling sites, debugging performance issues, and putting out production fires. I pride myself on my problem-solving skills and the ability to learn new technologies quickly.
-
 ![Belén Curcio]({{"/images/team/belen.jpg" | prepend: site.baseurl}})
 
 ### Belén Curcio, Front End Developer
