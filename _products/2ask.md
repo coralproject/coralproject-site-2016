@@ -27,8 +27,9 @@ It allows you to:
 * Build a gallery of the best responses 
 * Search and share the best contributions 
 * Keep complete control of your data
+* Display real-time responses in a Slack channel
 
-By combining Ask with Trust and Talk, you can easily identify the best people to respond, and send them your questions in just a few clicks.
+By combining Ask with Trust and Talk, you will be able to easily identify the best people to respond, and send them your questions in just a few clicks.
 
 * [Install Ask](https://docs.coralproject.net/products/ask/)
 * [Advice on using forms effectively in your newsroom](https://blog.coralproject.net/forms-audience-engagement/)
@@ -36,6 +37,8 @@ By combining Ask with Trust and Talk, you can easily identify the best people to
 * [Help us improve Ask](/contribute.html#help-us-improve-ask)
 
 *Ask is available now to download and run on your server. [Contact us](mailto:jeff@mozillafoundation.org) if you would like help in installing. You can see it in action [here](https://www.youtube.com/watch?v=KBKcXCEZLRU) and on our [Contribute page.](/contribute.html#other-ideas-and-bug-reports)* 
+
+*Ask also powers our customizable election interactive. [See it in action](www.philly.com/philly/news/politics/400537181.html) at philly.com and [visit here](https://github.com/bocoup/coral-ask-election-2016/) for installation instructions.*
 <br />
 
 
