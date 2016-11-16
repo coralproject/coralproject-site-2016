@@ -97,14 +97,9 @@ I'm a software developer passionate about web technologies. If I can't find a so
 ### David Jay, Front End Developer
 I'm into technology, community organizing, and matzoh ball soup. I’ve spent much of my career finding ways to build new and interesting spaces for conversation online. I also do LGBTQA organizing and work to build better online safe spaces.
 
-![Daniel Whitenack]({{"/images/team/Daniel.jpg" | prepend: site.baseurl}})
-
-### Daniel Whitenack, Go Architect
-I'm data scientist/engineer and Go developer with experience building predictive models, optimization services, data pipelines, and more. I'm passionate about developing data-driven applications that transform raw, messy data into valuable insights. I also play the banjo.
-
 ![Wyatt Johnson]({{"/images/team/wyatt.jpg" | prepend: site.baseurl}})
 
-### Wyatt Johnson, Go Developer
+### Wyatt Johnson, Full-Stack Developer
 I’m a full-stack software developer with a security-first mindset. I create backend systems that handle the data in a responsible and monitored way. For fun, I run and climb things.
 
 ![Dan Zajdband ]({{"/images/team/Dan.jpg" | prepend: site.baseurl}})
