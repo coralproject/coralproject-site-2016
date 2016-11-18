@@ -38,7 +38,7 @@ By combining Ask with Trust and Talk, you will be able to easily identify the be
 
 *Ask is available now to download and run on your server. [Contact us](mailto:jeff@mozillafoundation.org) if you would like help in installing. You can see it in action [here](https://www.youtube.com/watch?v=KBKcXCEZLRU) and on our [Contribute page.](/contribute.html#other-ideas-and-bug-reports)* 
 
-*Ask also powers our customizable election interactive. [See it in action](www.philly.com/philly/news/politics/400537181.html) at philly.com and [visit here](https://github.com/bocoup/coral-ask-election-2016/) for installation instructions.*
+*Ask also powers our customizable election interactive. [See it in action](http://www.philly.com/philly/news/politics/400537181.html) at philly.com and [visit here](https://github.com/bocoup/coral-ask-election-2016/) for installation instructions.*
 <br />
 
 
