@@ -1,6 +1,6 @@
 ---
 title: The Coral Project - Research
-layout: about-page
+layout: page
 permalink: /research
 md: true
 bg-img-lg: /images/learnmore-lg.jpg
