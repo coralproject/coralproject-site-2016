@@ -18,6 +18,7 @@ Online comments are broken. Our Talk tool will reshape how moderation, comment d
 
 By combining Talk with Trust, you’ll have a flexible tool with a powerful, scalable moderation system that will help you manage all levels of contributions to your site.
 
+* [Try our Comments Lab to experiment with Talk features.](https://lab.coralproject.net)
 * [Help us improve Talk.](/contribute.html#help-us-improve-talk)
 
 *Talk will enter its first beta phase in Q4 2016.*

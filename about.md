@@ -87,16 +87,6 @@ I’m an activist and hacker who loves the intersection between media and techno
 ### Riley Davis, Full-Stack Developer
 I like building things. Formerly of Tumblr and the New York Times, creating data visualizations and general digital goods.
 
-![Eugene De Fikh ]({{"/images/team/Eugene.jpg" | prepend: site.baseurl}})
-
-### Eugene De Fikh, DevOps
-I am a DevOps engineer working with Linux, cloud infrastructures, databases, open-source applications, scaling sites, debugging performance issues, and putting out production fires. I pride myself on my problem-solving skills and the ability to learn new technologies quickly.
-
-![Pablo Cuadrado ]({{"/images/team/pablo.jpg" | prepend: site.baseurl}})
-
-### Pablo Cuadrado, UX Developer
-I'm a full-stack developer, working mostly on UX/UI and interaction design. I love crafting beautifully designed software, balancing capabilities, and developing frontend architecture to support fluent interactions. Co-founder of Hacks/Hackers Rosario, still excited about it.
-
 ![Belén Curcio]({{"/images/team/belen.jpg" | prepend: site.baseurl}})
 
 ### Belén Curcio, Front End Developer
@@ -107,14 +97,9 @@ I'm a software developer passionate about web technologies. If I can't find a so
 ### David Jay, Front End Developer
 I'm into technology, community organizing, and matzoh ball soup. I’ve spent much of my career finding ways to build new and interesting spaces for conversation online. I also do LGBTQA organizing and work to build better online safe spaces.
 
-![Daniel Whitenack]({{"/images/team/Daniel.jpg" | prepend: site.baseurl}})
-
-### Daniel Whitenack, Go Architect
-I'm data scientist/engineer and Go developer with experience building predictive models, optimization services, data pipelines, and more. I'm passionate about developing data-driven applications that transform raw, messy data into valuable insights. I also play the banjo.
-
 ![Wyatt Johnson]({{"/images/team/wyatt.jpg" | prepend: site.baseurl}})
 
-### Wyatt Johnson, Go Developer
+### Wyatt Johnson, Full-Stack Developer
 I’m a full-stack software developer with a security-first mindset. I create backend systems that handle the data in a responsible and monitored way. For fun, I run and climb things.
 
 ![Dan Zajdband ]({{"/images/team/Dan.jpg" | prepend: site.baseurl}})
