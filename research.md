@@ -19,16 +19,18 @@ Everything we do is centered around users. We have interviewed more than 300 peo
 * [See our list of aggregate user needs](https://trello.com/b/Dhrb4D74/coral-s-needs-public) 
 • [Read a study based on commenter interviews](https://blog.coralproject.net/interviews-with-frequent-commenters/) 
 * [Visit our online Community where we seek feedback and discussion](https://community.coralproject.net/)
+* A survey of journalists and harassment (not published)
 
 
 ##Events
 
 We host events to inform and improve our work. We also hold workshops and discussions at events around the world.
 
-* [Beyond Comments: Building Better Conversations](https://blog.coralproject.net/beyond-comments-our-first-event/) (held jointly with MIT Media Lab) 
-* [Communities of Data](https://blog.coralproject.net/our-first-hackathon/) (held jointly with The Washington Post)
-* Dozens of sessions with journalists and editors around the world
-* Workshops and discussions with college students in Boston, MA and Washington, DC 
+* We held a one-day event called [Beyond Comments: Building Better Conversations](https://blog.coralproject.net/beyond-comments-our-first-event/) (held jointly with MIT Media Lab) 
+* We created a hackaton, [Communities of Data](https://blog.coralproject.net/our-first-hackathon/) (held jointly with The Washington Post)
+* We've run dozens of sessions with journalists and editors around the world
+* We've hosted Workshops and discussions with college students in Boston, MA and Washington, DC 
+* [We created (and have played many times) a card game](http://blog.coralproject.net/cards) to encourage discussion and thinking around community tools and conversation
 
 Previous workshops/sessions include:
 SRCCON, World Editor's Forum, Online News Association Conference, People-Powered Publishing, Newsgeist, [Association for Alternative News Media](https://blog.coralproject.net/alternative-news-editors-offer-alternatives-to-commenting/), SXSW. 
