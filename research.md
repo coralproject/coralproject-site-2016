@@ -60,6 +60,7 @@ We commission articles from experts across the fields of community management an
 * A series on creating and managing communities from the founder of Slashdot
 * Interviews with community experts and innovators 
 * Shared best practices from community managers at Metafilter, in the health care industry, and more
+* We also share essential reading on community management [in our newsletter](http://tinyletter.com/coralproject)
 
 
 
