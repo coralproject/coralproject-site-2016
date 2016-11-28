@@ -20,7 +20,8 @@ Resources:
 * [Our User Personas](https://community.coralproject.net/t/our-user-personas/286)
 * [A list of aggregate user needs](https://trello.com/b/Dhrb4D74/coral-s-needs-public) 
 • [A behaviorial study of commenters](https://blog.coralproject.net/interviews-with-frequent-commenters/) 
-* [Our online Community, where we seek feedback and discussion](https://community.coralproject.net/)
+* [Our online Community is where we seek feedback and discussion](https://community.coralproject.net/)
+* [Our Comments Lab showcases research and invites user interaction](https://lab.coralproject.net)
 
 
 ##Events
