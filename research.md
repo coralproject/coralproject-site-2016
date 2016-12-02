@@ -11,45 +11,59 @@ bg-img-sm: /images/learnmore-sm.jpg
 
 We constantly conduct research as part of our work. If you'd like to work with us, [get in touch.](/contact.html)
 
+&nbsp;
+&nbsp;
+
 ## User research
 
 Everything we do is centered around users. We have interviewed more than 300 people from 150 newsrooms in 30 countries. We've talked to frequent commenters, trolls, people who have been harassed out of the comments, and people who never comment. We've conducted a survey on journalism and harassment. We've brought commenters and college students into newsrooms, and community activists into universities. As a result, we've crafted user personas and aggregated needs to create our roadmap and inform our decisions.
 
 Resources:
 
-* [Our User Personas](https://community.coralproject.net/t/our-user-personas/286)
-* [A list of aggregate user needs](https://trello.com/b/Dhrb4D74/coral-s-needs-public) 
-* [A behaviorial study of commenters](https://blog.coralproject.net/interviews-with-frequent-commenters/) 
-* [Our online Community is where we seek feedback and discussion](https://community.coralproject.net/)
-* [Our Comments Lab showcases research and invites user interaction](https://lab.coralproject.net)
+* [Read our User Personas](https://community.coralproject.net/t/our-user-personas/286)
+* [See our list of aggregate user needs](https://trello.com/b/Dhrb4D74/coral-s-needs-public) 
+* [View a behaviorial study of commenters](https://blog.coralproject.net/interviews-with-frequent-commenters/) 
+* [Join our online Community for feedback and conversation](https://community.coralproject.net/)
+* [Try our Comments Lab to see research in action](https://lab.coralproject.net)
+* [Play our free card game, encouraging discussion around community tools](http://blog.coralproject.net/cards) 
+
+&nbsp;
+&nbsp;
 
 ## Academic studies
 
 We work with academics to support our work.
 
-Studies:
+Studies that we've initiated:
 
-* [We are funding the first large-scale qualitative study](https://www.washingtonpost.com/news/ask-the-post/wp/2016/05/25/survey-what-do-you-think-of-comments-on-the-post/) on commenter behavior on news sites with The Engaging News Project
-* Marie Tessier, [a fellow at the Reynolds Journalism Institute at the University of Missiouri](https://www.rjionline.org/projects/marie-tessier-fellowship-project-20152016), conducted for us [a study of women in comment spaces](https://blog.coralproject.net/raising-womens-voices/) 
-* [Read an informal literature review](https://blog.coralproject.net/artificial-moderation-a-reading-list) of academic studies on moderation techniques that we commissioned from Nicholas Diakopoulos of the University of Maryland
-* See articles from academics and others [on our blog](https://blog.coralproject.net/category/research/)
-* [Follow](https://blog.coralproject.net/the-math-behind-the-metrics/) [work](https://blog.coralproject.net/newsrooms-privacy-creepy/) [by](https://source.opennews.org/en-US/articles/low-budget-natural-language-processing/) four Knight-Mozilla OpenNews Fellows who have worked with us
+* [The first large-scale qualitative study on commenter behavior on news sites](https://www.washingtonpost.com/news/ask-the-post/wp/2016/05/25/survey-what-do-you-think-of-comments-on-the-post/), with The Engaging News Project
+* [A study of women in comment spaces](https://blog.coralproject.net/raising-womens-voices/) by Marie Tessier, a fellow at the Reynolds Journalism Institute at the University of Missiouri
+* [An informal literature review of academic studies on moderation](https://blog.coralproject.net/artificial-moderation-a-reading-list)  by Nicholas Diakopoulos of the University of Maryland
+* [Articles from academics and others on our blog](https://blog.coralproject.net/category/research/)
+* [Various](https://blog.coralproject.net/the-math-behind-the-metrics/) [work](https://blog.coralproject.net/newsrooms-privacy-creepy/) [by](https://source.opennews.org/en-US/articles/low-budget-natural-language-processing/) four Knight-Mozilla OpenNews Fellows 
 * More academic collaborations to be announced soon
 
-We frequently use [academic studies](https://community.coralproject.net/t/interesting-academic-papers-about-comment-sections) to inform our choices. We have also assisted several research projects including by [Anika Gupta at MIT](https://dspace.mit.edu/handle/1721.1/104258#files-area), Fiona Martin at University of Sydney, [the World Editors Forum](http://www.wan-ifra.org/reports/2016/10/06/the-2016-global-report-on-online-commenting).
+We frequently use [academic studies](https://community.coralproject.net/t/interesting-academic-papers-about-comment-sections) to inform our product decisions. We have also assisted research projects by [Anika Gupta at MIT](https://dspace.mit.edu/handle/1721.1/104258#files-area), [Fiona Martin at University of Sydney](https://sydney.edu.au/arts/media_communications/staff/profiles/fiona.martin.php), [the World Editors Forum](http://www.wan-ifra.org/reports/2016/10/06/the-2016-global-report-on-online-commenting).
+
+&nbsp;
+&nbsp;
 
 ## Events
 
-We host events to inform and improve our work, by running workshops and discussions around different aspects of what we do. We also hold gatherings in newsrooms, colleges, and at events around the world.
+We host events to inform and improve our work, by running workshops and discussions around different aspects of what we do. We also hold gatherings in newsrooms, colleges, and at events around the world. Tell us if you'd like to host an event with us.
 
 Documentation:
 
 * [About our event 'Beyond Comments: Building Better Conversations'](https://blog.coralproject.net/beyond-comments-our-first-event/) (held jointly with MIT Media Lab) 
 * [About our hackathon, 'Communities of Data'](https://blog.coralproject.net/our-first-hackathon/) (held jointly with The Washington Post)
-* [Our card game to inspire discussion and tools](http://blog.coralproject.net/cards) 
+* [About our session at the Association for Alternative News Media](https://blog.coralproject.net/alternative-news-editors-offer-alternatives-to-commenting/)
+
 
 Previous workshops/sessions include:
-SRCCON, World Editor's Forum, Online News Association Conference, Mozfest, People-Powered Publishing, Newsgeist, [Association for Alternative News Media](https://blog.coralproject.net/alternative-news-editors-offer-alternatives-to-commenting/), SXSW, The Engagement Summit, SND Makes, Taking Back the News, FOO Camp, ReporterForum, BarCamp, MediaParty, gatherings for students at Boston colleges, Howard University, the New School. 
+SRCCON, World Editor's Forum, Online News Association Conference, Mozfest, People-Powered Publishing, Newsgeist, Association for Alternative News Media, SXSW, The Engagement Summit, SND Makes, Taking Back the News, FOO Camp, ReporterForum, BarCamp, MediaParty, gatherings for students at Boston colleges, Howard University, the New School, various newsrooms.
+
+&nbsp;
+&nbsp;
 
 
 ## Articles
