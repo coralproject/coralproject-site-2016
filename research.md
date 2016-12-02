@@ -48,7 +48,7 @@ Studies:
 * Marie Tessier, [a fellow at the Reynolds Journalism Institute at the University of Missiouri](https://www.rjionline.org/projects/marie-tessier-fellowship-project-20152016), conducted [a study of women in comment spaces](https://blog.coralproject.net/raising-womens-voices/) for us 
 * [An informal literature review](https://blog.coralproject.net/artificial-moderation-a-reading-list) of academic studies on moderation techniques by Nicholas Diakopoulos of the University of Maryland
 * Articles from academics and others [on our blog](https://blog.coralproject.net/category/research/)
-* Work from four Knight-Mozilla OpenNews Fellows [to conduct research and investigations](https://blog.coralproject.net/the-math-behind-the-metrics/) that support our work
+* Work from four Knight-Mozilla OpenNews Fellows [to conduct research](https://blog.coralproject.net/the-math-behind-the-metrics/) and [investigations](https://blog.coralproject.net/user-submitted-malware/) that support our work
 * More academic studies to be announced soon
 
 We also assist in the work of several academics and associated studies including [Anika Gupta at MIT](https://dspace.mit.edu/handle/1721.1/104258#files-area), Fiona Martin at University of Sydney, [the World Editors Forum Global Report on Online Commenting](http://www.wan-ifra.org/reports/2016/10/06/the-2016-global-report-on-online-commenting).
