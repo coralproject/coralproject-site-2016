@@ -65,7 +65,7 @@ We commission articles from experts across the fields of community management an
 
 
 
-If you have ideas of what else we can do with you, [please get in touch.](/contact.html)
+If you have ideas for how we can work together on future research, [please get in touch.](/contact.html)
 
 
 
