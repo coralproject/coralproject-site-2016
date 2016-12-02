@@ -25,7 +25,7 @@ Resources:
 
 ##Academic studies
 
-We often work with academics to support our work.
+We work with academics to support our work.
 
 Studies:
 
@@ -36,7 +36,7 @@ Studies:
 * Work from four Knight-Mozilla OpenNews Fellows [to conduct research](https://blog.coralproject.net/the-math-behind-the-metrics/) and [investigations](https://blog.coralproject.net/newsrooms-privacy-creepy/) that support our work
 * More academic studies to be announced soon
 
-We also assist in the work of several academics and associated studies including [Anika Gupta at MIT](https://dspace.mit.edu/handle/1721.1/104258#files-area), Fiona Martin at University of Sydney, [the World Editors Forum Global Report on Online Commenting](http://www.wan-ifra.org/reports/2016/10/06/the-2016-global-report-on-online-commenting).
+We frequently use [academic studies](https://community.coralproject.net/t/interesting-academic-papers-about-comment-sections) to inform our choices. We have also assisted several academics and associated studies including [Anika Gupta at MIT](https://dspace.mit.edu/handle/1721.1/104258#files-area), Fiona Martin at University of Sydney, [the World Editors Forum Global Report on Online Commenting](http://www.wan-ifra.org/reports/2016/10/06/the-2016-global-report-on-online-commenting).
 
 ##Events
 
