@@ -48,7 +48,7 @@ Studies:
 * Marie Tessier, [a fellow at the Reynolds Journalism Institute at the University of Missiouri](https://www.rjionline.org/projects/marie-tessier-fellowship-project-20152016), conducted [a study of women in comment spaces](https://blog.coralproject.net/raising-womens-voices/) for us 
 * [An informal literature review](https://blog.coralproject.net/artificial-moderation-a-reading-list) of academic studies on moderation techniques by Nicholas Diakopoulos of the University of Maryland
 * Articles from academics and others [on our blog](https://blog.coralproject.net/category/research/)
-* Work from four Knight-Mozilla OpenNews Fellows [to conduct research](https://blog.coralproject.net/the-math-behind-the-metrics/) and [investigations](https://blog.coralproject.net/user-submitted-malware/) that support our work
+* Work from four Knight-Mozilla OpenNews Fellows [to conduct research](https://blog.coralproject.net/the-math-behind-the-metrics/) and [investigations](https://blog.coralproject.net/newsrooms-privacy-creepy/) that support our work
 * More academic studies to be announced soon
 
 We also assist in the work of several academics and associated studies including [Anika Gupta at MIT](https://dspace.mit.edu/handle/1721.1/104258#files-area), Fiona Martin at University of Sydney, [the World Editors Forum Global Report on Online Commenting](http://www.wan-ifra.org/reports/2016/10/06/the-2016-global-report-on-online-commenting).
@@ -57,9 +57,10 @@ We also assist in the work of several academics and associated studies including
 
 We commission articles from experts across the fields of community management and software. We are compiling them into [a practical series of guides](https://coralproject.net/products/guides.html) around community and engagement for newsrooms. This has so far included:
 
-* A series on creating and managing communities from the founder of Slashdot
-* Interviews with community experts and innovators 
-* Shared best practices from community managers at Metafilter, in the health care industry, and more
+* [A series on creating and managing communities from the founder of Slashdot](https://blog.coralproject.net/author/robert-malda/)
+* Interviews with [community experts](https://blog.coralproject.net/category/interview/) and [innovators](https://blog.coralproject.net/category/new-tools/)
+* Shared best practices from community managers [at Metafilter](https://blog.coralproject.net/advice-for-the-accidental-community-manager/), in [the health care industry](https://blog.coralproject.net/creating-community-culture/), [design researchers](https://blog.coralproject.net/can-design-make-the-comments-section-nicer/) and more
+* Guides for [creating forms](https://blog.coralproject.net/forms-audience-engagement/), [the law as applied to online comments](https://blog.coralproject.net/internet-comments-and-the-law/), [protecting yourself from malware](https://blog.coralproject.net/user-submitted-malware/), [how to present a convincing argument](https://blog.coralproject.net/how-to-argue-successfully-online/)
 * We also share essential reading on community management [in our newsletter](https://tinyletter.com/coralproject/archive)
 
 
