@@ -58,11 +58,11 @@ We commission articles from experts across the fields of community management an
 
 * [A series on creating and managing communities from the founder of Slashdot](https://blog.coralproject.net/author/robert-malda/)
 * Interviews with [community experts](https://blog.coralproject.net/category/interview/) and [innovators](https://blog.coralproject.net/category/new-tools/)
-* Shared best practices from community managers [at Metafilter](https://blog.coralproject.net/advice-for-the-accidental-community-manager/), in [the health care industry](https://blog.coralproject.net/creating-community-culture/), [design researchers](https://blog.coralproject.net/can-design-make-the-comments-section-nicer/) and more
+* Shared best practices from community managers [at Metafilter](https://blog.coralproject.net/advice-for-the-accidental-community-manager/), [design researchers](https://blog.coralproject.net/can-design-make-the-comments-section-nicer/), in [the health care industry](https://blog.coralproject.net/creating-community-culture/), and more
 * Guides for [creating forms](https://blog.coralproject.net/forms-audience-engagement/), [the law as applied to online comments](https://blog.coralproject.net/internet-comments-and-the-law/), [protecting yourself from malware](https://blog.coralproject.net/user-submitted-malware/), [how to present a convincing argument](https://blog.coralproject.net/how-to-argue-successfully-online/)
 * We also share essential reading on community management [in our newsletter](https://tinyletter.com/coralproject/archive)
 
-
+<br />
 
 If you have ideas for how we can work together on future research, [please get in touch.](/contact.html)
 
