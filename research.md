@@ -11,7 +11,7 @@ bg-img-sm: /images/learnmore-sm.jpg
 
 We constantly conduct research as part of our work. If you'd like to work with us, [get in touch.](/contact.html)
 
-##User research
+## User research
 
 Everything we do is centered around users. We have interviewed more than 300 people from 150 newsrooms in 30 countries. We've talked to frequent commenters, trolls, people who have been harassed out of the comments, and people who never comment. We've conducted a survey on journalism and harassment. We've brought commenters and college students into newsrooms, and community activists into universities. As a result, we've crafted user personas and aggregated needs to create our roadmap and inform our decisions.
 
@@ -23,7 +23,7 @@ Resources:
 * [Our online Community is where we seek feedback and discussion](https://community.coralproject.net/)
 * [Our Comments Lab showcases research and invites user interaction](https://lab.coralproject.net)
 
-##Academic studies
+## Academic studies
 
 We work with academics to support our work.
 
@@ -38,7 +38,7 @@ Studies:
 
 We frequently use [academic studies](https://community.coralproject.net/t/interesting-academic-papers-about-comment-sections) to inform our choices. We have also assisted several research projects including by [Anika Gupta at MIT](https://dspace.mit.edu/handle/1721.1/104258#files-area), Fiona Martin at University of Sydney, [the World Editors Forum](http://www.wan-ifra.org/reports/2016/10/06/the-2016-global-report-on-online-commenting).
 
-##Events
+## Events
 
 We host events to inform and improve our work, by running workshops and discussions around different aspects of what we do. We also hold gatherings in newsrooms, colleges, and at events around the world.
 
@@ -52,7 +52,7 @@ Previous workshops/sessions include:
 SRCCON, World Editor's Forum, Online News Association Conference, Mozfest, People-Powered Publishing, Newsgeist, [Association for Alternative News Media](https://blog.coralproject.net/alternative-news-editors-offer-alternatives-to-commenting/), SXSW, The Engagement Summit, SND Makes, Taking Back the News, FOO Camp, ReporterForum, BarCamp, MediaParty, gatherings for students at Boston colleges, Howard University, the New School. 
 
 
-##Articles
+## Articles
 
 We commission articles from experts across the fields of community management and software. We are compiling them into [a practical series of guides](https://coralproject.net/products/guides.html) around community and engagement for newsrooms. This has so far included:
 
