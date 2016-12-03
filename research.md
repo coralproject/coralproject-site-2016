@@ -53,6 +53,11 @@ We frequently use [academic studies](https://community.coralproject.net/t/intere
 &nbsp;
 &nbsp;
 
+<p align="center">_____________</p>
+
+&nbsp;
+&nbsp;
+
 ## Events
 
 We host events to inform and improve our work, by running workshops and discussions around different aspects of what we do. We also hold gatherings in newsrooms, colleges, and at events around the world. Tell us if you'd like to host an event with us.
@@ -70,6 +75,10 @@ SRCCON, World Editor's Forum, Online News Association Conference, Mozfest, Peopl
 &nbsp;
 &nbsp;
 
+<p align="center">_____________</p>
+
+&nbsp;
+&nbsp;
 
 ## Articles
 
