@@ -30,6 +30,11 @@ Resources:
 &nbsp;
 &nbsp;
 
+<p align="center">_____________</p>
+
+&nbsp;
+&nbsp;
+
 ## Academic studies
 
 We work with academics to support our work.
