@@ -16,7 +16,9 @@ We constantly conduct research as part of our work. If you'd like to work with u
 
 ## User research
 
-Everything we do is centered around users. We have interviewed more than 300 people from 150 newsrooms in 30 countries. We've talked to frequent commenters, trolls, people who have been harassed out of the comments, and people who never comment. We've conducted a survey on journalism and harassment. We've brought commenters and college students into newsrooms, and community activists into universities. As a result, we've crafted user personas and aggregated needs to create our roadmap and inform our decisions.
+Everything we do is centered around users. We have interviewed more than 300 people from 150 newsrooms in 30 countries. We've talked to frequent commenters, trolls, people who have been harassed out of the comments, and people who never comment. 
+
+We've conducted a survey on journalism and harassment. We've brought commenters and college students into newsrooms, and community activists into universities. As a result, we've crafted user personas and aggregated needs to create our roadmap and inform our decisions.
 
 Resources:
 
@@ -41,12 +43,12 @@ We work with academics to support our work.
 
 Studies that we've initiated:
 
-* [The first large-scale qualitative study on commenter behavior on news sites](https://www.washingtonpost.com/news/ask-the-post/wp/2016/05/25/survey-what-do-you-think-of-comments-on-the-post/), with The Engaging News Project
-* [A study of women in comment spaces](https://blog.coralproject.net/raising-womens-voices/) by Marie Tessier, a fellow at the Reynolds Journalism Institute at the University of Missiouri
-* [An informal literature review of academic studies on moderation](https://blog.coralproject.net/artificial-moderation-a-reading-list)  by Nicholas Diakopoulos of the University of Maryland
+* [A large-scale qualitative study on commenter behavior](https://www.washingtonpost.com/news/ask-the-post/wp/2016/05/25/survey-what-do-you-think-of-comments-on-the-post/), with The Engaging News Project
+* [A study of women in comment spaces](https://blog.coralproject.net/raising-womens-voices/) by Marie Tessier, fellow at the Reynolds Journalism Institute at the University of Missiouri
+* [An informal literature review of moderation studies](https://blog.coralproject.net/artificial-moderation-a-reading-list)  by Nicholas Diakopoulos of the University of Maryland
 * [Articles from academics and others on our blog](https://blog.coralproject.net/category/research/)
 * [Various](https://blog.coralproject.net/the-math-behind-the-metrics/) [work](https://blog.coralproject.net/newsrooms-privacy-creepy/) [by](https://source.opennews.org/en-US/articles/low-budget-natural-language-processing/) four Knight-Mozilla OpenNews Fellows 
-* More academic collaborations to be announced soon
+* More academic collaborations announced soon
 
 We frequently use [academic studies](https://community.coralproject.net/t/interesting-academic-papers-about-comment-sections) to inform our product decisions. We have also assisted research projects by [Anika Gupta at MIT](https://dspace.mit.edu/handle/1721.1/104258#files-area), [Fiona Martin at University of Sydney](https://sydney.edu.au/arts/media_communications/staff/profiles/fiona.martin.php), [the World Editors Forum](http://www.wan-ifra.org/reports/2016/10/06/the-2016-global-report-on-online-commenting).
 
@@ -60,7 +62,7 @@ We frequently use [academic studies](https://community.coralproject.net/t/intere
 
 ## Events
 
-We host events to inform and improve our work, by running workshops and discussions around different aspects of what we do. We also hold gatherings in newsrooms, colleges, and at events around the world. Tell us if you'd like to host an event with us.
+We host events to inform and improve our work, running workshops and discussions about what we do. We also hold gatherings in newsrooms, colleges, and at events around the world. Tell us if you'd like to host an event with us.
 
 Documentation:
 
@@ -82,11 +84,11 @@ SRCCON, World Editor's Forum, Online News Association Conference, Mozfest, Peopl
 
 ## Articles
 
-We commission articles from experts across the fields of community management and software. We are compiling them into [a practical series of guides](https://coralproject.net/products/guides.html) around community and engagement for newsrooms. This has so far included:
+We commission articles from experts on community management and technology. We are compiling them into [a practical series of guides](https://coralproject.net/products/guides.html) around community and engagement for newsrooms. This has so far included:
 
 * [A series on creating and managing communities from the founder of Slashdot](https://blog.coralproject.net/author/robert-malda/)
 * Interviews with [community experts](https://blog.coralproject.net/category/interview/) and [innovators](https://blog.coralproject.net/category/new-tools/)
-* Shared best practices from community managers [at Metafilter](https://blog.coralproject.net/advice-for-the-accidental-community-manager/), [design researchers](https://blog.coralproject.net/can-design-make-the-comments-section-nicer/), in [the health care industry](https://blog.coralproject.net/creating-community-culture/), and more
+* Best practices from community managers [at Metafilter](https://blog.coralproject.net/advice-for-the-accidental-community-manager/), [design researchers](https://blog.coralproject.net/can-design-make-the-comments-section-nicer/), in [the health care industry](https://blog.coralproject.net/creating-community-culture/), and more
 * Guides for [creating forms](https://blog.coralproject.net/forms-audience-engagement/), [the law as applied to online comments](https://blog.coralproject.net/internet-comments-and-the-law/), [protecting yourself from malware](https://blog.coralproject.net/user-submitted-malware/), [how to present a convincing argument](https://blog.coralproject.net/how-to-argue-successfully-online/)
 * We also share essential reading on community management [in our newsletter](https://tinyletter.com/coralproject/archive)
 
