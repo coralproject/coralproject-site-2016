@@ -45,9 +45,10 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 
 &nbsp;
-
 &nbsp;
-
+<p align="center">_____________</p>
+&nbsp;
+&nbsp;
 
 # **Help us improve Ask**
 
@@ -66,7 +67,9 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
 &nbsp;
-
+&nbsp;
+<p align="center">_____________</p>
+&nbsp;
 &nbsp;
 
 
@@ -87,7 +90,9 @@ Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him
 
 
 &nbsp;
-
+&nbsp;
+<p align="center">_____________</p>
+&nbsp;
 &nbsp;
 
 
@@ -100,9 +105,10 @@ Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him
 * Send ideas for what you want to read / write to [Sydette Harry](mailto:sydette@mozillafoundation.org) (and yes, we do pay for blogposts/contributions)
 * [Fill out the form below](#other-ideas-and-bug-reports)
 
-
 &nbsp;
-
+&nbsp;
+<p align="center">_____________</p>
+&nbsp;
 &nbsp;
 
 
@@ -112,7 +118,9 @@ Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him
 
 
 &nbsp;
-
+&nbsp;
+<p align="center">_____________</p>
+&nbsp;
 &nbsp;
 
 # **Other ideas and bug reports**
