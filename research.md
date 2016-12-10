@@ -50,7 +50,7 @@ Studies that we've initiated:
 * [Various](https://blog.coralproject.net/the-math-behind-the-metrics/) [work](https://blog.coralproject.net/newsrooms-privacy-creepy/) [by](https://source.opennews.org/en-US/articles/low-budget-natural-language-processing/) four Knight-Mozilla OpenNews Fellows 
 * More academic collaborations announced soon
 
-We frequently use [academic studies](https://community.coralproject.net/t/interesting-academic-papers-about-comment-sections) to inform our product decisions. We have also assisted research projects by [Anika Gupta at MIT](https://dspace.mit.edu/handle/1721.1/104258#files-area), [Fiona Martin at University of Sydney](https://sydney.edu.au/arts/media_communications/staff/profiles/fiona.martin.php), [the World Editors Forum](http://www.wan-ifra.org/reports/2016/10/06/the-2016-global-report-on-online-commenting).
+We frequently use [pre-existing academic work](https://community.coralproject.net/t/interesting-academic-papers-about-comment-sections) to inform our product decisions. We have also assisted research projects by [Anika Gupta at MIT](https://dspace.mit.edu/handle/1721.1/104258#files-area), [Fiona Martin at University of Sydney](https://sydney.edu.au/arts/media_communications/staff/profiles/fiona.martin.php), [the World Editors Forum](http://www.wan-ifra.org/reports/2016/10/06/the-2016-global-report-on-online-commenting).
 
 &nbsp;
 &nbsp;
@@ -72,7 +72,7 @@ Documentation:
 
 
 Previous workshops/sessions include:
-SRCCON, World Editor's Forum, Online News Association Conference, Mozfest, People-Powered Publishing, Newsgeist, Association for Alternative News Media, SXSW, The Engagement Summit, SND Makes, Taking Back the News, FOO Camp, ReporterForum, BarCamp, MediaParty, gatherings for students at Boston colleges, Howard University, the New School, various newsrooms.
+SRCCON, World Editor's Forum, Online News Association Conference, Mozfest, People-Powered Publishing, Newsgeist, Association for Alternative News Media, SXSW, The Engagement Summit, SND Makes, Community Managers Meetup, Taking Back the News, FOO Camp, ReporterForum, BarCamp, MediaParty, [International Journalism Festival](https://www.youtube.com/watch?v=pP7Rr12j4QY&t=1s), [National Press Foundation]( http://nationalpress.org/topic/engaging-your-community/?mm=Video), Newspaper Association of America, Media Law Resource Center Forum, NEO Media Lab in Buenos Aires, Internet Governance Forum, Al Neuharth Free Spirit and Journalism Conference, Poynter Annotation Summit, Digital Journalism World, NICAR, Hacks/Hackers New York and London, gatherings for students at Boston colleges, Howard University, the New School, various newsrooms.
 
 &nbsp;
 &nbsp;
