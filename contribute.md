@@ -40,6 +40,8 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 ## Contribute by coding
 
+_NB The current version of Trust is deprecated. A new version is being built inside Talk_
+
 * Fix a bug by submitting a GitHub issue if there isn’t one already, then commenting in the relevant issue to let everyone know you’re working on it
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
@@ -61,6 +63,8 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
 ## Contribute by coding
+
+The Ask stack is Go, React, Redux, Mongo. 
 
 * Build a feature by [looking at the “Future Features” column on our Trello board](http://trello.com/b/hAtt6ujX/ask) and selecting one you’d like to build. Submit a relevant GitHub issue [if there isn’t one already](https://github.com/coralproject/ask/issues)
 * Fix a bug by submitting a GitHub issue [if there isn’t one already](https://github.com/coralproject/ask/issues), then commenting in the relevant issue to let everyone know you’re working on it
@@ -85,7 +89,12 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 ## Contribute by coding
 
-Not yet. Soon. Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) to let him know you're interested.
+The Talk stack is Node, React, Redux, Mongo, Redis.
+
+* [How to configure and install the latest version](https://github.com/coralproject/talk) _(NB Talk is currently in development, not production ready)_
+* See [current user stories we're working on](https://www.pivotaltracker.com/n/projects/1863625) - let us know if you want to pick one up
+* [Follow the latest design stories,](https://trello.com/b/ILND751a/talk) and see what's coming next - they're up for grabs
+* Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you'd like any help/direction, or information about future features that need development help.
 
 
 
