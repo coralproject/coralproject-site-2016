@@ -27,8 +27,7 @@ Our Trust tool can help you identify all of these user types and more. You can s
 By combining it with our Ask and Talk tools, you can create automatic actions based on these formulas, making active curation and moderation quicker, easier, and more scalable.
 
 * [Read about Trust](https://www.washingtonpost.com/pr/wp/2016/03/14/trust-the-first-app-from-the-coral-project-launches/)
-* [See a prototype of Trust in action](https://youtu.be/pP7Rr12j4QY?t=21m30s)
-* [Install a pre-release prototype](https://docs.coralproject.net/#trust) Caution: pre-alpha software.
+* [See a prototype of Trust in action.](https://youtu.be/pP7Rr12j4QY?t=21m30s) If you'd like to see an interactive demo, [contact us](https://coralproject.net/contact.html)
 * [Help us improve Trust](/contribute.html#help-us-improve-trust)
 
 
