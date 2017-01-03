@@ -21,9 +21,9 @@ None of these are built for the needs of journalists. Our Ask tool is.
 {% include youtubePlayer.html id="KBKcXCEZLRU" %}		
 
 Better journalism: 
-* **Ask encourages more people to respond to your form.** The Gallery feature makes it easy to showcase the best responses, applying the psychological principle of ['Social Proof'](http://www.obanalytics.com/images/Cialdini_2001.pdf) to journalistic practice.
+* **Ask encourages more people to respond.** The Gallery feature makes it easy to showcase the best responses, applying the principle of ['Social Proof'](http://www.obanalytics.com/images/Cialdini_2001.pdf) to journalistic practice.
 * **Ask allows journalists to tag and search responses to follow up.**<br/>
-* **Ask maintains the text of the original submission.** Editors can edit submissions for length, clarity, grammar while maintaining the reader's original response.<br/>
+* **Ask maintains the text of the original submission.** Editors can edit submissions for length, clarity, grammar while saving the original response.<br/>
 * **Data visualizations based on submissions are easy to build using the API.** <br/><br/>
 
 Improved design and accessibility:
@@ -32,15 +32,14 @@ Improved design and accessibility:
 * **Ask forms are fully accessible.**<br/><br/>
 
 More efficient response management:
-* **Ask contains full Slack integration**
-* **Ask makes it possible to track respondees across forms.**
-* **The Ask submissions manager makes it easy to filter out abusive or meaningless responses, and to share the most helpful contributions.**<br/><br/>
+* **Ask contains full Slack integration.** Follow the latest responses in your channel.
+* **Ask makes it possible to track respondees across forms.** Find the people who contribute most.
+* **Ask includes an easy submissions manager** Quickly filter out abusive or meaningless responses.**<br/><br/>
 
 Stronger user privacy: 
-* **Ask doesn't share user data with anyone.** <br/><br/>
+* **Ask doesn't share user data with anyone.**  <br/><br/>
 
-Ask is also open source and fully customizable. You own your install of Ask, and can optimize it for your needs.
-By combining Ask with Trust and Talk, you will be able to easily identify the best people to respond, and send them your questions in just a few clicks.
+Ask is open source and fully customizable. You own your install of Ask, and can optimize it for your needs.
 
 * [Install Ask](https://docs.coralproject.net/products/ask/)
 * [Advice on using forms effectively in your newsroom](https://blog.coralproject.net/forms-audience-engagement/)
