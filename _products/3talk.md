@@ -21,7 +21,7 @@ By combining Talk with Trust, you’ll have a flexible tool with a powerful, sca
 * [Try our Comments Lab to experiment with Talk features.](https://lab.coralproject.net)
 * [Help us improve Talk.](/contribute.html#help-us-improve-talk)
 
-*Talk will enter its first beta phase in Q4 2016.*
+*Talk will enter its first beta phase in Q1 2017. [Let us know if you'd like to help us test it.](https://coralproject.net/contact.html)*
 
 &nbsp; 
 &nbsp; 
