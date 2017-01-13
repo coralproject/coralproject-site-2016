@@ -43,8 +43,9 @@ We work with academics to support our work.
 
 Studies that we've initiated:
 
-* [A large-scale qualitative study on commenter behavior](https://www.washingtonpost.com/news/ask-the-post/wp/2016/05/25/survey-what-do-you-think-of-comments-on-the-post/), with The Engaging News Project
+* [One of the largest-ever surveys of commenters on news sites](https://blog.coralproject.net/12000-people-have-something-to-say/), conducted with The Engaging News Project across 20 different websites 
 * [A study of women in comment spaces](https://blog.coralproject.net/raising-womens-voices/) by Marie Tessier, fellow at the Reynolds Journalism Institute at the University of Missiouri
+* [An review of the effect of real names in online communities](https://blog.coralproject.net/the-real-name-fallacy/) by J. Nathan Matias, an expert in sociology and online culture at MIT
 * [An informal literature review of moderation studies](https://blog.coralproject.net/artificial-moderation-a-reading-list)  by Nicholas Diakopoulos of the University of Maryland
 * [Articles from academics and others on our blog](https://blog.coralproject.net/category/research/)
 * [Various](https://blog.coralproject.net/the-math-behind-the-metrics/) [work](https://blog.coralproject.net/newsrooms-privacy-creepy/) [by](https://source.opennews.org/en-US/articles/low-budget-natural-language-processing/) four Knight-Mozilla OpenNews Fellows 
@@ -88,6 +89,7 @@ We commission articles from experts on community management and technology. We a
 
 * [A series on creating and managing communities from the founder of Slashdot](https://blog.coralproject.net/author/robert-malda/)
 * Interviews with [community experts](https://blog.coralproject.net/category/interview/) and [innovators](https://blog.coralproject.net/category/new-tools/)
+* [A round up of the best audience-led stories from 2016](https://blog.coralproject.net/your-best-journalism-2017/)
 * Best practices from community managers [at Metafilter](https://blog.coralproject.net/advice-for-the-accidental-community-manager/), [design researchers](https://blog.coralproject.net/can-design-make-the-comments-section-nicer/), in [the health care industry](https://blog.coralproject.net/creating-community-culture/), and more
 * Guides for [creating forms](https://blog.coralproject.net/forms-audience-engagement/), [the law as applied to online comments](https://blog.coralproject.net/internet-comments-and-the-law/), [protecting yourself from malware](https://blog.coralproject.net/user-submitted-malware/), [how to present a convincing argument](https://blog.coralproject.net/how-to-argue-successfully-online/)
 * We also share essential reading on community management [in our newsletter](https://tinyletter.com/coralproject/archive)
