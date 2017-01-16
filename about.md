@@ -26,7 +26,7 @@ We want to talk to anyone who might be impacted by our work.
 
 So far, we’ve interviewed more than 350 people in 150 newsrooms in 30 countries, as well as commenters, trolls, and people who never comment. [We want to talk to you.](/contact.html)
 
-If you have ideas of what else we can do with you, [please get in touch.](/contact.html)
+If you'd like to discuss how we can work together, [please get in touch.](/contact.html)
 
 And the name? Coral’s intricate reef systems protect shorelines and give cover for organisms to connect and evolve. Like coral, we aim to create the structure to help communities thrive.
 
