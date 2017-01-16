@@ -9,7 +9,9 @@ bg-img-sm: /images/learnmore-sm.jpg
 ---
 # About us
 
-The Coral Project brings journalists and the communities they serve closer together, in order to raise public trust in journalism, increase the diversity of voices and experiences reflected in news reporting, and improve journalism by making it more relevant to people’s lives. Because journalism needs everyone. 
+The Coral Project brings journalists and the communities they serve closer together. 
+
+We do this to raise public trust in journalism, increase the diversity of voices and experiences reflected in news reporting, and improve journalism by making it more relevant to people’s lives. Because journalism needs everyone. 
 
 We fulfill this mission through open-source tools and practices for newsrooms of all sizes. Our software is currently in use in several newsrooms. We also [run events](https://blog.coralproject.net/beyond-comments-our-first-event/), publish [academic research](https://coralproject.net/research.html) and [guides of best practices](https://blog.coralproject.net/), and we share everything we do online, for free. [We can't do it without your help.](https://coralproject.net/contribute.html)
 
