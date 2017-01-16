@@ -9,7 +9,9 @@ bg-img-sm: /images/learnmore-sm.jpg
 ---
 # About us
 
-The Coral Project improves the ways that journalists and communities engage on news websites. We are building free, open-source tools for publishers of all sizes. Because journalism needs everyone.
+The Coral Project brings journalists and the communities they serve closer together, in order to raise public trust in journalism, increase the diversity of voices and experiences reflected in news reporting, and improve journalism by making it more relevant to people’s lives. Because journalism needs everyone. 
+
+We fulfill this mission through open-source tools and practices for newsrooms of all sizes. Our software is currently in use in several newsrooms. We also [run events](https://blog.coralproject.net/beyond-comments-our-first-event/), publish [academic research](https://coralproject.net/research.html) and [guides of best practices](https://blog.coralproject.net/), and we share everything we do online, for free. [We can't do it without your help.](https://coralproject.net/contribute.html)
 
 We're currently building four products:
 
@@ -22,9 +24,7 @@ We're currently building four products:
 
 We want to talk to anyone who might be impacted by our work.
 
-So far, we’ve interviewed more than 300 people in 150 newsrooms in 30 countries, as well as commenters, trolls, and people who never comment. [We want to talk to you.](/contact.html)
-
-As we learn, we share. We’ve created [fictionalized personas](https://community.coralproject.net/t/our-user-personas/286) whose needs are at the heart of everything we build. We have [a blog](http://blog.coralproject.net) filled with articles from and about community experts. We have [our own online community](http://community.coralproject.net) that helps design and improve our work. We [hold](https://blog.coralproject.net/our-first-hackathon/) [events](https://blog.coralproject.net/beyond-comments-our-first-event/) around communities and code. We’ve even invented [a community card game.](https://blog.coralproject.net/cards/)
+So far, we’ve interviewed more than 350 people in 150 newsrooms in 30 countries, as well as commenters, trolls, and people who never comment. [We want to talk to you.](/contact.html)
 
 If you have ideas of what else we can do with you, [please get in touch.](/contact.html)
 
@@ -101,16 +101,6 @@ I'm into technology, community organizing, and matzoh ball soup. I’ve spent mu
 
 ### Wyatt Johnson, Full-Stack Developer
 I’m a full-stack software developer with a security-first mindset. I create backend systems that handle the data in a responsible and monitored way. For fun, I run and climb things.
-
-![Dan Zajdband ]({{"/images/team/Dan.jpg" | prepend: site.baseurl}})
-
-### Dan Zajdband, Knight-Mozilla OpenNews Fellow
-I’m a software developer passionate about real-time technologies, open source projects, and Open Journalism. I create digital tools for people to express their ideas in different and creative ways. I also do things I can’t do well, like playing soccer and the guitar.
-
-![Martin Shelton ]({{"/images/team/Martin.jpg" | prepend: site.baseurl}})
-
-### Martin Shelton, Knight-Mozilla OpenNews Fellow
-Through user research and data analytics, I study how to improve online privacy and security for at-risk groups. I previously worked at Google, the Pew Research Center, and Twitter as an intern. I earned my PhD in Information and Computer Science at UC Irvine.
 
 ![Dan Sinker ]({{"/images/team/DanSinker.jpg" | prepend: site.baseurl}})
 
