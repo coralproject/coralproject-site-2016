@@ -38,7 +38,6 @@ And the name? Coral’s intricate reef systems protect shorelines and give cover
 &nbsp;
 
 ## About the Team
-
 ![Andrew Losowsky]({{"/images/team/Andrew.jpg" | prepend: site.baseurl}})
 
 ### Andrew Losowsky, Project Lead
@@ -108,6 +107,9 @@ I’m a full-stack software developer with a security-first mindset. I create ba
 
 ### Dan Sinker, Project Advisor, Head of Knight-Mozilla OpenNews
 I am the director of OpenNews as well as a journalist, entrepreneur and maker based out of Chicago. I taught digital journalism at Columbia College Chicago, was a Knight Fellow at Stanford University, and founded and ran the magazine Punk Planet.
+
 &nbsp;
 &nbsp;
+
+
 Website designed by [Pilcrow](http://www.pilcrow.ie/), built by [GetBulb](http://www.getbulb.com/). Background images from [wocintechchat.com](http://www.wocintechchat.com/), available via a CC-BY 2.0 license.
