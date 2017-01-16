@@ -15,12 +15,12 @@ We do this to raise public trust in journalism, to increase the diversity of voi
 
 We fulfill this mission through open-source tools and practices for newsrooms of all sizes. Our software is currently in use in several newsrooms. We also [run events](https://blog.coralproject.net/beyond-comments-our-first-event/), publish [academic research](https://coralproject.net/research.html) and [guides to best practices](https://blog.coralproject.net/), and we share everything we do online, for free. [We can't do it without your help.](https://coralproject.net/contribute.html)
 
-We're currently building four products:
+We have four products:
 
-* [Trust](/products/trust.html) - a search tool that helps you find users and contributions you can trust.
-* [Ask](/products/ask.html) -  a form/gallery builder to collect, manage, and display user-generated contributions.
-* [Talk](/products/talk.html) - a discussion space that is highly customizable, and designed for safety.
-* [Guides](/products/guides.html) - methods to improve your online communities, whatever tools you use.
+* [Ask](/products/ask.html) -  a form/gallery builder to collect, manage, and display user-generated contributions.  _Status: released_
+* [Talk](/products/talk.html) - a discussion space that is highly customizable, and designed for safety.  _Status: working alpha_
+* [Trust](/products/trust.html) - a search tool that helps you find users and contributions you can trust. _Status: working prototype_
+* [Guides](/products/guides.html) - methods to improve your online communities, whatever tools you use. _Status: in progress_
 
 We want to talk to anyone who might be impacted by our work.
 
