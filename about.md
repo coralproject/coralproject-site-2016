@@ -99,7 +99,7 @@ I'm into technology, community organizing, and matzoh ball soup. I’ve spent mu
 
 ![Wyatt Johnson]({{"/images/team/wyatt.jpg" | prepend: site.baseurl}})
 
-### Wyatt Johnson, Full-Stack Developer
+### Wyatt Johnson, Software Architect
 I’m a full-stack software developer with a security-first mindset. I create backend systems that handle the data in a responsible and monitored way. For fun, I run and climb things.
 
 ![Dan Sinker ]({{"/images/team/DanSinker.jpg" | prepend: site.baseurl}})
