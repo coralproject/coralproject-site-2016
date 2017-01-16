@@ -109,7 +109,6 @@ I’m a full-stack software developer with a security-first mindset. I create ba
 ### Dan Sinker, Project Advisor, Head of Knight-Mozilla OpenNews
 I am the director of OpenNews as well as a journalist, entrepreneur and maker based out of Chicago. I taught digital journalism at Columbia College Chicago, was a Knight Fellow at Stanford University, and founded and ran the magazine Punk Planet.
 
-
 &nbsp;
 &nbsp;
 
