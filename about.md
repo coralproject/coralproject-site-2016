@@ -44,7 +44,6 @@ And the name? Coral’s intricate reef systems protect shorelines and give cover
 ### Andrew Losowsky, Project Lead
 I drink a lot of tea. Previously: The Huffington Post, News Corp, John S. Knight Fellow at Stanford University, start ups. Currently: Adjunct in the Journalism+Design program at The New School in New York; Co-Director, The Museum On Site.
 
-
 ![David Erwin]({{"images/team/David.jpg" | prepend: site.baseurl}})
 
 ### David Erwin, Lead Engineer
@@ -109,6 +108,8 @@ I’m a full-stack software developer with a security-first mindset. I create ba
 
 ### Dan Sinker, Project Advisor, Head of Knight-Mozilla OpenNews
 I am the director of OpenNews as well as a journalist, entrepreneur and maker based out of Chicago. I taught digital journalism at Columbia College Chicago, was a Knight Fellow at Stanford University, and founded and ran the magazine Punk Planet.
+
+
 
 &nbsp;
 &nbsp;
