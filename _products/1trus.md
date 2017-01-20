@@ -1,5 +1,5 @@
 ---
-title: Trust
+title: Trus
 layout: product-page
 permalink: /products/trust
 md: true
