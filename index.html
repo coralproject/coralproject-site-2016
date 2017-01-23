@@ -15,8 +15,8 @@ layout: default
 
 <div class="center tc flex flex-column items-center justify-center mt5-ns mt3 mh2 mh0-ns">
     <h2 class="flex-auto f3 f2-ns ttu tracked coral">Why use Coral?</h2>
-    <p class="flex-auto w-33-l w-50-m w-80 center f6-ns f7 mb3">We’ve designed our products to meet essential needs of journalism through effective online communities.</p>
-    <a class="flex-auto f6-ns f7 link coral-link b body-grey" href={{"about.html" | prepend: site.baseurl }}>Learn more about The Coral Project</a>
+    <p class="flex-auto w-33-l w-50-m w-80 center f4 f7 mb3">We’ve designed our products to meet essential needs of journalism through effective online communities.</p>
+    <a class="flex-auto f5 f7 link coral-link b body-grey" href={{"about.html" | prepend: site.baseurl }}>Learn more about The Coral Project</a>
 </div>
 
 <div class="center content-width flex flex-wrap f6-ns f7 mv5-l mv5-m mv4">
@@ -39,7 +39,7 @@ layout: default
     <h2 class="f3 f2-ns white tc ttu tracked pt5-ns pt4">Products</h2>
     <div class="center content-width flex flex-wrap pv3">
         {% for product in site.products %}
-        <div class="flex-100 flex-50-m flex-25-l white tc h5 product-cell mb5-ns mb4">
+        <div class="flex-100 flex-50-m flex-33 white tc h5 product-cell mb5-ns mb4">
             <a href={{product.url | prepend: site.baseurl}}.html><img class="h4" src={{product.imgurl | prepend: site.baseurl}}></a>
             <div class="b f3 pv2-ns pv3">{{product.title}}</div>
             <div class="h3-ns b f6-ns f7 pb4-ns pb3">{{product.function}}</div>
@@ -53,11 +53,11 @@ layout: default
 
 <div class="center tc flex flex-column items-center justify-center mt5-ns mt3 mh2 mh0-ns">
     <h2 class="coral ttu tracked f2-l f2i-m f3 ">How do I get your software?</h2>
-    <p class="flex-auto w-33-l w-50-m w-80 center f6-ns f7 mb3">All of The Coral Project’s software is free and open source. Our products are designed to work together, and can also be installed separately.</p>
-     <a class="flex-auto f6-ns f7 link coral-link b body-grey" href={{"install.html" | prepend:site.baseurl}} >Read installation instructions</a>
+    <p class="flex-auto w-33-l w-50-m w-80 center f4 f7 mb3">All of The Coral Project’s software is free and open source. Our products are designed to work together, and can also be installed separately.</p>
+     <a class="flex-auto f5 f7 link coral-link b body-grey" href={{"install.html" | prepend:site.baseurl}} >Read installation instructions</a>
     <h2 class="coral ttu tracked f2-l f2i-m f3 pt4" id="contribute">How can I get involved?</h2>
-    <p class="flex-auto w-33-l w-50-m w-80 center f6-ns f7 mb3">We want your ideas, your requests, your experiences, your bug reports, your skills, your code.</p>
-     <a class="flex-auto f6-ns f7 link coral-link b body-grey" href={{"contribute.html" | prepend:site.baseurl}} >Join our community of contributors</a>
+    <p class="flex-auto w-33-l w-50-m w-80 center f4 f7 mb3">We want your ideas, your requests, your experiences, your bug reports, your skills, your code.</p>
+     <a class="flex-auto f5 f7 link coral-link b body-grey" href={{"contribute.html" | prepend:site.baseurl}} >Join our community of contributors</a>
     <br />
     </p>
 </div>
