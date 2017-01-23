@@ -39,7 +39,7 @@ layout: default
     <h2 class="f3 f2-ns white tc ttu tracked pt5-ns pt4">Products</h2>
     <div class="center content-width flex flex-wrap pv3">
         {% for product in site.products %}
-        <div class="flex-100 flex-50-m flex-25-l white tc h5 product-cell mb5-ns mb4">
+        <div class="flex-100 flex-50-m flex-33 white tc h5 product-cell mb5-ns mb4">
             <a href={{product.url | prepend: site.baseurl}}.html><img class="h4" src={{product.imgurl | prepend: site.baseurl}}></a>
             <div class="b f3 pv2-ns pv3">{{product.title}}</div>
             <div class="h3-ns b f6-ns f7 pb4-ns pb3">{{product.function}}</div>
