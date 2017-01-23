@@ -16,34 +16,11 @@ Check out the sections below to get started, or take a look at [our technical do
 
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
-* [Help us improve Trust](#help-us-improve-trust)
 * [Help us improve Ask](#help-us-improve-ask)
 * [Help us improve Talk](#help-us-improve-talk)
 * [Help us improve Guides](#help-us-improve-guides)
 * [Join our online community](#our-online-community)
 * [Other ideas and bug reports](#other-ideas-and-bug-reports)
-
-&nbsp;
-
-&nbsp;
-
-# **Help us improve Trust**
-
-[Read about Trust here.](/products/trust.html)
-
-## Contribute without coding
-
-* Add feature ideas [to our community board](https://community.coralproject.net/c/the-coral-project/product-trust)
-* [Submit feature ideas in the form below](#other-ideas-and-bug-reports)
-* Report bugs by checking our GitHub issues, then submitting a new issue if there isn’t one already. Or you can report a bug [in the form below](#other-ideas-and-bug-reports)
-* Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
-
-## Contribute by coding
-
-_NB The current version of Trust is deprecated. A new version is being built inside Talk_
-
-* Fix a bug by submitting a GitHub issue if there isn’t one already, then commenting in the relevant issue to let everyone know you’re working on it
-* Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
 
 
 &nbsp;
