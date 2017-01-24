@@ -28,6 +28,5 @@ By combining Talk with Trust, you’ll have a flexible tool with a powerful, sca
 
 
 ## View our other products:
-* [Trust](/products/trust.html)
 * [Ask](/products/ask.html)
 * [Guides](/products/guides.html)
