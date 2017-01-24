@@ -29,6 +29,5 @@ Strong community is about more than software. Our guides will help everyone in t
 
 
 ## View our other products:
-* [Trust](/products/trust.html)
 * [Ask](/products/ask.html)
 * [Talk](/products/talk.html)
