@@ -56,6 +56,5 @@ Ask is open source and fully customizable. You own your install of Ask, and can 
 &nbsp; 
 
 ## View our other products:
-* [Trust](/products/trust.html)
 * [Talk](/products/talk.html)
 * [Guides](/products/guides.html)
