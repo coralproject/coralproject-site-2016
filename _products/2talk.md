@@ -16,8 +16,9 @@ bg-img-sm: /images/product-sm.jpg
 
 Online comments are broken. Our Talk tool will reshape how moderation, comment display, and conversation function on your site, creating a safer, smarter discussion that’s open to all.
 
-By combining Talk with Trust, you’ll have a flexible tool with a powerful, scalable moderation system that will help you manage all levels of contributions to your site.
+By combining Talk with our unique analytics system we call Trust, you’ll have a flexible tool backed by a powerful, scalable moderation system that lets you manage all levels of contributions to your site.
 
+* [See a prototype of our analytics system in action.](https://youtu.be/pP7Rr12j4QY?t=21m30s)
 * [Try our Comments Lab to experiment with Talk features.](https://lab.coralproject.net)
 * [Help us improve Talk.](/contribute.html#help-us-improve-talk)
 
