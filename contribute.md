@@ -16,11 +16,12 @@ Check out the sections below to get started, or take a look at [our technical do
 
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
-* [Help us improve Ask](#help-us-improve-ask)
-* [Help us improve Talk](#help-us-improve-talk)
-* [Help us improve Guides](#help-us-improve-guides)
+* [Email Jeff to join our Slack group](mailto:jeff@mozillafoundation.org)
+* [Join us in building Ask](#help-us-improve-ask)
+* [Join us in building Talk](#help-us-improve-talk)
+* [Join us in writing our Guides](#help-us-improve-guides)
 * [Join our online community](#our-online-community)
-* [Other ideas and bug reports](#other-ideas-and-bug-reports)
+* [Submit other ideas and bug reports](#other-ideas-and-bug-reports)
 
 
 &nbsp;
@@ -29,7 +30,7 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 &nbsp;
 &nbsp;
 
-# **Help us improve Ask**
+# **Join us in building Ask**
 
 [Read about Ask here.](/products/ask.html)
 
@@ -54,7 +55,7 @@ The Ask stack is Go, React, Redux, Mongo.
 &nbsp;
 
 
-# **Help us improve Talk**
+# **Join us in building Talk**
 
 [Read about Talk here.](/products/talk.html)
 
@@ -82,7 +83,7 @@ The Talk stack is Node, React, Redux, Mongo, Redis.
 &nbsp;
 
 
-# **Help us improve Guides**
+# **Join Us in writing our Guides**
 
 [Read about Guides here.](/products/guides.html)
 
@@ -98,7 +99,7 @@ The Talk stack is Node, React, Redux, Mongo, Redis.
 &nbsp;
 
 
-# **Our online community**
+# **Join our online community**
 
 [Join more than 300 members of our online community](https://community.coralproject.net), discussing community tools and practices as well as our goals and strategy.
 
@@ -109,5 +110,5 @@ The Talk stack is Node, React, Redux, Mongo, Redis.
 &nbsp;
 &nbsp;
 
-# **Other ideas and bug reports**
+# **Submit other ideas and bug reports**
 <div id="ask-form"></div><script src="https://s3.amazonaws.com/coral-internal/57c5e461491c7e0007359e6b.js"></script>
