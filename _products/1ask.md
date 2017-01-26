@@ -34,7 +34,7 @@ Improved design and accessibility:
 More efficient response management:
 * **Ask contains full Slack integration.** Follow the latest responses in your channel.
 * **Ask makes it possible to track respondees across forms.** Find the people who contribute most.
-* **Ask includes an easy submissions manager** Quickly filter out abusive or meaningless responses.**<br/><br/>
+* **Ask includes an easy submissions manager** Quickly filter out abusive or meaningless responses.<br/><br/>
 
 Stronger user privacy: 
 * **Ask doesn't share user data with anyone.**  <br/><br/>
