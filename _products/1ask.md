@@ -29,6 +29,7 @@ Better journalism:
 Improved design and accessibility:
 * **Ask forms are fully compatible across devices.**
 * **Ask form designs are fully customizable.** By utilizing a script tag, Ask automatically matches your site design.
+* **Ask forms are available as a WordPress plugin.**
 * **Ask forms are fully accessible.**<br/><br/>
 
 More efficient response management:
@@ -42,7 +43,8 @@ Stronger user privacy:
 Ask is open source and fully customizable. You own your install of Ask, and can optimize it for your needs.
 
 * [Install Ask](https://docs.coralproject.net/products/ask/)
-* [Advice on using forms effectively in your newsroom](https://blog.coralproject.net/forms-audience-engagement/)
+* [Install our Ask WordPress plugin](https://github.com/coralproject/ask-wp-plugin) _(requires Ask install)_
+* [Read advice on using forms effectively in your newsroom](https://blog.coralproject.net/forms-audience-engagement/)
 * [Read our Product Doc for Ask](https://blog.coralproject.net/product-ask/)
 * [Help us improve Ask](/contribute.html#help-us-improve-ask)
 
