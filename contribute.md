@@ -21,7 +21,7 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 * [Join us in building Talk](#help-us-improve-talk)
 * [Join us in writing our Guides](#help-us-improve-guides)
 * [Join our online community](#our-online-community)
-* [Submit other ideas and bug reports](#other-ideas-and-bug-reports)
+* [Other ideas and bug reports](#other-ideas-and-bug-reports)
 
 
 &nbsp;
@@ -110,5 +110,5 @@ The Talk stack is Node, React, Redux, Mongo, Redis.
 &nbsp;
 &nbsp;
 
-# **Submit other ideas and bug reports**
+# **Other ideas and bug reports**
 <div id="ask-form"></div><script src="https://s3.amazonaws.com/coral-internal/57c5e461491c7e0007359e6b.js"></script>
