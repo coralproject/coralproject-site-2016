@@ -44,7 +44,7 @@ We work with academics to support our work.
 Studies that we've initiated:
 
 * [One of the largest-ever surveys of commenters on news sites](https://blog.coralproject.net/12000-people-have-something-to-say/), conducted with The Engaging News Project across 20 different websites 
-* [A study of women in comment spaces](https://blog.coralproject.net/raising-womens-voices/) by Marie Tessier, fellow at the Reynolds Journalism Institute at the University of Missiouri
+* [A study of women in comment spaces](https://blog.coralproject.net/raising-womens-voices/) and one on [best practices around women in online communities](https://blog.coralproject.net/what-women-want-in-community/) by Marie Tessier, fellow at the Reynolds Journalism Institute at the University of Missiouri
 * [An review of the effect of real names in online communities](https://blog.coralproject.net/the-real-name-fallacy/) by J. Nathan Matias, an expert in sociology and online culture at MIT
 * [An informal literature review of moderation studies](https://blog.coralproject.net/artificial-moderation-a-reading-list)  by Nicholas Diakopoulos of the University of Maryland
 * [Articles from academics and others on our blog](https://blog.coralproject.net/category/research/)
