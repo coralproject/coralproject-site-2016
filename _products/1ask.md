@@ -22,7 +22,7 @@ None of these are built for the needs of journalists. Our Ask tool is.
 
 Better journalism: 
 * **Ask allows journalists to tag and search responses to follow up.**<br/>
-* **Ask encourages more people to respond.** The Gallery feature makes it easy to showcase the best responses, applying the principle of ['Social Proof'](http://www.obanalytics.com/images/Cialdini_2001.pdf) to journalistic practice.
+* **Ask encourages more people to respond.** The Gallery feature makes it easy to showcase the best responses, applying the principle of ['Social Proof'](https://en.wikipedia.org/wiki/Social_proof) to journalistic practice.
 * **Ask maintains the text of the original submission.** Editors can edit Gallery submissions for length, clarity, grammar while saving the original response.<br/>
 * **Data visualizations based on submissions are easy to build using the API.** <br/><br/>
 
