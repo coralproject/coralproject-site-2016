@@ -91,11 +91,6 @@ I like building things. Formerly of Tumblr and the New York Times, creating data
 ### Belén Curcio, Front End Developer
 I'm a software developer passionate about web technologies. If I can't find a solution, I create it. In my free time, I like to contribute to open-source projects, explore tech communities, and solve Rubik's Cubes.
 
-![David Jay]({{"/images/team/Davidjay.jpg" | prepend: site.baseurl}})
-
-### David Jay, Front End Developer
-I'm into technology, community organizing, and matzoh ball soup. I’ve spent much of my career finding ways to build new and interesting spaces for conversation online. I also do LGBTQA organizing and work to build better online safe spaces.
-
 ![Wyatt Johnson]({{"/images/team/wyatt.jpg" | prepend: site.baseurl}})
 
 ### Wyatt Johnson, Software Architect
