@@ -18,6 +18,7 @@ Online comments are broken. Our Talk tool will reshape how moderation, comment d
 
 By combining Talk with our unique analytics system we call Trust, you’ll have a flexible tool backed by a powerful, scalable moderation system that lets you manage all levels of contributions to your site.
 
+* [Read our goals for Talk.](https://blog.coralproject.net/our-goals-for-talk/)
 * [See a prototype of our analytics system in action.](https://youtu.be/pP7Rr12j4QY?t=21m30s)
 * [Try our Comments Lab to experiment with Talk features.](https://lab.coralproject.net)
 * [Help us improve Talk.](/contribute.html#help-us-improve-talk)
