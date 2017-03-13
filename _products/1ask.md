@@ -20,6 +20,8 @@ None of these are built for the needs of journalists. Our Ask tool is.
 
 {% include youtubePlayer.html id="KBKcXCEZLRU" %}		
 
+[Learn more about all the features Ask offers.](https://docs.coralproject.net/products/askuserguide/)
+
 Better journalism: 
 * **Ask allows journalists to tag and search responses to follow up.**<br/>
 * **Ask encourages more people to respond.** The Gallery feature makes it easy to showcase the best responses, applying the principle of ['Social Proof'](https://en.wikipedia.org/wiki/Social_proof) to journalistic practice.
@@ -43,6 +45,7 @@ Stronger user privacy:
 Ask is open source and fully customizable. You own your install of Ask, and can optimize it for your needs.
 
 * [Install Ask](https://docs.coralproject.net/products/ask/)
+* [Read Ask's User Guide](https://docs.coralproject.net/products/askuserguide/)
 * [Install our Ask WordPress plugin](https://github.com/coralproject/ask-wp-plugin) _(requires Ask install)_
 * [Read advice on using forms effectively in your newsroom](https://blog.coralproject.net/forms-audience-engagement/)
 * [Read our Product Doc for Ask](https://blog.coralproject.net/product-ask/)
