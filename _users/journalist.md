@@ -19,15 +19,15 @@ bg-img-sm: /images/users-journalist-sm.jpg
 
 ## Have smarter interactions 
 
-Our [Trust](/products/trust.html) tool empowers you to quickly and easily filter comments on your articles to find the most useful contributions, without exposing you to the worst abuse. Our [Talk](/products/talk.html) tool will help you participate in the conversation more safely and in a manageable fashion.
+Our [Talk](/products/trust.html) tool empowers you to quickly and easily filter comments on your articles to find and respond to the most useful contributions, without exposing you to the worst abuse. 
 
 ## Find potential sources
 
-Through [Trust](/products/trust.html) and [Ask](/products/ask.html), you can identify potential experts in your field among your readership, tag them for future stories, and invite them to contribute directly to your work.
+Through [Ask](/products/ask.html), you can invite responses and contributions, quickly manage them through tagging and filtering, and easily create a gallery to encourage more responses and as a follow-up story.
 
 ## Grow your audience
 
-By engaging with onsite communities through our [tools](/#products), you will generate new and lasting connections that increase your fan base without taking up the time you need to do your work.
+By engaging with onsite communities through our [tools](/#products), you will generate new and lasting connections that increase your fan base without taking away from the time you need to do your work.
 
 
 [Help improve our tools](/contribute.html)
