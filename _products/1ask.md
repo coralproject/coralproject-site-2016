@@ -20,6 +20,7 @@ None of these are built for the needs of journalists. Our Ask tool is.
 
 {% include youtubePlayer.html id="KBKcXCEZLRU" %}		
 
+Ask is a form builder, submission manager, and gallery display tool. 
 [Learn more about all the features Ask offers.](https://docs.coralproject.net/products/askuserguide/)
 
 Better journalism: 
@@ -41,6 +42,11 @@ More efficient response management:
 
 Stronger user privacy: 
 * **Ask doesn't share user data with anyone.**  <br/><br/>
+
+Newsrooms currently using Ask:
+
+![PBS]({{"/images/PBS.png" | prepend: site.baseurl}}) ![CV]({{"/images/CV.png" | prepend: site.baseurl}}) ![philly]({{"/images/philly.png" | prepend: site.baseurl}}) 
+![univ]({{"/images/univ.png" | prepend: site.baseurl}}) ![clickondet]({{"/images/clickondet.png" | prepend: site.baseurl}}) ![chicago]({{"/images/chicago.png" | prepend: site.baseurl}}) ![herald]({{"/images/herald.png" | prepend: site.baseurl}}) 
 
 Ask is open source and fully customizable. You own your install of Ask, and can optimize it for your needs.
 
