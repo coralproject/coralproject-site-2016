@@ -14,16 +14,20 @@ bg-img-sm: /images/product-sm.jpg
 
 # Talk 
 
-Online comments are broken. Our Talk tool will reshape how moderation, comment display, and conversation function on your site, creating a safer, smarter discussion that’s open to all.
+Online comments are broken. Our Talk tool rethinks how moderation, comment display, and conversation function on your site, creating the opportunity for a safer, smarter discussion.
 
-By combining Talk with our unique analytics system we call Trust, you’ll have a flexible tool backed by a powerful, scalable moderation system that lets you manage all levels of contributions to your site.
+To design Talk, we’ve done [a lot of research](https://coralproject.net/research.html) into the design and function of online comment spaces, and how they can better connect with journalism. As a result, we’ve created a streamlined system that we believe can improve how people behave and interact in the comments space, and allow moderators to more easily remove disruptive comments.
 
+Talk is lightweight, secure, flexible, and responsive. It’s also fully extensible with a RESTful and Graph API and a plugin architecture that includes webhooks. We’ve designed it to help publishers of all sizes host and manage conversations on their sites. And like everything we make, it’s 100% open source.
+
+* [See Talk in action on our blog](https://blog.coralproject.net/the-empty-box/)
+* [Learn more about Talk's current features](https://blog.coralproject.net/talk-features/)
 * [Read our goals for Talk.](https://blog.coralproject.net/our-goals-for-talk/)
-* [See a prototype of our analytics system in action.](https://youtu.be/pP7Rr12j4QY?t=21m30s)
-* [Try our Comments Lab to experiment with Talk features.](https://lab.coralproject.net)
+* [Learn how to write a Talk plugin](https://github.com/coralproject/talk/blob/master/PLUGINS.md)
+* [See a prototype of our Talk analytics system in action.](https://youtu.be/pP7Rr12j4QY?t=21m30s)
 * [Help us improve Talk.](/contribute.html#help-us-improve-talk)
 
-*Talk will enter its first beta phase in Q1 2017. [Let us know if you'd like to help us test it.](https://coralproject.net/contact.html)*
+*Talk is here. [Let us know if you'd like to try it on your site.](https://coralproject.net/contact.html)*
 
 &nbsp; 
 &nbsp; 
