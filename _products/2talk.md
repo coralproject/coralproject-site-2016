@@ -4,7 +4,7 @@ layout: product-page
 permalink: /products/talk
 md: true
 imgurl: /images/prod-talk.svg
-function: "Share ideas on your terms"
+function: "Have better conversations"
 bg-img-lg: /images/product-lg.jpg
 bg-img-md: /images/product-md.jpg
 bg-img-sm: /images/product-sm.jpg
@@ -23,10 +23,10 @@ Talk is lightweight, secure, flexible, and responsive. It’s also fully extensi
 * [Install Talk on your own server](https://github.com/coralproject/talk/blob/master/INSTALL.md)
 * [See Talk in action on our blog](https://blog.coralproject.net/the-empty-box/)
 * [Learn more about Talk's current features](https://blog.coralproject.net/talk-features/)
-* [Read our goals for Talk.](https://blog.coralproject.net/our-goals-for-talk/)
+* [Read our goals for Talk](https://blog.coralproject.net/our-goals-for-talk/)
 * [Learn how to write a Talk plugin](https://github.com/coralproject/talk/blob/master/PLUGINS.md)
-* [See a prototype of our Talk analytics system in action.](https://youtu.be/pP7Rr12j4QY?t=21m30s)
-* [Help us improve Talk.](/contribute.html#help-us-improve-talk)
+* [See a prototype of our Talk analytics system in action](https://youtu.be/pP7Rr12j4QY?t=21m30s)
+* [Help us improve Talk](/contribute.html#help-us-improve-talk)
 
 *Talk is here. [Let us know if you'd like to try it on your site.](https://coralproject.net/contact.html)*
 
