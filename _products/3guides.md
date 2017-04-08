@@ -16,9 +16,9 @@ bg-img-sm: /images/product-sm.jpg
 
 Strong community is about more than software. Our guides will help everyone in the newsroom be intentional about their community choices, whatever technology you use.
 
-[Our blog](http://blog.coralproject.net) currently hosts articles about journalism and community, which will be paired with further writing to create an essential series of guides and reading.
+[Our blog](http://blog.coralproject.net) currently hosts several articles about journalism and community, many of which will be paired with further writing to create our essential series of strategy guides.
 
-*The Coral Project’s guides to journalism and engagement will be released in Q1 2017.*
+*The Coral Project’s guides to journalism and engagement will be released in Q2 2017.*
 
 * [Help us improve Guides](/contribute.html#help-us-improve-guides)
 
