@@ -20,6 +20,7 @@ To design Talk, we’ve done [a lot of research](https://coralproject.net/resear
 
 Talk is lightweight, secure, flexible, and responsive. It’s also fully extensible with a RESTful and Graph API and a plugin architecture that includes webhooks. We’ve designed it to help publishers of all sizes host and manage conversations on their sites. And like everything we make, it’s 100% open source.
 
+* [Install Talk on your own server](https://github.com/coralproject/talk/blob/master/INSTALL.md)
 * [See Talk in action on our blog](https://blog.coralproject.net/the-empty-box/)
 * [Learn more about Talk's current features](https://blog.coralproject.net/talk-features/)
 * [Read our goals for Talk.](https://blog.coralproject.net/our-goals-for-talk/)
