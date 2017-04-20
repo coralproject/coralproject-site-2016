@@ -45,8 +45,8 @@ Stronger user privacy:
 
 Newsrooms currently using Ask:
 
-![PBS]({{"/images/PBS.jpg" | prepend: site.baseurl}}) ![philly]({{"/images/philly.jpg" | prepend: site.baseurl}}) ![CV]({{"/images/CV.jpg" | prepend: site.baseurl}}) ![clickondet]({{"/images/clickondet.jpg" | prepend: site.baseurl}})
-![univ]({{"/images/univ.jpg" | prepend: site.baseurl}}) ![herald]({{"/images/herald.jpg" | prepend: site.baseurl}}) ![chicago]({{"/images/chicago.jpg" | prepend: site.baseurl}})
+![PBS]({{"/images/PBS.jpg" | prepend: site.baseurl}}) ![philly]({{"/images/philly.jpg" | prepend: site.baseurl}}) ![kqed]({{"/images/kqed.jpg" | prepend: site.baseurl}}) ![CV]({{"/images/CV.jpg" | prepend: site.baseurl}}) ![clickondet]({{"/images/clickondet.jpg" | prepend: site.baseurl}}) 
+![univ]({{"/images/univ.jpg" | prepend: site.baseurl}}) ![herald]({{"/images/herald.jpg" | prepend: site.baseurl}}) ![chicago]({{"/images/chicago.jpg" | prepend: site.baseurl}}) ![newsday]({{"/images/newsday.jpg" | prepend: site.baseurl}})
 
 Ask is open source and fully customizable. You own your install of Ask, and can optimize it for your needs.
 
