@@ -27,7 +27,7 @@ Better journalism:
 * **Ask allows journalists to tag and search responses to follow up.**<br/>
 * **Ask encourages more people to respond.** The Gallery feature makes it easy to showcase the best responses, applying the principle of ['Social Proof'](https://en.wikipedia.org/wiki/Social_proof) to journalistic practice.
 * **Ask maintains the text of the original submission.** Editors can edit Gallery submissions for length, clarity, grammar while saving the original response.<br/>
-* **Data visualizations of submissions are easy to build using the API.** [Here's an example.](http://www.philly.com/philly/news/politics/400537181.html)<br/><br/>
+* **Data visualizations of submissions are easy to build using the API.** [Here's an example from Newsday](http://projects.newsday.com/opinion/donald-trumps-progress-report/) [Here's another example from Philly.com](http://www.philly.com/philly/news/politics/400537181.html)<br/><br/>
 
 Improved design and accessibility:
 * **Ask forms are fully compatible across devices.**
