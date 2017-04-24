@@ -96,6 +96,11 @@ I'm a software developer passionate about web technologies. If I can't find a so
 ### Wyatt Johnson, Software Architect
 I’m a full-stack software developer with a security-first mindset. I create backend systems that handle the data in a responsible and monitored way. For fun, I run and climb things.
 
+![Chi Vinh Le]({{"/images/team/gravatar.jpg" | prepend: site.baseurl}})
+
+### Chi Vinh Le, Full-Stack Developer
+I’m a Digital Nomad with a growth mindset and a passion for Software Architectures and Open-Source technologies. I also do improv and love languages.
+
 ![Dan Sinker ]({{"/images/team/DanSinker.jpg" | prepend: site.baseurl}})
 
 ### Dan Sinker, Project Advisor, Head of Knight-Mozilla OpenNews
