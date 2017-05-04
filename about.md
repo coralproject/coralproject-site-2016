@@ -13,13 +13,13 @@ The Coral Project brings journalists and the communities they serve closer toget
 
 We do this to raise public trust in journalism, to increase the diversity of voices and experiences reflected in news reporting, and to improve journalism by making it more relevant to people’s lives. Because journalism needs everyone. 
 
-We fulfill this mission through open-source tools and practices for newsrooms of all sizes. Our software is currently in use in several newsrooms. We also [run events](https://blog.coralproject.net/beyond-comments-our-first-event/), publish [academic research](https://coralproject.net/research.html) and [guides to best practices](https://blog.coralproject.net/), and we share everything we do online, for free. [We can't do it without your help.](https://coralproject.net/contribute.html)
+We fulfill this mission through open-source tools and practices for newsrooms of all sizes. Our software is currently in use in more than a dozen newsrooms, with many more coming soon. We also [run events](https://blog.coralproject.net/beyond-comments-our-first-event/), publish [academic research](https://coralproject.net/research.html) and [guides to best practices](https://blog.coralproject.net/), and we share everything we do online, for free. [We can't do it without your help.](https://coralproject.net/contribute.html)
 
-We have three products:
+We have three products that you can use:
 
-* [Ask](/products/ask.html) -  a form/gallery builder to collect, manage, and display user-generated contributions.  _Status: Released_
-* [Talk](/products/talk.html) - a discussion space that is highly customizable, and designed for safety.  _Status: Beta Q1 2017_
-* [Guides](/products/guides.html) - methods to improve your online communities, whatever tools you use. _Status: Release Q2 2017_
+* [Ask](/products/ask.html) -  a form/gallery builder to collect, manage, and display user-generated contributions. 
+* [Talk](/products/talk.html) - a discussion space that is highly customizable, and designed for safety.
+* [Guides](/products/guides.html) - methods to improve your online communities, whatever tools you use.
 
 We want to talk to anyone who might be impacted by our work.
 
