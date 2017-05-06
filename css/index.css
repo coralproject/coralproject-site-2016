@@ -10,6 +10,11 @@ body {
     text-align: justify;
 }
 
+/* To center images */
+.center {
+    text-align: center;
+}
+
 .coral {
     color: #f67150;
 }
