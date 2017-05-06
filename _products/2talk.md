@@ -14,9 +14,9 @@ bg-img-sm: /images/product-sm.jpg
 
 # Talk 
 
-![Talk Moderation]({{"/images/talk_mod2.png" | prepend: site.baseurl}})
-
 Online comments are broken. Our Talk tool rethinks how moderation, comment display, and conversation function, creating the opportunity for safer, smarter discussions around your work.
+
+![Talk Moderation]({{"/images/talk_mod2.png" | prepend: site.baseurl}})
 
 To design Talk, we’ve done [an enormous amount of research](https://coralproject.net/research.html) into the design and function of online comment spaces, and how they can better connect with journalism. 
 
