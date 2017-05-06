@@ -14,9 +14,13 @@ bg-img-sm: /images/product-sm.jpg
 
 # Talk 
 
+![Talk Moderation]({{"/images/talk_mod2.png" | prepend: site.baseurl}})
+
 Online comments are broken. Our Talk tool rethinks how moderation, comment display, and conversation function on your site, creating the opportunity for a safer, smarter discussion.
 
-To design Talk, we’ve done [a lot of research](https://coralproject.net/research.html) into the design and function of online comment spaces, and how they can better connect with journalism. As a result, we’ve created a streamlined system that we believe can improve how people behave and interact in the comments space, and allow moderators to more easily remove disruptive comments.
+To design Talk, we’ve done [an enormous amount of research](https://coralproject.net/research.html) into the design and function of online comment spaces, and how they can better connect with journalism. As a result, we’ve created a streamlined system that we believe can improve how people behave and interact in the comments space, and allow moderators to more easily remove disruptive comments.
+
+![Talk Comments]({{"/images/talk_box.png" | prepend: site.baseurl}})
 
 Talk is lightweight, secure, flexible, and responsive. It’s also fully extensible with a RESTful and Graph API and a plugin architecture that includes webhooks. We’ve designed it to help publishers of all sizes host and manage conversations on their sites. And like everything we make, it’s 100% open source.
 
