@@ -69,9 +69,10 @@ The Ask stack is Go, React, Redux, Mongo.
 
 The Talk stack is Node, React, Redux, Mongo, Redis.
 
-* [How to configure and install the latest version](https://github.com/coralproject/talk) _(NB Talk is currently in development, not production ready)_
-* See [current user stories we're working on](https://www.pivotaltracker.com/n/projects/1863625) - let us know if you want to pick one up
-* [Follow the latest design stories,](https://trello.com/b/ILND751a/talk) and see what's coming next - they're up for grabs
+* [Read our technical documentation](https://coralproject.github.io/talk/index.html)
+* [Visit our GitHub repo](https://github.com/coralproject/talk)
+* See [current user stories we're working on](https://www.pivotaltracker.com/n/projects/1863625) - let us know if you're ready to take one on
+* [Follow our design stories,](https://trello.com/b/ILND751a/talk) and see what's coming next 
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you'd like any help/direction, or information about future features that need development help.
 
 
