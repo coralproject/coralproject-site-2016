@@ -69,7 +69,7 @@ Talk to a peer or mentor. Your colleagues are likely to have personal and profes
 
 Contact the project lead or the technical lead. We will work with you to help you figure out how to ensure that any conflict doesn’t interfere with your work, in confidence if you would prefer.
 
-Talk to Dan Sinker. Dan oversees the project. He can be contacted at [dan@mozillafoundation.org](mailto:dan@mozillafoundation.org).
+Talk to Chris Lawrence. Chris oversees the project. He can be contacted at [clawrence@mozillafoundation.org](mailto:clawrence@mozillafoundation.org).
 
 If you feel you have been unfairly accused of violating this code of conduct, you should contact Dan with a concise description of your grievance.
 
