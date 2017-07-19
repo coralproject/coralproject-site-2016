@@ -16,7 +16,7 @@ Check out the sections below to get started, or take a look at [our technical do
 
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
-* [Join our Slack group](https://rauchg-slackin-jopnncsstz.now.sh/)
+* [Join our Slack group](http://coralprojectslackin.herokuapp.com/)
 * [Join us in building Ask](#join-us-in-building-ask)
 * [Join us in building Talk](#join-us-in-building-talk)
 * [Join us in writing our Guides](#join-us-in-writing-our-guides)
