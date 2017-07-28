@@ -16,7 +16,7 @@ Check out the sections below to get started, or take a look at [our technical do
 
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
-* [Join our Slack group](https://coralprojectslackin.herokuapp.com/)
+* [Ask to join our Slack group](mailto:coralcommunity@mozillafoundation.org)
 * [Join us in building Ask](#join-us-in-building-ask)
 * [Join us in building Talk](#join-us-in-building-talk)
 * [Join us in writing our Guides](#join-us-in-writing-our-guides)
@@ -72,7 +72,6 @@ The Talk stack is Node, React, Redux, Mongo, Redis.
 * [Read our technical documentation](https://coralproject.github.io/talk/index.html)
 * [Visit our GitHub repo](https://github.com/coralproject/talk)
 * See [current user stories we're working on](https://www.pivotaltracker.com/n/projects/1863625) - let us know if you're ready to take one on
-* [Follow our design stories,](https://trello.com/b/ILND751a/talk) and see what's coming next 
 * Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you'd like any help/direction, or information about future features that need development help.
 
 
