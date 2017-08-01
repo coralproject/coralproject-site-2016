@@ -29,11 +29,11 @@ Talk is lightweight, secure, flexible, and responsive. It’s also fully extensi
 
 We’ve designed it to help publishers of all sizes host and manage conversations on their sites. And like everything we make, it’s 100% open source.
 
-* [Install Talk on your own server](https://github.com/coralproject/talk/blob/master/INSTALL.md)
+* [Install Talk on your own server](https://coralproject.github.io/talk/docs/install/)
 * [See Talk in action on our blog](https://blog.coralproject.net/the-empty-box/)
 * [Learn more about Talk's current features](https://blog.coralproject.net/talk-features/)
 * [Read our goals for Talk](https://blog.coralproject.net/our-goals-for-talk/)
-* [Learn how to write a Talk plugin](https://github.com/coralproject/talk/blob/master/PLUGINS.md)
+* [Learn how to write a Talk plugin](https://coralproject.github.io/talk/docs/plugins/quickstart/)
 * [See a prototype of our Talk analytics system in action](https://youtu.be/pP7Rr12j4QY?t=21m30s)
 * [Help us improve Talk](/contribute.html#help-us-improve-talk)
 
