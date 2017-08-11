@@ -14,11 +14,9 @@ bg-img-sm: /images/product-sm.jpg
 
 # Guides
 
-Strong community is about more than software. Our guides will help everyone in the newsroom be intentional about their community choices, whatever technology you use.
+Strong community is about more than software. Containing more than 70 articles by industry experts, our guides can help everyone in the newsroom improve their community engagement, no matter what technology they use. 
 
-[Our blog](http://blog.coralproject.net) currently hosts several articles about journalism and community, many of which will be paired with further writing to create our essential series of strategy guides.
-
-*The Coral Project’s guides to journalism and engagement will be released in Q2 2017.*
+[Visit our Guides to Community Journalism.](https://guides.coralproject.net)
 
 * [Help us improve Guides](/contribute.html#help-us-improve-guides)
 
