@@ -18,8 +18,6 @@ Strong community is about more than software. Containing more than 70 articles b
 
 [Visit our Guides to Community Journalism.](https://guides.coralproject.net)
 
-* [Help us improve Guides](/contribute.html#help-us-improve-guides)
-
 
 &nbsp; 
 
