@@ -87,9 +87,8 @@ The Talk stack is Node, React, Redux, Mongo, Redis.
 
 [Read about Guides here.](/products/guides.html)
 
-* Join the discussions on online community and engagement [in our community](https://community.coralproject.net)
-* [Read our blog](https://blog.coralproject.net) for the latest features and reflections on community building
-* Send ideas for what you want to read / write to [Sydette Harry](mailto:sydette@mozillafoundation.org) (and yes, we do pay for blogposts/contributions)
+* Join the discussion about our guides [in our community](https://community.coralproject.net/t/discuss-our-guides-website-here)
+* [Send us ideas for what you want to read / write](https://guides.coralproject.net/about/#Feedback) (and yes, we do pay for articles we commission)
 * [Fill out the form below](#other-ideas-and-bug-reports)
 
 &nbsp;
