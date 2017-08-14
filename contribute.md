@@ -100,7 +100,7 @@ The Talk stack is Node, React, Redux, Mongo, Redis.
 
 # **Join our online community**
 
-[Join more than 300 members of our online community](https://community.coralproject.net), discussing community tools and practices as well as our goals and strategy.
+[Join more than 400 members of our online community](https://community.coralproject.net), discussing community tools and practices as well as our goals and strategy.
 
 
 &nbsp;
