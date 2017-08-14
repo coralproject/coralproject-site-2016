@@ -14,6 +14,8 @@ bg-img-sm: /images/product-sm.jpg
 
 # Guides
 
+![Guides Screenshot]({{"/images/guides.jpg" | prepend: site.baseurl}})
+
 Strong community is about more than software. Containing more than 70 articles by industry experts, our guides can help everyone in the newsroom improve their community engagement, no matter what technology they use. 
 
 [Visit our Guides to Community Journalism.](https://guides.coralproject.net)
