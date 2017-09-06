@@ -31,6 +31,7 @@ We’ve designed it to help publishers of all sizes host and manage conversation
 
 * [Install Talk on your own server](https://coralproject.github.io/talk/index.html)
 * [See Talk in action on our blog](https://blog.coralproject.net/the-empty-box/)
+* [Read our release notes and latest features](https://github.com/coralproject/talk/releases)
 * [Read our goals for Talk](https://blog.coralproject.net/our-goals-for-talk/)
 * [See a prototype of our Talk analytics system in action](https://youtu.be/pP7Rr12j4QY?t=21m30s)
 * [Help us improve Talk](/contribute.html#help-us-improve-talk)
