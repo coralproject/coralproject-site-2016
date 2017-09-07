@@ -16,9 +16,7 @@ For support installing our products, or if you have other technical questions, e
 
 To discuss new features and share ideas about effective online communities, [visit our community.](https://community.coralproject.net)
 
-To discuss our research and community guides, email [Sydette Harry.](mailto:sydette@mozillafoundation.org)
-
-If you have any other questions, email [Andrew Losowsky.](mailto:andrewl@mozillafoundation.org)
+To discuss our research and community guides, or if you have any other questions, email [Andrew Losowsky.](mailto:andrewl@mozillafoundation.org)
 
 To report bugs or suggest new features, complete the form below.
 
