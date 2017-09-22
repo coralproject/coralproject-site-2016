@@ -33,6 +33,22 @@ layout: default
 
 <!--end testing logos here-->
 
+<div id="products" class="coral-bg bg-cn">
+    <h2 class="f3 f2-ns white tc ttu tracked pt5-ns pt4">Products</h2>
+    <div class="center content-width flex flex-wrap pv3">
+        {% for product in site.products %}
+        <div class="flex-100 flex-50-m flex-33 white tc h5 product-cell mb5-ns mb4">
+            <a href={{product.url | prepend: site.baseurl}}.html><img class="h4" src={{product.imgurl | prepend: site.baseurl}}></a>
+            <div class="b f3 pv2-ns pv3">{{product.title}}</div>
+            <div class="h3-ns b f6-ns f7 pb4-ns pb3">{{product.function}}</div>
+            <div class="mt3-ns mt2">
+                <a class="link b f6-ns f7 pa2 pa3-ns button-link" href="{{product.url | prepend: site.baseurl}}.html">Learn More</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
 <div class="center tc flex flex-column items-center justify-center mt5-ns mt3 mh2 mh0-ns">
     <h2 class="flex-auto f3 f2-ns ttu tracked coral">Why use Coral?</h2>
     <p class="flex-auto w-33-l w-50-m w-80 center f4 f7 mb3">We’ve designed our products to meet essential needs of journalism through effective online communities.</p>
@@ -53,22 +69,6 @@ layout: default
         <a class="f6-ns f7 link coral-link body-grey b" href={{user.url | prepend: site.baseurl}}.html>Read more <i class="icon-right-dir body-grey pa0" aria-hidden="true"></i></a>
     </div>
     {% endfor %}
-</div>
-
-<div id="products" class="coral-bg bg-cn">
-    <h2 class="f3 f2-ns white tc ttu tracked pt5-ns pt4">Products</h2>
-    <div class="center content-width flex flex-wrap pv3">
-        {% for product in site.products %}
-        <div class="flex-100 flex-50-m flex-33 white tc h5 product-cell mb5-ns mb4">
-            <a href={{product.url | prepend: site.baseurl}}.html><img class="h4" src={{product.imgurl | prepend: site.baseurl}}></a>
-            <div class="b f3 pv2-ns pv3">{{product.title}}</div>
-            <div class="h3-ns b f6-ns f7 pb4-ns pb3">{{product.function}}</div>
-            <div class="mt3-ns mt2">
-                <a class="link b f6-ns f7 pa2 pa3-ns button-link" href="{{product.url | prepend: site.baseurl}}.html">Learn More</a>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
 </div>
 
 <div class="center tc flex flex-column items-center justify-center mt5-ns mt3 mh2 mh0-ns">
