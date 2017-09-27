@@ -11,6 +11,7 @@ bg-img-sm: /images/install2-sm.jpg
 # How to install
 
 To run our products, you can either install them on your own server or buy a hosted solution for Talk.
+<br/><br/>
 
 ## Install yourself
 
