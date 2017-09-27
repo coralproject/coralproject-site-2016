@@ -12,12 +12,11 @@ bg-img-sm: /images/install2-sm.jpg
 
 To run our products, you can either install them on your own server or buy a hosted solution for Talk.
 
-**Install yourself**
+## Install yourself
 
-[You can find all of our technical documentation here](http://docs.coralproject.net).
+* [You can find all of our technical documentation here](http://docs.coralproject.net).
+* If you need assistance, please email our [Jeff Nelson, our Integration Engineer.](mailto:jeff@mozillafoundation.org)
 
-If you need assistance, please email our [Jeff Nelson, our Integration Engineer.](mailto:jeff@mozillafoundation.org)
+## Hosted solution for Talk
 
-**Hosted solution for Talk**
-
-We're partnering with Bocoup, the web platform experts, to offer different flavors of hosted solution for Talk to match your newsroom needs. [Contact Boaz Sender at Bocoup](mailto:boaz@bocoup.com) for more information. 
+* We're partnering with Bocoup, the web platform experts, to offer different flavors of hosted solution for Talk to match your newsroom needs. [Contact Boaz Sender at Bocoup](mailto:boaz@bocoup.com) for more information. 
