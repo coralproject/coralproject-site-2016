@@ -4,7 +4,7 @@ layout: product-page
 permalink: /products/guides
 md: true
 imgurl: /images/prod-guides.svg
-function: "Learn about online communities"
+function: "Design your community strategy"
 bg-img-lg: /images/product-lg.jpg
 bg-img-md: /images/product-md.jpg
 bg-img-sm: /images/product-sm.jpg
