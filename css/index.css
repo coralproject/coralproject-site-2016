@@ -52,8 +52,8 @@ body {
 .content-width {
     max-width: 20rem;
 }
-.logo svg {
-    height: 0.7rem;
+.logo img {
+    width: 150px;
 }
 .button-link {
     background: #F67150;
