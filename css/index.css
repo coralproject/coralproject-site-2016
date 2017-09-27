@@ -53,7 +53,7 @@ body {
     max-width: 20rem;
 }
 .logo img {
-    width: 150px;
+    width: 4rem;
 }
 .button-link {
     background: #F67150;
@@ -89,8 +89,8 @@ body {
         height: 3.3rem;
         width: 3.3rem;
     }
-    .logo svg {
-        height: 1.5rem;
+    .logo img {
+        width: 8rem;
     }
     .tz-border-m {
         border-top-width: 0.33rem;
@@ -141,8 +141,8 @@ body {
         border-top-width: 0.33rem;
         border-top-color: #1E0038;
     }
-    .logo svg {
-        height: 2rem;
+    .logo img {
+        width: 8rem;
     }
     .moz-footer-logo {
         border-right: solid #4A4A4A 1px;
