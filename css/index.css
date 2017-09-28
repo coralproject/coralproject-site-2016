@@ -55,6 +55,11 @@ body {
 .logo img {
     width: 4rem;
 }
+
+.logo svg {
+    height: 0.7rem;
+}
+
 .button-link {
     background: #F67150;
     border: 1px solid white;
@@ -92,6 +97,9 @@ body {
     .logo img {
         width: 8rem;
     }
+     .logo svg {
+         height: 1.5rem;
+     }
     .tz-border-m {
         border-top-width: 0.33rem;
         border-top-color: #1E0038;
@@ -151,5 +159,8 @@ body {
     .flex-row-ns {
         flex-direction: row;
     } 
+    .logo svg {
+        height: 2rem;
+    }
 }
 
