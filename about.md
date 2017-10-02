@@ -74,33 +74,30 @@ I'm a Digital Nomad with a growth mindset and a passion for Software Architectur
 
 ### Sydette Harry, Editor at Large
 I am an avid internet commenter on anywhere that will give me a password. I’ve worked in cultural arts, tech and project curation, and my writing has been on Bitch.com, Salon, and The Toast.
- 
- 
-**Project Advisors**
 
 ![Dan Sinker ]({{"/images/team/DanSinker.jpg" | prepend: site.baseurl}})
 
-### Dan Sinker, Head of OpenNews
+### Dan Sinker, Project Advisor/Head of OpenNews
 I am the director of OpenNews as well as a journalist, entrepreneur and maker based out of Chicago. I taught digital journalism at Columbia College Chicago, was a Knight Fellow at Stanford University, and founded and ran the magazine Punk Planet.
 
 ![Katharina Borchert]({{"/images/team/katharina.jpg" | prepend: site.baseurl}})
 
-### Katharina Borchert, Chief Innovation Officer at Mozilla
+### Katharina Borchert, Project Advisor/Chief Innovation Officer at Mozilla
 I serve as the senior executive broadly responsible for fostering Mozilla’s culture of open innovation. My background includes more than a decade of new business growth and technological innovation in media and journalism, most recently as CEO at Spiegel Online.
 
 ![Greg Barber]({{"/images/team/Greg.jpg" | prepend: site.baseurl}})
 
-### Greg Barber, Director of Digital News Projects at The Washington Post
+### Greg Barber, Project Advisor/Director of Digital News Projects at The Washington Post
 I’ve made a career of startups within news organizations. My work is focused on interactivity, personalization, and news games as Director of Digital News Projects at The Washington Post.
 
 ![Julia Chan]({{"/images/team/Julia.jpg" | prepend: site.baseurl}})
 
-### Julia Chan, Director of Audience at Mother Jones
+### Julia Chan, Project Advisor/Director of Audience at Mother Jones
 I'm the Director of Audience at Mother Jones, based in its San Francisco office. I previously worked as the Digital Editor at Reveal and The Center for Investigative Reporting. I'm a devout music nerd, noodle snob, and dog person.
 
 ![Marc Lavallee]({{"/images/team/lavallee.jpg" | prepend: site.baseurl}})
 
-### Marc Lavallee, Head of Story[X] at The New York Times
+### Marc Lavallee, Project Advisor/Head of Story[X] at The New York Times
 I'm an executive director at The New York Times, and the head of Story[X], the newsroom’s research and development group. Prior to joining The Times in 2011, I worked at NPR, The Washington Post, The Boston Globe, and National Journal.
 
 &nbsp;
