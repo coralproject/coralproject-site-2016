@@ -52,7 +52,7 @@ I'm passionate about methodologies and tools that create a respectful, productiv
 
 ![Samantha Hankins]({{"/images/team/Sam.jpg" | prepend: site.baseurl}})
 
-### Samantha Hankins, Designer
+### Samantha Hankins, Lead Designer
 My design process and voice are grounded in my previous work in the hospitality, legal, and educational fields. Previously: building communities IRL around diversity and promoting inclusion at the Maurice A. Deane School of Law at Hofstra University.
 
 ![Jeff Nelson]({{"/images/team/Jeff.jpg" | prepend: site.baseurl}})
