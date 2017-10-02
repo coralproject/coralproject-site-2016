@@ -74,6 +74,10 @@ I'm a Digital Nomad with a growth mindset and a passion for Software Architectur
 
 ### Sydette Harry, Editor at Large
 I am an avid internet commenter on anywhere that will give me a password. I’ve worked in cultural arts, tech and project curation, and my writing has been on Bitch.com, Salon, and The Toast.
+&nbsp;
+&nbsp;
+&nbsp;
+
 # Project Advisors
 
 ![Dan Sinker ]({{"/images/team/DanSinker.jpg" | prepend: site.baseurl}})
@@ -100,7 +104,6 @@ I'm the Director of Audience at Mother Jones, based in its San Francisco office.
 
 ### Marc Lavallee, Head of Story[X] at The New York Times
 I'm an executive director at The New York Times, and the head of Story[X], the newsroom’s research and development group. Prior to joining The Times in 2011, I worked at NPR, The Washington Post, The Boston Globe, and National Journal.
-
 &nbsp;
 &nbsp;
 
