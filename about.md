@@ -90,7 +90,7 @@ I am the director of OpenNews as well as a journalist, entrepreneur and maker ba
 ### Greg Barber, Director of Digital News Projects at The Washington Post
 I’ve made a career of startups within news organizations. When not working with The Coral Project, I’m focused on interactivity, personalization, and news games as Director of Digital News Projects at The Washington Post.
 
-![Greg Barber]({{"/images/team/Greg.jpg" | prepend: site.baseurl}})
+![Marc Lavallee]({{"/images/team/lavallee.jpg" | prepend: site.baseurl}})
 
 ### Marc Lavallee, Head of Story[X] at The New York Times
 I'm an executive director at The New York Times, and the head of Story[X], the newsroom’s research and development group. Prior to joining The Times in 2011, I developed news apps, content management systems and other Web site features at NPR, The Washington Post, The Boston Globe, and National Journal.
