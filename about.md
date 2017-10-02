@@ -79,7 +79,8 @@ I'm a Digital Nomad with a growth mindset and a passion for Software Architectur
 I am an avid internet commenter on anywhere that will give me a password. I’ve worked in cultural arts, tech and project curation, and my writing has been on Bitch.com, Salon, and The Toast.
 
 &nbsp;
-##Project Advisors
+&nbsp;
+## Project Advisors
 
 ![Dan Sinker ]({{"/images/team/DanSinker.jpg" | prepend: site.baseurl}})
 
