@@ -35,7 +35,6 @@ And the name? Coral’s intricate reef systems protect shorelines and give cover
 
 &nbsp;
 &nbsp;
-
 ## About the Team
 
 ![Andrew Losowsky]({{"/images/team/Andrew.jpg" | prepend: site.baseurl}})
