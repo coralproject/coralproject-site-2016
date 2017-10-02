@@ -93,7 +93,7 @@ I serve as the senior executive broadly responsible for fostering Mozilla’s cu
 ### Greg Barber, Director of Digital News Projects at The Washington Post
 I’ve made a career of startups within news organizations. My work is focused on interactivity, personalization, and news games as Director of Digital News Projects at The Washington Post.
 
-![Julia Chan]({{"/images/team/Greg.jpg" | prepend: site.baseurl}})
+![Julia Chan]({{"/images/team/Julia.jpg" | prepend: site.baseurl}})
 
 ### Julia Chan, Director of Audience at Mother Jones
 I'm the Director of Audience at Mother Jones, based in its San Francisco office. I previously worked as the Digital Editor at Reveal and The Center for Investigative Reporting. I'm a devout music nerd, noodle snob, and dog person.
