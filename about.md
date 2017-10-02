@@ -74,8 +74,12 @@ I'm a Digital Nomad with a growth mindset and a passion for Software Architectur
 
 ### Sydette Harry, Editor at Large
 I am an avid internet commenter on anywhere that will give me a password. I’ve worked in cultural arts, tech and project curation, and my writing has been on Bitch.com, Salon, and The Toast.
-
+ 
+ 
+ 
 # Project Advisors 
+
+
 ![Dan Sinker ]({{"/images/team/DanSinker.jpg" | prepend: site.baseurl}})
 
 ### Dan Sinker, Head of OpenNews
@@ -106,3 +110,4 @@ I'm an executive director at The New York Times, and the head of Story[X], the n
 
 
 Website designed by [Pilcrow](http://www.pilcrow.ie/), built by [GetBulb](http://www.getbulb.com/). Background images from [wocintechchat.com](http://www.wocintechchat.com/), available via a CC-BY 2.0 license.
+&nbsp;
