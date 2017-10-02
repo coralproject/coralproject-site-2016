@@ -29,7 +29,9 @@ If you'd like to discuss how we can work together, [please get in touch.](/conta
 
 And the name? Coral’s intricate reef systems protect shorelines and give cover for organisms to connect and evolve. Like coral, we aim to create the structure to help communities thrive.
 
-*The Coral Project is a unique collaboration between the Mozilla Foundation, The New York Times, and The Washington Post, funded by a grant from the John S. and James L. Knight Foundation.*
+*The Coral Project was founded as a unique collaboration between the Mozilla Foundation, The New York Times, and The Washington Post, funded by a grant from the John S. and James L. Knight Foundation.*
+
+*Our current funders are The Democracy Fund, the Rita Allen Foundation, and Mozilla.*
 
 &nbsp;
 &nbsp;
@@ -41,70 +43,57 @@ And the name? Coral’s intricate reef systems protect shorelines and give cover
 ### Andrew Losowsky, Project Lead
 I drink a lot of tea. Previously: The Huffington Post, News Corp, John S. Knight Fellow at Stanford University, start ups. Also currently: Adjunct in the Journalism+Design program at The New School in New York.
 
-![David Erwin]({{"images/team/David.jpg" | prepend: site.baseurl}})
+![Wyatt Johnson]({{"/images/team/wyatt.jpg" | prepend: site.baseurl}})
 
-### David Erwin, Lead Engineer
-I’m an engineer with a penchant for product work. I was previously Lead Engineer at The New York Times, the CTO at Zap on Demand and a Project Leader at Telcordia. Currently: CTO of World Fit, a charity that seeks to end childhood obesity.
+### Wyatt Johnson, Lead Engineer
+I’m a full-stack software developer with a security-first mindset. I create backend systems that handle the data in a responsible and monitored way. For fun, I run and climb things.
 
 ![Kim Gardner]({{"/images/team/Kim.jpg" | prepend: site.baseurl}})
 
 ### Kim Gardner, Project Manager
 I'm passionate about methodologies and tools that create a respectful, productive, and fun environment. I've been a project manager at Shutterstock and The New York Times, and am currently working on Pigeon.io, which allows you to easily host your own email.
 
-![Sydette Harry]({{"/images/team/Sydette.jpg" | prepend: site.baseurl}})
+![Samantha Hankins]({{"/images/team/Sam.jpg" | prepend: site.baseurl}})
 
-### Sydette Harry, Community Lead
-I am an avid internet commenter on anywhere that will give me a password. I’ve worked in cultural arts, tech and project curation, and my writing has been on Bitch.com, Salon, and The Toast.
-
-![Greg Barber]({{"/images/team/Greg.jpg" | prepend: site.baseurl}})
-
-### Greg Barber, Head of Strategy and Partnerships
-I’ve made a career of startups within news organizations. When not working with The Coral Project, I’m focused on interactivity, personalization, and news games as Director of Digital News Projects at The Washington Post.
-
-![Emma Grdina]({{"/images/team/Emma.jpg" | prepend: site.baseurl}})
-
-### Emma Grdina, Lead Designer
-I’m interested in using design to create engaging online spaces that people look forward to visiting. Currently I work on the Digital Design team at The Washington Post.
+### Samantha Hankins, Designer
+My design process and voice are grounded in my previous work in the hospitality, legal, and educational fields. Previously: building communities IRL around diversity and promoting inclusion at the Maurice A. Deane School of Law at Hofstra University.
 
 ![Jeff Nelson]({{"/images/team/Jeff.jpg" | prepend: site.baseurl}})
 
 ### Jeff Nelson, Integration Engineer
 I'm a serial optimizer pushing towards a vision of computing without complexity. I've been a Software Engineer at Palantir and one of the co-founders of Blavity. I'm currently building real-time data management tools at Cinchapi. 
 
-![Samantha Hankins]({{"/images/team/Sam.jpg" | prepend: site.baseurl}})
-
-### Samantha Hankins, Designer
-My design process and voice are grounded in my previous work in the hospitality, legal, and educational fields. Previously: building communities IRL around diversity and promoting inclusion at the Maurice A. Deane School of Law at Hofstra University.
-
-![Gabriela Rodríguez]({{"/images/team/Gaba.jpg" | prepend: site.baseurl}})
-
-### Gabriela Rodríguez, Full-Stack Developer
-I’m an activist and hacker who loves the intersection between media and technology. I co-founded the non-profit DATA, which works with open data and transparency in South America. I grew up in Uruguay and now live in Portland, OR.
-
-![Riley Davis ]({{"/images/team/Riley.jpg" | prepend: site.baseurl}})
-
-### Riley Davis, Full-Stack Developer
-I like building things. Formerly of Tumblr and the New York Times, creating data visualizations and general digital goods.
-
 ![Belén Curcio]({{"/images/team/belen.jpg" | prepend: site.baseurl}})
 
 ### Belén Curcio, Front End Developer
 I'm a software developer passionate about web technologies. If I can't find a solution, I create it. In my free time, I like to contribute to open-source projects, explore tech communities, and solve Rubik's Cubes.
 
-![Wyatt Johnson]({{"/images/team/wyatt.jpg" | prepend: site.baseurl}})
-
-### Wyatt Johnson, Software Architect
-I’m a full-stack software developer with a security-first mindset. I create backend systems that handle the data in a responsible and monitored way. For fun, I run and climb things.
-
 ![Chi Vinh Le]({{"/images/team/gravatar.jpg" | prepend: site.baseurl}})
 
 ### Chi Vinh Le, Full-Stack Developer
-I’m a Digital Nomad with a growth mindset and a passion for Software Architectures and Open-Source technologies. I also do improv and love languages.
+I'm a Digital Nomad with a growth mindset and a passion for Software Architectures and Open-Source technologies. I also do improv and love languages.
+
+![Sydette Harry]({{"/images/team/Sydette.jpg" | prepend: site.baseurl}})
+
+### Sydette Harry, Editor at Large
+I am an avid internet commenter on anywhere that will give me a password. I’ve worked in cultural arts, tech and project curation, and my writing has been on Bitch.com, Salon, and The Toast.
+
+**Project Advisors**
 
 ![Dan Sinker ]({{"/images/team/DanSinker.jpg" | prepend: site.baseurl}})
 
-### Dan Sinker, Project Advisor, Head of Knight-Mozilla OpenNews
+### Dan Sinker, Head of OpenNews
 I am the director of OpenNews as well as a journalist, entrepreneur and maker based out of Chicago. I taught digital journalism at Columbia College Chicago, was a Knight Fellow at Stanford University, and founded and ran the magazine Punk Planet.
+
+![Greg Barber]({{"/images/team/Greg.jpg" | prepend: site.baseurl}})
+
+### Greg Barber, Director of Digital News Projects at The Washington Post
+I’ve made a career of startups within news organizations. When not working with The Coral Project, I’m focused on interactivity, personalization, and news games as Director of Digital News Projects at The Washington Post.
+
+![Greg Barber]({{"/images/team/Greg.jpg" | prepend: site.baseurl}})
+
+### Marc Lavallee, Head of Story[X] at The New York Times
+I'm an executive director at The New York Times, and the head of Story[X], the newsroom’s research and development group. Prior to joining The Times in 2011, I developed news apps, content management systems and other Web site features at NPR, The Washington Post, The Boston Globe, and National Journal.
 
 &nbsp;
 &nbsp;
