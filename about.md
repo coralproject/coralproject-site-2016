@@ -29,13 +29,10 @@ If you'd like to discuss how we can work together, [please get in touch.](/conta
 
 And the name? Coral’s intricate reef systems protect shorelines and give cover for organisms to connect and evolve. Like coral, we aim to create the structure to help communities thrive.
 
-*The Coral Project was founded as a unique collaboration between the Mozilla Foundation, The New York Times, and The Washington Post, funded by a grant from the John S. and James L. Knight Foundation.*
-
-*Our current funders are The Democracy Fund, the Rita Allen Foundation, and Mozilla.*
+*The Coral Project was founded as a unique collaboration between the Mozilla Foundation, The New York Times, and The Washington Post, funded by a grant from the John S. and James L. Knight Foundation. Our current funders are The Democracy Fund, the Rita Allen Foundation, and Mozilla.*
 
 &nbsp;
-&nbsp;
-&nbsp;
+
 ## About the Team
 
 ![Andrew Losowsky]({{"/images/team/Andrew.jpg" | prepend: site.baseurl}})
@@ -77,7 +74,6 @@ I'm a Digital Nomad with a growth mindset and a passion for Software Architectur
 
 ### Sydette Harry, Editor at Large
 I am an avid internet commenter on anywhere that will give me a password. I’ve worked in cultural arts, tech and project curation, and my writing has been on Bitch.com, Salon, and The Toast.
-
 &nbsp;
 &nbsp;
 ## Project Advisors
