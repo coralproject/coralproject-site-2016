@@ -43,24 +43,20 @@ And the name? Coral’s intricate reef systems protect shorelines and give cover
 ### Andrew Losowsky, Project Lead
 I drink a lot of tea. Previously: The Huffington Post, News Corp, John S. Knight Fellow at Stanford University, start ups. Also currently: Adjunct in the Journalism+Design program at The New School in New York.
 
-
 ![Wyatt Johnson]({{"/images/team/wyatt.jpg" | prepend: site.baseurl}})
 
 ### Wyatt Johnson, Lead Engineer
 I’m a full-stack software developer with a security-first mindset. I create backend systems that handle the data in a responsible and monitored way. For fun, I run and climb things.
-
 
 ![Kim Gardner]({{"/images/team/Kim.jpg" | prepend: site.baseurl}})
 
 ### Kim Gardner, Project Manager
 I'm passionate about methodologies and tools that create a respectful, productive, and fun environment. I've been a project manager at Shutterstock and The New York Times, and am currently working on Pigeon.io, which allows you to easily host your own email.
 
-
 ![Samantha Hankins]({{"/images/team/Sam.jpg" | prepend: site.baseurl}})
 
 ### Samantha Hankins, Designer
 My design process and voice are grounded in my previous work in the hospitality, legal, and educational fields. Previously: building communities IRL around diversity and promoting inclusion at the Maurice A. Deane School of Law at Hofstra University.
-
 
 ![Jeff Nelson]({{"/images/team/Jeff.jpg" | prepend: site.baseurl}})
 
@@ -95,7 +91,7 @@ I’ve made a career of startups within news organizations. When not working wit
 ![Marc Lavallee]({{"/images/team/lavallee.jpg" | prepend: site.baseurl}})
 
 ### Marc Lavallee, Head of Story[X] at The New York Times
-I'm an executive director at The New York Times, and the head of Story[X], the newsroom’s research and development group. Prior to joining The Times in 2011, I developed news apps, content management systems and other Web site features at NPR, The Washington Post, The Boston Globe, and National Journal.
+I'm an executive director at The New York Times, and the head of Story[X], the newsroom’s research and development group. Prior to joining The Times in 2011, I worked at NPR, The Washington Post, The Boston Globe, and National Journal.
 
 &nbsp;
 &nbsp;
