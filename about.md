@@ -42,12 +42,18 @@ And the name? Coral’s intricate reef systems protect shorelines and give cover
 
 ### Andrew Losowsky, Project Lead
 I drink a lot of tea. Previously: The Huffington Post, News Corp, John S. Knight Fellow at Stanford University, start ups. Also currently: Adjunct in the Journalism+Design program at The New School in New York.
+
 &nbsp;
+&nbsp;
+
 ![Wyatt Johnson]({{"/images/team/wyatt.jpg" | prepend: site.baseurl}})
 
 ### Wyatt Johnson, Lead Engineer
 I’m a full-stack software developer with a security-first mindset. I create backend systems that handle the data in a responsible and monitored way. For fun, I run and climb things.
+
 &nbsp;
+&nbsp;
+
 ![Kim Gardner]({{"/images/team/Kim.jpg" | prepend: site.baseurl}})
 
 ### Kim Gardner, Project Manager
