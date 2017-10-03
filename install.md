@@ -15,11 +15,18 @@ To run our products, you can either install them on your own server or buy a hos
 
 ## Install yourself
 
-* [You can find all of our technical documentation here](http://docs.coralproject.net).
-* If you need assistance, please email our [Jeff Nelson, our Integration Engineer.](mailto:jeff@mozillafoundation.org)
+* Read our [Talk technical documentation.](https://coralproject.github.io/talk/index.html)
+* Read our [Ask technical documentation.](https://docs.coralproject.net/products/ask/)
+* If you need assistance, please email [Jeff Nelson, our Integrations Engineer.](mailto:jeff@mozillafoundation.org)
+
+
+## Get us to help you
+
+* We offer paid services to help you migrate your comment data, integration your auth system, build new features, and more. These fees help support our project. To learn about our services, email [Jeff Nelson.](mailto:jeff@mozillafoundation.org) 
+* We offer discounts for small and non-profit newsrooms.
 
 <br/><br/>
 
-## Hosted solution for Talk
+## Pay for a hosted solution for Talk
 
-* We're partnering with Bocoup, the web platform experts, to offer different flavors of hosted solution for Talk to match your newsroom needs. [Contact Boaz Sender at Bocoup](mailto:boaz@bocoup.com) for more information. 
+* We're partnering with Bocoup, the web platform experts, to offer different flavors of hosted solution for Talk to match your newsroom needs. [Contact Boaz Sender at Bocoup](mailto:boaz@bocoup.com) for more information about Talk hosting. 
