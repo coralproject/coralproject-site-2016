@@ -10,9 +10,7 @@ bg-img-sm: /images/contact2-sm.jpg
 
 # Get in touch
 
-To become a strategic partner, or to help us test upcoming product features, email [Greg Barber.](mailto:greg.barber@washpost.com)
-
-For support installing our products, or if you have other technical questions, email [Jeff Nelson.](mailto:jeff@mozillafoundation.org)
+To learn about our products, for support installing them, or if you have other technical questions, email [Jeff Nelson.](mailto:jeff@mozillafoundation.org)
 
 To discuss new features and share ideas about effective online communities, [visit our community.](https://community.coralproject.net)
 
