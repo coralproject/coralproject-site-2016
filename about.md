@@ -93,7 +93,7 @@ I’ve made a career of startups within news organizations. My work is focused o
 ![Julia Chan]({{"/images/team/Julia.jpg" | prepend: site.baseurl}})
 
 ### Julia B. Chan, Project Advisor/Director of Audience at Mother Jones
-I'm the Director of Audience at Mother Jones, where I leads new digital and engagement projects. I was previously the digital editor at The Center for Investigative Reporting. I also serve on AAJA’s national governing board and founded Journalists of Color, a global community of digitally savvy and diverse journalists.
+I'm the Director of Audience at Mother Jones, where I lead new digital and engagement projects. I was previously the Digital Editor at The Center for Investigative Reporting. I also serve on AAJA’s national governing board and founded Journalists of Color, a global community of digitally savvy and diverse journalists.
 
 ![Marc Lavallee]({{"/images/team/lavallee.jpg" | prepend: site.baseurl}})
 
