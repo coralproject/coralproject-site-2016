@@ -19,6 +19,7 @@ To run our products, you can either install them on your own server or buy a hos
 * Read our [Ask technical documentation.](https://docs.coralproject.net/products/ask/)
 * If you need assistance, please email [Jeff Nelson, our Integrations Engineer.](mailto:jeff@mozillafoundation.org)
 
+<br/><br/>
 
 ## Get us to help you
 
