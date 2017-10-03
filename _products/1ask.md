@@ -27,7 +27,7 @@ Better journalism:
 * **Ask allows journalists to tag and search responses to follow up.**<br/>
 * **Ask encourages more people to respond.** The Gallery feature makes it easy to showcase the best responses, applying the principle of ['Social Proof'](https://en.wikipedia.org/wiki/Social_proof) to journalistic practice.
 * **Ask maintains the text of the original submission.** Editors can edit Gallery submissions for length, clarity, grammar while saving the original response.<br/>
-* **Data visualizations of submissions are easy to build using the API.** [Here's an example from Newsday](http://projects.newsday.com/opinion/donald-trumps-progress-report/) [Here's another example from Philly.com](http://www.philly.com/philly/news/politics/400537181.html)<br/><br/>
+* **Data visualizations of submissions are easy to build using the API.** [Here's an example from Newsday.](http://projects.newsday.com/opinion/donald-trumps-progress-report/) [Here's another example from Philly.com.](http://www.philly.com/philly/news/politics/400537181.html)<br/><br/>
 
 Improved design and accessibility:
 * **Ask forms are fully compatible across devices.**
@@ -36,24 +36,19 @@ Improved design and accessibility:
 * **Ask forms are fully accessible.**<br/><br/>
 
 More efficient response management:
-* **Ask contains full Slack integration.** Follow the latest responses in your channel.
+* **Ask contains full Slack integration.** Follow the latest responses in your channel. [Read how that helped a newsroom write better questions.](https://blog.coralproject.net/its-all-about-the-ask/)
 * **Ask makes it possible to track respondees across forms.** Find the people who contribute most.
 * **Ask includes an easy submissions manager.** Quickly filter out abusive or meaningless responses.<br/><br/>
 
 Stronger user privacy: 
 * **Ask doesn't share user data with anyone.**  <br/><br/>
 
-Newsrooms currently using Ask:
-
-![PBS]({{"/images/PBS.jpg" | prepend: site.baseurl}}) ![philly]({{"/images/philly.jpg" | prepend: site.baseurl}}) ![kqed]({{"/images/kqed.jpg" | prepend: site.baseurl}}) ![CV]({{"/images/CV.jpg" | prepend: site.baseurl}}) ![clickondet]({{"/images/clickondet.jpg" | prepend: site.baseurl}}) 
-![univ]({{"/images/univ.jpg" | prepend: site.baseurl}}) ![herald]({{"/images/herald.jpg" | prepend: site.baseurl}}) ![chicago]({{"/images/chicago.jpg" | prepend: site.baseurl}}) ![newsday]({{"/images/newsday.jpg" | prepend: site.baseurl}})
-
 Ask is open source and fully customizable. You own your install of Ask, and can optimize it for your needs.
 
 * [Install Ask](https://docs.coralproject.net/products/ask/)
 * [Read Ask's User Guide](https://docs.coralproject.net/products/askuserguide/)
 * [Install our Ask WordPress plugin](https://github.com/coralproject/ask-wp-plugin) _(requires Ask install)_
-* [Read advice on using forms effectively in your newsroom](https://blog.coralproject.net/forms-audience-engagement/)
+* [Read advice on using forms effectively](https://guides.coralproject.net/forms-audience-engagement/)
 * [Read our Product Doc for Ask](https://blog.coralproject.net/product-ask/)
 * [Help us improve Ask](/contribute.html#help-us-improve-ask)
 
