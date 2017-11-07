@@ -110,4 +110,4 @@ The Talk stack is Node, React, Redux, Mongo, Redis.
 &nbsp;
 
 # **Other ideas and bug reports**
-<div id="ask-form"></div><script src="https://s3.amazonaws.com/coral-internal/57c5e461491c7e0007359e6b.js"></script>
+<div id="ask-form"></div><script src="https://coralinternal.coralproject.net/widgets/57c5e461491c7e0007359e6b.js"></script>
