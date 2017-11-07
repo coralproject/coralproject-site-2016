@@ -21,4 +21,4 @@ To report bugs or suggest new features, complete the form below.
 &nbsp;
 &nbsp;
 
-<div id="ask-form"></div><script src="https://s3.amazonaws.com/coral-internal/57c5e461491c7e0007359e6b.js"></script>
+<div id="ask-form"></div><script src="https://coralinternal.coralproject.net/widgets/57c5e461491c7e0007359e6b.js"></script>
