@@ -16,7 +16,6 @@ Check out the sections below to get started, or take a look at [our technical do
 
 Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
-* [Ask to join our Slack group](mailto:coralcommunity@mozillafoundation.org)
 * [Join us in building Ask](#join-us-in-building-ask)
 * [Join us in building Talk](#join-us-in-building-talk)
 * [Join us in writing our Guides](#join-us-in-writing-our-guides)
