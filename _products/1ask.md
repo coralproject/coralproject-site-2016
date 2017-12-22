@@ -14,6 +14,9 @@ bg-img-sm: /images/product-sm.jpg
 
 # Ask 
 
+_"The Coral Project worked out spectacularly from our perspective. We received about 1,400 comments from readers, and our Ask pages were heavily trafficked. The submissions were respectful and thoughtful – exactly what we were hoping for."_ 
+_Jason Tuohey, Deputy Managing Editor, Spotlight/The Boston Globe_
+
 If you want to ask your audience a specific question to improve your reporting, you can give out your email, ask people to use social media or the comments box, or use a third-party form/survey tool.
 
 None of these are built for the needs of journalists. Our Ask tool is. 
