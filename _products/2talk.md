@@ -57,7 +57,9 @@ For Commenters:
 * **Staff badges identify journalists' replies.**
 * **Link to a single discussion.** Share the link and watch the conversation in real time.
 * **Instant updates.** No need to refresh to see the latest comments.
+
 … and much more
+
 
 For Journalists:
 
