@@ -167,6 +167,7 @@ body {
 talkimg {
     max-width: 100%;
     height: auto;
+    border-style: inset;
     margin-left: auto;
     margin-right: auto;
 }
