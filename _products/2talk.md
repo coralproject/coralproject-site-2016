@@ -30,7 +30,7 @@ Just as with our other tool [Ask](https://coralproject.net/products/ask.html), T
 
 For Moderators:
 
-![Talk Comment Moderation]({{"/images//talk/talk_comment_mod.png" | prepend: site.baseurl}})
+![Talk Comment Moderation]({{"/images/talk/talk_comment_mod.png" | prepend: site.baseurl}})
 
 * **Feature the best comments.** Highlight the best contributions to encourage quality submissions.
 * **Contextual reports.** Learn from your community about the biggest problems.
@@ -42,9 +42,9 @@ For Moderators:
 * **[Toxic Comments plugin](https://blog.coralproject.net/toxic-avenging/) developed with Google Jigsaw.** Use machine learning to detect problematic behavior.
 * **In-article moderation.** Take action as you read.
 
-<div class="talkimg"><img src="images/talk/talk_mod_actions.png"></div>
+<div class="talkimg"><img src="/images/talk/talk_mod_actions.png"/></div>
 
-![Talk Article Moderation]({{"/images/talk/talk_mod_actions.png" | prepend: site.baseurl}}){: .talkimg }
+![Talk Article Moderation]({{"/images/talk/talk_mod_actions.png" | :class=".talkimg" | prepend: site.baseurl}})
 
 * **Moderate from [inside a Slack channel.](https://blog.coralproject.net/slacking-on/)** Take action and track new comments from within your existing workflow.
 * **Set single articles to pre-moderation.** Some topics are harder than ours. Our system lets you treat them that way.
