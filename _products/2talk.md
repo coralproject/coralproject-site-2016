@@ -30,7 +30,7 @@ Just as with our other tool [Ask](https://coralproject.net/products/ask.html), T
 
 For Moderators:
 
-![Talk Comment Moderation]({{"/images/talk/talk_comment_mod.png" | prepend: site.baseurl}})
+<div class="talkimg"><img src="/images/talk/talk_comment_mod.png"/></div>
 
 * **Feature the best comments.** Highlight the best contributions to encourage quality submissions.
 * **Contextual reports.** Learn from your community about the biggest problems.
@@ -44,8 +44,6 @@ For Moderators:
 
 <div class="talkimg"><img src="/images/talk/talk_mod_actions.png"/></div>
 
-![Talk Article Moderation]({{"/images/talk/talk_mod_actions.png" | :class=".talkimg" | prepend: site.baseurl}})
-
 * **Moderate from [inside a Slack channel.](https://blog.coralproject.net/slacking-on/)** Take action and track new comments from within your existing workflow.
 * **Set single articles to pre-moderation.** Some topics are harder than ours. Our system lets you treat them that way.
 * **Banned and Suspect word identification.** Instantly reject the worst comments, and keep an eye on other tricky words and phrases.
@@ -56,7 +54,7 @@ For Moderators:
 
 For Commenters:
 
-![Talk Ignore]({{"/images/talk/talk_ignore.png" | prepend: site.baseurl}})
+<div class="talkimg"><img src="/images/talk/talk_ignore.png"/></div>
 
 * **Mute individual commenters.** Ignore the voices that you find annoying.
 * **Hide off-topic comments.** Talk about other things, and let others choose if they want to see it.
@@ -71,7 +69,7 @@ For Commenters:
 
 For Journalists:
 
-![Talk Question]({{"/images/talk/talk_question.png" | prepend: site.baseurl}})
+<div class="talkimg"><img src="/images/talk/talk_question.png"/></div>
 
 * **Set discussion themes or questions for individual articles.** 
 * **Staff badges help you stand out in the conversation.**
@@ -81,7 +79,7 @@ For Journalists:
 
 For Developers:
 
-![Talk Dev]({{"/images/talk/talk_dev.png" | prepend: site.baseurl}})
+<div class="talkimg"><img src="/images/talk/talk_dev.png"/></div>
 
 * **Fully Dockerized for easy install.**
 * **Graph API enables complex data queries and extensions with ease.**
@@ -94,7 +92,7 @@ For Developers:
 
 For Publishers:
 
-![Talk Intercept]({{"/images/talk/talk_intercept.png" | prepend: site.baseurl}})
+<div class="talkimg"><img src="/images/talk/talk_intercept.png"/></div>
 
 * **Small embed keeps page load fast.**
 * **No tracking, no surveillance.** 
