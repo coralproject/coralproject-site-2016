@@ -42,7 +42,7 @@ For Moderators:
 * **[Toxic Comments plugin](https://blog.coralproject.net/toxic-avenging/) developed with Google Jigsaw.** Use machine learning to detect problematic behavior.
 * **In-article moderation.** Take action as you read.
 
-![Talk Article Moderation]({{"/images/talk/talk_mod_actions.png" | prepend: site.baseurl}}{ width=50% })
+![Talk Article Moderation]({{"/images/talk/talk_mod_actions.png" :class="img-responsive" | prepend: site.baseurl}})
 
 * **Moderate from [inside a Slack channel.](https://blog.coralproject.net/slacking-on/)** Take action and track new comments from within your existing workflow.
 * **Set single articles to pre-moderation.** Some topics are harder than ours. Our system lets you treat them that way.
