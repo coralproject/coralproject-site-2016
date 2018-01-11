@@ -14,7 +14,7 @@ bg-img-sm: /images/product-sm.jpg
 
 # Talk 
 
-Talk is now live [on The Washington Post](https://www.washingtonpost.com/pr/wp/2017/09/06/the-washington-post-launches-talk-commenting-platform/), [the Wall Street Journal](https://www.wsj.com/articles/a-wsj-commenting-experiment-1510164431), and [The Intercept](https://theintercept.com/2017/12/18/comments-coral-project/) among many other sites.
+Talk is now live on [The Washington Post](https://www.washingtonpost.com/pr/wp/2017/09/06/the-washington-post-launches-talk-commenting-platform/), [the Wall Street Journal](https://www.wsj.com/articles/a-wsj-commenting-experiment-1510164431), and [The Intercept](https://theintercept.com/2017/12/18/comments-coral-project/) among many other sites.
 
 ![Talk Moderation]({{"/images/talk_mod2.png" | prepend: site.baseurl}})
 
@@ -24,7 +24,7 @@ Online comments are broken. Our open source Talk tool rethinks how moderation, c
 
 **What makes Talk different?**
 
-Everything in Talk is based on rigorous user testing and our ongoing research into healthy online communities. [Read our goals for Talk.](https://blog.coralproject.net/our-goals-for-talk/)
+Everything in Talk is based on [our ongoing research](https://coralproject.net/research.html) into healthy online communities. It's based on [a clear vision to improve engagement online.(https://blog.coralproject.net/our-goals-for-talk/)
 
 Just as with our other tool [Ask](https://coralproject.net/products/ask.html), Talk is open source, decentralized, and free to use.
 
