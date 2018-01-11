@@ -14,7 +14,7 @@ bg-img-sm: /images/product-sm.jpg
 
 # Talk 
 
-[Talk is now live on The Washington Post.](https://www.washingtonpost.com/pr/wp/2017/09/06/the-washington-post-launches-talk-commenting-platform/)
+Talk is now live [on The Washington Post](https://www.washingtonpost.com/pr/wp/2017/09/06/the-washington-post-launches-talk-commenting-platform/), [the Wall Street Journal](https://www.wsj.com/articles/a-wsj-commenting-experiment-1510164431), and [The Intercept](https://theintercept.com/2017/12/18/comments-coral-project/) among many other sites.
 
 ![Talk Moderation]({{"/images/talk_mod2.png" | prepend: site.baseurl}})
 
