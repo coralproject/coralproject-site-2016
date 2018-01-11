@@ -93,6 +93,7 @@ For Publishers:
 * **Easy translation options.** We probably already speak your language - and if we don't, you can help by adding it to our list. 
 * …and much more
  
+&nbsp; 
 
 * [Install Talk on your own server](https://coralproject.github.io/talk/index.html)
 * [See Talk in action on our blog](https://blog.coralproject.net/the-empty-box/)
