@@ -45,7 +45,7 @@ For Moderators:
 * **Search by article title or author.** Quickly find comment streams to moderate.
 * **Display clear behavioral guidelines.** Set the tone and establish the rules of the road.
 * **Automatically close comments after a set period.** 
-… and much more
+* …and much more
 
 For Commenters:
 
@@ -57,8 +57,7 @@ For Commenters:
 * **Staff badges identify journalists' replies.**
 * **Link to a single discussion.** Share the link and watch the conversation in real time.
 * **Instant updates.** No need to refresh to see the latest comments.
-
-… and much more
+* …and much more
 
 
 For Journalists:
@@ -67,7 +66,7 @@ For Journalists:
 * **Staff badges help you stand out in the conversation.**
 * **View a commenter's history for context about a potential source.** 
 * **Use Talk as a Q+A / Ask Me Anything-style platform.** Comments is only the beginning.
-… and much more
+* …and much more
 
 For Developers:
 
@@ -78,7 +77,7 @@ For Developers:
 * **Powered by open source databases MongoDB and Redis.**
 * **Uses the latest front end technology: React, websockets, GraphQL.**
 * **Support available from our team via [online ticketing system.](https://support.coralproject.net/hc/en-us/requests/new)** 
-… and much more
+* …and much more
 
 For Publishers:
 
@@ -92,7 +91,7 @@ For Publishers:
 * **Grant subscribers special commenter badges.** Reward those users who pay - and encourage others to join them.
 * **Use Plugins to experiment with different functionality across the site.** Try out certain features on different stories.
 * **Easy translation options.** We probably already speak your language - and if we don't, you can help by adding it to our list. 
-… and much more
+* …and much more
 
 * [Install Talk on your own server](https://coralproject.github.io/talk/index.html)
 * [See Talk in action on our blog](https://blog.coralproject.net/the-empty-box/)
