@@ -8,7 +8,7 @@ bg-img-sm: /images/coc-sm.jpg
 ---
 # Code of Conduct
 
-We expect everyone contributing to The Coral Project to follow this code of conduct. That means the team, contractors we employ, contributors, as well as anyone posting to our public or internal-facing channels.
+We expect everyone contributing to The Coral Project to follow this code of conduct. That means the team, contractors we employ, contributors, as well as anyone posting to our public or internal-facing channels. This is in addition to the [Mozilla Community Participation Guidelines.](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 
 We created it not because we anticipate any unacceptable behavior, but because we believe that articulating our values and obligations to one another reinforces the already exceptional level of respect among the team, and because having a code provides us with clear avenues to correct our culture should it ever stray from that course.
 
@@ -69,7 +69,7 @@ Talk to a peer or mentor. Your colleagues are likely to have personal and profes
 
 Contact the project lead or the technical lead. We will work with you to help you figure out how to ensure that any conflict doesn’t interfere with your work, in confidence if you would prefer.
 
-Talk to Chris Lawrence. Chris oversees the project. He can be contacted at [clawrence@mozillafoundation.org](mailto:clawrence@mozillafoundation.org).
+Talk to Angela Plohman. Angela oversees the project. She can be contacted at [angela@mozillafoundation.org](mailto:angela@mozillafoundation.org).
 
 If you feel you have been unfairly accused of violating this code of conduct, you should contact Dan with a concise description of your grievance.
 
