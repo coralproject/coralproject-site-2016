@@ -24,7 +24,7 @@ Online comments are broken. Our open source Talk tool rethinks how moderation, c
 
 **What makes Talk different?**
 
-Everything in Talk is based on [our ongoing research](https://coralproject.net/research.html) into healthy online communities. It's based on [a clear vision to improve engagement online.](https://blog.coralproject.net/our-goals-for-talk/)
+Everything in Talk is based on [our ongoing research](https://coralproject.net/research.html) into healthy online communities. It's based on [a clear vision to improve engagement online.(https://blog.coralproject.net/our-goals-for-talk/)
 
 Just as with our other tool [Ask](https://coralproject.net/products/ask.html), Talk is open source, decentralized, and free to use.
 
