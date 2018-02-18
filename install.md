@@ -21,6 +21,12 @@ To run our products, you can either install them on your own server or buy a hos
 
 <br/><br/>
 
+## Pay for a hosted solution for Talk
+
+* We're partnering with Bocoup, the web platform experts, to offer a hosted solution for Talk. This includes management, support, and upgrades that match your newsroom needs. [Contact Boaz Sender at Bocoup](mailto:boaz@bocoup.com) for more information about Talk hosting. 
+
+<br/><br/>
+
 ## Get us to help you
 
 * We offer paid services to help you migrate your comment data, integration your auth system, build new features, and more. These fees help support our project. To learn about our services, email [Jeff Nelson.](mailto:jeff@mozillafoundation.org) 
@@ -28,6 +34,4 @@ To run our products, you can either install them on your own server or buy a hos
 
 <br/><br/>
 
-## Pay for a hosted solution for Talk
 
-* We're partnering with Bocoup, the web platform experts, to offer different flavors of hosted solution for Talk to match your newsroom needs. [Contact Boaz Sender at Bocoup](mailto:boaz@bocoup.com) for more information about Talk hosting. 
