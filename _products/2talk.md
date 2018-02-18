@@ -16,7 +16,8 @@ bg-img-sm: /images/product-sm.jpg
 
 Publishers using Talk include [The Washington Post](https://www.washingtonpost.com/pr/wp/2017/09/06/the-washington-post-launches-talk-commenting-platform/), [the Wall Street Journal](https://www.wsj.com/articles/a-wsj-commenting-experiment-1510164431), [The Intercept](https://theintercept.com/2017/12/18/comments-coral-project/), [IGN](http://www.ign.com/articles/2018/02/05/a-fresh-start-for-ign-comments), and several local newsrooms including [Register-Guard](http://registerguard.com/rg/opinion/36262277-78/new-commenting-system-faq.html.csp), [Anchorage Daily News](https://www.adn.com/opinions/2017/12/20/were-launching-a-new-system-for-online-reader-comments/), and the [Voice of San Diego](https://www.voiceofsandiego.org/).
 
-=======
+&nbsp; 
+&nbsp; 
 
 Online comments are broken. Our Talk tool rethinks how moderation, comment display, and online conversation function, creating the opportunity for safer, smarter discussions around your work.
 
@@ -28,12 +29,11 @@ Everything in Talk is based on [our ongoing research](https://coralproject.net/r
 
 Just as with our other tool [Ask](https://coralproject.net/products/ask.html), Talk is open source, decentralized, and free to use.
 
+## Features
 
-**Features**
+Our plugin architecture gives publishers incredible flexibility to select the features that make sense for your community - either across your site, or on a single article. 
 
-Our flexible plugin architecture allows publishers to select the features that make sense to them - either across their site, or on a single article. 
-
-Commenters
+**For Commenters**
 
 * Identify journalists in the conversation
 * Mute annoying voices
@@ -43,7 +43,7 @@ Commenters
 * See new comment alerts instantly
 * Manage separate identities on each site
 
-Moderators: 
+**For Moderators**
 
 * Feature the best comments and filter out the worst 
 * Use AI-assisted moderation to identify problems quickly
@@ -51,7 +51,7 @@ Moderators:
 * Integrates with industry-leading spam and abuse technologies
 * Moderate faster via Slack integration, keyboard shortcuts, and more
 
-Publishers:
+**For Publishers**
 
 * Own and manage all of your users' data
 * Connect to your existing login system 
@@ -60,7 +60,7 @@ Publishers:
 * Translate into any language your audience speaks
 
 &nbsp; 
-=======
+
 We’ve designed it to help publishers of all sizes host and manage conversations on their sites in whatever ways that they want to do it. And like everything we make, only you own your data, and our code is 100% open source.
 
 * [Install Talk on your own server](https://coralproject.github.io/talk/index.html)
