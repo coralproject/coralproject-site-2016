@@ -14,11 +14,19 @@ bg-img-sm: /images/product-sm.jpg
 
 # Talk 
 
+<<<<<<< HEAD
 Talk is now live on [The Washington Post](https://www.washingtonpost.com/pr/wp/2017/09/06/the-washington-post-launches-talk-commenting-platform/), [the Wall Street Journal](https://www.wsj.com/articles/a-wsj-commenting-experiment-1510164431), and [The Intercept](https://theintercept.com/2017/12/18/comments-coral-project/) among many other sites.
+=======
+Online comments are broken. Our Talk tool rethinks how moderation, comment display, and conversation function, creating the opportunity for safer, smarter discussions around your work.
+
+[Talk is now live on The Washington Post.](https://www.washingtonpost.com/pr/wp/2017/09/06/the-washington-post-launches-talk-commenting-platform/)
+>>>>>>> parent of eb76c24... New text
 
 ![Talk Moderation]({{"/images/talk/talk_mod.png" | prepend: site.baseurl}})
 
+To create Talk, we’ve carried out [an enormous amount of research](https://coralproject.net/research.html) into the design and function of online comment spaces, and how they can better connect with the work of journalists. 
 
+<<<<<<< HEAD
 Online comments are broken. Our open source Talk tool rethinks how moderation, comment display, and conversation function, creating the opportunity for safer, smarter discussions around your work.
 
 
@@ -89,9 +97,16 @@ For Developers:
 * **Uses the latest front end technology: React, websockets, GraphQL.**
 * **Support available from our team via [online ticketing system.](https://support.coralproject.net/hc/en-us/requests/new)** 
 * …and much more
+=======
+We’ve built a streamlined system that can improve how people behave and interact in the comments space, and allow moderators to more easily identify and remove disruptive comments.
 
-For Publishers:
+{: .center}
+![Talk Comments]({{"/images/talk_box_shadow.jpg" | prepend: site.baseurl}})
+>>>>>>> parent of eb76c24... New text
 
+Talk is lightweight, secure, flexible, and responsive. It’s also fully extensible with a RESTful and Graph API and a plugin architecture that includes webhooks. 
+
+<<<<<<< HEAD
 <div class="talkimg"><img src="/images/talk/talk_intercept.png"/></div>
 
 * **Small embed keeps page load fast.**
@@ -107,6 +122,9 @@ For Publishers:
 * …and much more
  
 &nbsp; 
+=======
+We’ve designed it to help publishers of all sizes host and manage conversations on their sites in whatever ways that they want to do it. And like everything we make, only you own your data, and our code is 100% open source.
+>>>>>>> parent of eb76c24... New text
 
 * [Install Talk on your own server](https://coralproject.github.io/talk/index.html)
 * [See Talk in action on our blog](https://blog.coralproject.net/the-empty-box/)
