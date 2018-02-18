@@ -27,7 +27,9 @@ Online comments are broken. Our Talk tool rethinks how moderation, comment displ
 
 Everything in Talk is based on [our ongoing research](https://coralproject.net/research.html) into healthy online communities. It's based on [a clear vision to improve engagement online.](https://blog.coralproject.net/our-goals-for-talk/)
 
-Just as with our other tool [Ask](https://coralproject.net/products/ask.html), Talk is open source, decentralized, and free to use.
+Just as with our other tool [Ask](https://coralproject.net/products/ask.html), Talk is open source, decentralized, and free to use. [You can read more about the benefits of open source software here.](https://www.zivtech.com/blog/benefits-open-source-software)
+
+&nbsp; 
 
 ## Features
 
