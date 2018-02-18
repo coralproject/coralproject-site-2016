@@ -13,7 +13,7 @@ The Coral Project brings journalists and the communities they serve closer toget
 
 We do this to raise public trust in journalism, to increase the diversity of voices and experiences reflected in news reporting, and to improve journalism by making it more relevant to people’s lives. Because journalism needs everyone. 
 
-We fulfill this mission through open-source tools and practices for newsrooms of all sizes. Our software is currently in use in more than a dozen newsrooms, with many more coming soon. We also [run events](https://blog.coralproject.net/beyond-comments-our-first-event/), publish [academic research](https://coralproject.net/research.html) and [guides to best practices](https://blog.coralproject.net/), and we share everything we do online, for free. [We can't do it without your help.](https://coralproject.net/contribute.html)
+We fulfill this mission through open-source tools and practices for newsrooms of all sizes. Our software is currently in use in more than 30 newsrooms around the world. We also [run events](https://blog.coralproject.net/beyond-comments-our-first-event/), publish [academic research](https://coralproject.net/research.html) and [guides to best practices](https://blog.coralproject.net/), and we share everything we do online, for free. [We can't do it without your help.](https://coralproject.net/contribute.html)
 
 We have three open-source products that you can use:
 
