@@ -10,7 +10,7 @@ bg-img-sm: /images/contact2-sm.jpg
 
 # Get in touch
 
-To learn about our products, for support installing them, or if you have other technical questions, email [Jeff Nelson.](mailto:jeff@mozillafoundation.org)
+To learn about our products, for support installing them, or if you have other technical questions, email [our Support Team.](mailto:support@coralproject.zendesk.com)
 
 To discuss new features and share ideas about effective online communities, [visit our community.](https://community.coralproject.net)
 

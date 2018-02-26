@@ -17,13 +17,13 @@ To run our products, you can either install them on your own server or buy a hos
 
 * Read our [Talk technical documentation.](https://coralproject.github.io/talk/index.html)
 * Read our [Ask technical documentation.](https://docs.coralproject.net/products/ask/)
-* If you need assistance, please email [Jeff Nelson, our Integrations Engineer.](mailto:jeff@mozillafoundation.org)
+* If you need assistance, please email [our Support Team.](mailto:support@coralproject.zendesk.com)
 
 <br/><br/>
 
 ## Pay for a hosted solution for Talk
 
-* We're partnering with Bocoup, the web platform experts, to offer a hosted solution for Talk. This includes management, support, and upgrades that match your newsroom needs. [Contact Boaz Sender at Bocoup](mailto:boaz@bocoup.com) for more information about Talk hosting. 
+* We're partnering with Bocoup, the web platform experts, to offer a hosted solution for Talk. This includes management, support, and upgrades that match your newsroom needs. [Contact Boaz Sender at Bocoup](mailto:boaz@bocoup.com) for more information about Talk hosting.
 
 <br/><br/>
 
@@ -33,5 +33,3 @@ To run our products, you can either install them on your own server or buy a hos
 * We offer discounts for small and non-profit newsrooms.
 
 <br/><br/>
-
-
