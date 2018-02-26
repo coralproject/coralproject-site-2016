@@ -37,15 +37,15 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 * Submit a feature request by first reading the [“Future Features” column on our Trello board](http://trello.com/b/hAtt6ujX/ask), then sharing ideas [on our community board](https://community.coralproject.net/c/the-coral-project/product-ask) or [in the form below](#other-ideas-and-bug-reports) *(which is powered by Ask btw, nbd)*
 * Report bugs [by checking our GitHub issues](https://github.com/coralproject/ask/issues), then submitting a new issue if there isn’t one already. Or you can report a bug [in the form below](#other-ideas-and-bug-reports)
-* Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
+* Email [our Support Team](mailto:support@coralproject.zendesk.com) if you’d like any help/direction
 
 ## Contribute by coding
 
-The Ask stack is Go, React, Redux, Mongo. 
+The Ask stack is Go, React, Redux, Mongo.
 
 * Build a feature by [looking at the “Future Features” column on our Trello board](http://trello.com/b/hAtt6ujX/ask) and selecting one you’d like to build. Submit a relevant GitHub issue [if there isn’t one already](https://github.com/coralproject/ask/issues)
 * Fix a bug by submitting a GitHub issue [if there isn’t one already](https://github.com/coralproject/ask/issues), then commenting in the relevant issue to let everyone know you’re working on it
-* Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you’d like any help/direction
+* Email [our Support Team](mailto:support@coralproject.zendesk.com) if you’d like any help/direction
 
 &nbsp;
 &nbsp;
@@ -61,7 +61,7 @@ The Ask stack is Go, React, Redux, Mongo.
 ## Contribute without coding
 
 * Add your thoughts, experiences, feature ideas [to our community](https://community.coralproject.net/c/the-coral-project/product-talk)
-* Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you'd like any help/direction
+* Email [our Support Team](mailto:support@coralproject.zendesk.com) if you'd like any help/direction
 * [Suggest ideas in the form below](#other-ideas-and-bug-reports)
 
 ## Contribute by coding
@@ -71,7 +71,7 @@ The Talk stack is Node, React, Redux, Mongo, Redis.
 * [Read our technical documentation](https://coralproject.github.io/talk/index.html)
 * [Visit our GitHub repo](https://github.com/coralproject/talk)
 * See [current user stories we're working on](https://www.pivotaltracker.com/n/projects/1863625) - let us know if you're ready to take one on
-* Email [Jeff Nelson](mailto:jeff@mozillafoundation.org) if you'd like any help/direction, or information about future features that need development help.
+* Email [our Support Team](mailto:support@coralproject.zendesk.com) if you'd like any help/direction, or information about future features that need development help.
 
 
 
