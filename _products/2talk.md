@@ -65,7 +65,7 @@ Our plugin architecture gives publishers incredible flexibility to select the fe
 
 We’ve designed it to help publishers of all sizes host and manage conversations on their sites in whatever ways that they want to do it. And like everything we make, only you own your data, and our code is 100% open source.
 
-* [Install Talk on your own server](https://coralproject.github.io/talk/index.html)
+* [Install Talk on your own server](https://docs.coralproject.net/talk/)
 * [Get a fully-hosted solution from our partner](https://coralproject.net/install.html)
 * [Read our release notes and latest features](https://github.com/coralproject/talk/releases)
 * [Read our goals for Talk](https://blog.coralproject.net/our-goals-for-talk/)
