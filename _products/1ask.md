@@ -47,7 +47,7 @@ Stronger user privacy:
 
 Ask is open source and fully customizable. You own your install of Ask, and can optimize it for your needs.
 
-* [Install Ask](https://docs.coralproject.net/products/ask/)
+* [Install Ask](https://docs.coralproject.net/ask/)
 * [Read Ask's User Guide](https://docs.coralproject.net/products/askuserguide/)
 * [Install our Ask WordPress plugin](https://github.com/coralproject/ask-wp-plugin) _(requires Ask install)_
 * [Read advice on using forms effectively](https://guides.coralproject.net/forms-audience-engagement/)
