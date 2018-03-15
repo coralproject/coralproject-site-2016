@@ -15,8 +15,8 @@ To run our products, you can either install them on your own server or buy a hos
 
 ## Install yourself
 
-* Read our [Talk technical documentation.](https://coralproject.github.io/talk/index.html)
-* Read our [Ask technical documentation.](https://docs.coralproject.net/products/ask/)
+* Read our [Talk technical documentation.](https://docs.coralproject.net/talk)
+* Read our [Ask technical documentation.](https://docs.coralproject.net/ask)
 * If you need assistance, please email [our Support Team.](mailto:support@coralproject.zendesk.com)
 
 <br/><br/>
