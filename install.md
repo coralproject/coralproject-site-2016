@@ -23,7 +23,7 @@ To run our products, you can either install them on your own server or buy a hos
 
 ## Pay for a hosted solution for Talk
 
-* We're partnering with Bocoup, the web platform experts, to offer a hosted solution for Talk. This includes management, support, and upgrades that match your newsroom needs. [Contact Boaz Sender at Bocoup](mailto:boaz@bocoup.com) for more information about Talk hosting.
+* We're partnering with Bocoup, the web platform experts, to offer a hosted solution for Talk. This includes management, support, and upgrades that match your newsroom needs. [Contact Boaz Sender at Bocoup](mailto:coral@bocoup.com) for more information about Talk hosting.
 
 <br/><br/>
 
