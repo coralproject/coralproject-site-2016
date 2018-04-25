@@ -35,7 +35,7 @@ Before you begin, please review our [Code of Conduct.](code-of-conduct.html)
 
 ## Contribute without coding
 
-* Submit a feature request by first reading the [“Future Features” column on our Trello board](http://trello.com/b/hAtt6ujX/ask), then sharing ideas [on our community board](https://community.coralproject.net/c/the-coral-project/product-ask) or [in the form below](#other-ideas-and-bug-reports) *(which is powered by Ask btw, nbd)*
+* Submit a feature request by first reading the [“Future Features” column on our Trello board](http://trello.com/b/hAtt6ujX/ask), then sharing ideas [on our community board](https://community.coralproject.net/c/ask) or [in the form below](#other-ideas-and-bug-reports) *(which is powered by Ask btw, nbd)*
 * Report bugs [by checking our GitHub issues](https://github.com/coralproject/ask/issues), then submitting a new issue if there isn’t one already. Or you can report a bug [in the form below](#other-ideas-and-bug-reports)
 * Email [our Support Team](mailto:support@coralproject.zendesk.com) if you’d like any help/direction
 
@@ -60,7 +60,7 @@ The Ask stack is Go, React, Redux, Mongo.
 
 ## Contribute without coding
 
-* Add your thoughts, experiences, feature ideas [to our community](https://community.coralproject.net/c/the-coral-project/product-talk)
+* Add your thoughts, experiences, feature ideas [to our community](https://community.coralproject.net/c/talk)
 * Email [our Support Team](mailto:support@coralproject.zendesk.com) if you'd like any help/direction
 * [Suggest ideas in the form below](#other-ideas-and-bug-reports)
 
@@ -86,8 +86,8 @@ The Talk stack is Node, React, Redux, Mongo, Redis.
 
 [Read about Guides here.](/products/guides.html)
 
-* Join the discussion about our guides [in our community](https://community.coralproject.net/t/discuss-our-guides-website-here)
-* [Send us ideas for what you want to read / write](https://guides.coralproject.net/about/#Feedback) (and yes, we do pay for articles we commission)
+* Join the discussion about our guides [in our community](https://community.coralproject.net/c/the-coral-project)
+* [Send us ideas for what you want to read / write](https://coralproject.net/contribute.html#other-ideas-and-bug-reports) (and yes, we do pay for articles we commission)
 * [Fill out the form below](#other-ideas-and-bug-reports)
 
 &nbsp;
